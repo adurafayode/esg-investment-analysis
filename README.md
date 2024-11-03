@@ -116,7 +116,7 @@ The analysis generates several key outputs:
 
 ## Notes
 
-- ESG data is scraped from publicly available Sustainalytics ratings
+- ESG data is scraped from publicly available Sustainalytics ratings (currently 780/1393 pages)
 - Market data requires a valid Databento API key
 - Default analysis period is 21 months
 - Strategy assumes equal capital allocation to long and short portfolios

@@ -5,4 +5,4 @@ __pycache__/
 test_scraper.py
 test_databento.py
 test_processor.py
-data/raw/*.csv
+data/raw/esg_ratings_checkpoint_*.csv
