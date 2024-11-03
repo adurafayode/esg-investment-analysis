@@ -1,0 +1,26 @@
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web scraping
+selenium>=4.0.0
+beautifulsoup4>=4.12.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Market data API
+databento>=0.8.0
+
+# HTTP requests and utilities
+requests>=2.31.0
+typing>=3.7.4
+
+# WebDriver management
+webdriver-manager>=4.0.0
+
+# Optional: Jupyter notebooks for interactive analysis
+jupyter>=1.0.0
+notebook>=7.0.0 

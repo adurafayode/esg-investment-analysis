@@ -1,0 +1,1665 @@
+company_name,ticker,esg_score,risk_level,page_number,exchange,clean_ticker,risk_category
+"1-800-FLOWERS.COM, Inc.",NAS:FLWS,22.6,Medium ESG Risk,1,NAS,FLWS,Medium Risk
+"10X Genomics, Inc.",NAS:TXG,22.5,Medium ESG Risk,1,NAS,TXG,Medium Risk
+1st Source Corp.,NAS:SRCE,35.0,High ESG Risk,1,NAS,SRCE,High Risk
+23andMe Holding Co.,NAS:ME,21.4,Medium ESG Risk,1,NAS,ME,Medium Risk
+"2seventy Bio, Inc.",NAS:TSVT,35.9,High ESG Risk,1,NAS,TSVT,High Risk
+"374Water, Inc.",NAS:SCWO,29.2,Medium ESG Risk,2,NAS,SCWO,Medium Risk
+3D Systems Corp.,NYS:DDD,19.5,Low ESG Risk,2,NYS,DDD,Low Risk
+3M Co.,NYS:MMM,40.7,Severe ESG Risk,2,NYS,MMM,High Risk
+"4D Molecular Therapeutics, Inc.",NAS:FDMT,27.4,Medium ESG Risk,3,NAS,FDMT,Medium Risk
+"5E Advanced Materials, Inc.",NAS:FEAM,42.0,Severe ESG Risk,3,NAS,FEAM,High Risk
+"89bio, Inc.",NAS:ETNB,32.9,High ESG Risk,4,NAS,ETNB,High Risk
+"8x8, Inc.",NAS:EGHT,29.9,Medium ESG Risk,4,NAS,EGHT,Medium Risk
+"908 Devices, Inc.",NAS:MASS,30.2,High ESG Risk,4,NAS,MASS,High Risk
+"A-Mark Precious Metals, Inc.",NAS:AMRK,30.3,High ESG Risk,4,NAS,AMRK,High Risk
+A. O. Smith Corp.,NYS:AOS,26.8,Medium ESG Risk,4,NYS,AOS,Medium Risk
+"A10 Networks, Inc.",NYS:ATEN,20.5,Medium ESG Risk,5,NYS,ATEN,Medium Risk
+"Aadi Bioscience, Inc.",NAS:AADI,26.4,Medium ESG Risk,5,NAS,AADI,Medium Risk
+"AAON, Inc.",NAS:AAON,21.5,Medium ESG Risk,6,NAS,AAON,Medium Risk
+AAR Corp.,NYS:AIR,33.0,High ESG Risk,6,NYS,AIR,High Risk
+Abbott Laboratories,NYS:ABT,22.2,Medium ESG Risk,7,NYS,ABT,Medium Risk
+"AbbVie, Inc.",NYS:ABBV,26.1,Medium ESG Risk,7,NYS,ABBV,Medium Risk
+"AbCellera Biologics, Inc.",NAS:ABCL,28.7,Medium ESG Risk,7,NAS,ABCL,Medium Risk
+Abercrombie & Fitch Co.,NYS:ANF,16.6,Low ESG Risk,8,NYS,ANF,Low Risk
+"ABM Industries, Inc.",NYS:ABM,14.3,Low ESG Risk,9,NYS,ABM,Low Risk
+Acacia Research Corp.,NAS:ACTG,18.8,Low ESG Risk,10,NAS,ACTG,Low Risk
+"Academy Sports & Outdoors, Inc.",NAS:ASO,15.9,Low ESG Risk,11,NAS,ASO,Low Risk
+"Acadia Healthcare Co., Inc.",NAS:ACHC,29.2,Medium ESG Risk,11,NAS,ACHC,Medium Risk
+"ACADIA Pharmaceuticals, Inc.",NAS:ACAD,24.1,Medium ESG Risk,11,NAS,ACAD,Medium Risk
+Acadia Realty Trust,NYS:AKR,13.9,Low ESG Risk,11,NYS,AKR,Low Risk
+"Accel Entertainment, Inc.",NYS:ACEL,19.5,Low ESG Risk,11,NYS,ACEL,Low Risk
+Accenture Plc,NYS:ACN,11.9,Low ESG Risk,12,NYS,ACN,Low Risk
+ACCO Brands Corp.,NYS:ACCO,5.7,Negligible ESG Risk,12,NYS,ACCO,Low Risk
+"Accolade, Inc.",NAS:ACCD,20.6,Medium ESG Risk,12,NAS,ACCD,Medium Risk
+"Accuray, Inc.",NAS:ARAY,31.6,High ESG Risk,13,NAS,ARAY,High Risk
+"ACI Worldwide, Inc.",NAS:ACIW,22.4,Medium ESG Risk,13,NAS,ACIW,Medium Risk
+"Aclaris Therapeutics, Inc.",NAS:ACRS,32.7,High ESG Risk,14,NAS,ACRS,High Risk
+"ACM Research, Inc.",NAS:ACMR,32.1,High ESG Risk,14,NAS,ACMR,High Risk
+ACNB Corp.,NAS:ACNB,30.6,High ESG Risk,14,NAS,ACNB,High Risk
+"Acrivon Therapeutics, Inc.",NAS:ACRV,35.8,High ESG Risk,14,NAS,ACRV,High Risk
+"Acuity Brands, Inc.",NYS:AYI,18.0,Low ESG Risk,15,NYS,AYI,Low Risk
+Acushnet Holdings Corp.,NYS:GOLF,13.7,Low ESG Risk,15,NYS,GOLF,Low Risk
+"ACV Auctions, Inc.",NAS:ACVA,30.0,Medium ESG Risk,15,NAS,ACVA,Medium Risk
+AdaptHealth Corp.,NAS:AHCO,35.2,High ESG Risk,17,NAS,AHCO,High Risk
+Adaptive Biotechnologies Corp.,NAS:ADPT,18.9,Low ESG Risk,17,NAS,ADPT,Low Risk
+Addus HomeCare Corp.,NAS:ADUS,18.5,Low ESG Risk,18,NAS,ADUS,Low Risk
+Adecoagro SA,NYS:AGRO,27.6,Medium ESG Risk,18,NYS,AGRO,Medium Risk
+"Adeia, Inc.",NAS:ADEA,31.6,High ESG Risk,18,NAS,ADEA,High Risk
+"Adicet Bio, Inc.",NAS:ACET,26.6,Medium ESG Risk,18,NAS,ACET,Medium Risk
+Adient plc,NYS:ADNT,13.0,Low ESG Risk,19,NYS,ADNT,Low Risk
+"ADMA Biologics, Inc.",NAS:ADMA,34.5,High ESG Risk,19,NAS,ADMA,High Risk
+"Adobe, Inc.",NAS:ADBE,14.1,Low ESG Risk,20,NAS,ADBE,Low Risk
+ADS-TEC Energy Plc,NAS:ADSE,28.5,Medium ESG Risk,20,NAS,ADSE,Medium Risk
+"ADT, Inc.",NYS:ADT,22.4,Medium ESG Risk,20,NYS,ADT,Medium Risk
+"Adtalem Global Education, Inc.",NYS:ATGE,12.1,Low ESG Risk,20,NYS,ATGE,Low Risk
+"ADTRAN Holdings, Inc.",NAS:ADTN,22.1,Medium ESG Risk,20,NAS,ADTN,Medium Risk
+"Advance Auto Parts, Inc.",NYS:AAP,10.7,Low ESG Risk,21,NYS,AAP,Low Risk
+"Advanced Drainage Systems, Inc.",NYS:WMS,24.8,Medium ESG Risk,21,NYS,WMS,Medium Risk
+"Advanced Energy Industries, Inc.",NAS:AEIS,17.8,Low ESG Risk,21,NAS,AEIS,Low Risk
+"Advanced Micro Devices, Inc.",NAS:AMD,13.8,Low ESG Risk,22,NAS,AMD,Low Risk
+"Advansix, Inc.",NYS:ASIX,21.6,Medium ESG Risk,23,NYS,ASIX,Medium Risk
+"Advantage Solutions, Inc. (California)",NAS:ADV,20.5,Medium ESG Risk,23,NAS,ADV,Medium Risk
+AECOM,NYS:ACM,27.0,Medium ESG Risk,24,NYS,ACM,Medium Risk
+Aehr Test Systems,NAS:AEHR,22.2,Medium ESG Risk,24,NAS,AEHR,Medium Risk
+AerCap Holdings NV,NYS:AER,17.8,Low ESG Risk,26,NYS,AER,Low Risk
+"Aerovate Therapeutics, Inc.",NAS:AVTE,30.3,High ESG Risk,27,NAS,AVTE,High Risk
+"AeroVironment, Inc.",NAS:AVAV,31.3,High ESG Risk,27,NAS,AVAV,High Risk
+AerSale Corp.,NAS:ASLE,27.7,Medium ESG Risk,27,NAS,ASLE,Medium Risk
+"Aeva Technologies, Inc.",NYS:AEVA,37.2,High ESG Risk,27,NYS,AEVA,High Risk
+"AFC Gamma, Inc.",NAS:AFCG,26.3,Medium ESG Risk,28,NAS,AFCG,Medium Risk
+"Affiliated Managers Group, Inc.",NYS:AMG,19.6,Low ESG Risk,28,NYS,AMG,Low Risk
+"Affirm Holdings, Inc.",NAS:AFRM,22.9,Medium ESG Risk,28,NAS,AFRM,Medium Risk
+"Aflac, Inc.",NYS:AFL,17.5,Low ESG Risk,28,NYS,AFL,Low Risk
+AGCO Corp.,NYS:AGCO,17.1,Low ESG Risk,30,NYS,AGCO,Low Risk
+"Agenus, Inc.",NAS:AGEN,36.9,High ESG Risk,30,NAS,AGEN,High Risk
+"Agilent Technologies, Inc.",NYS:A,11.4,Low ESG Risk,31,NYS,A,Low Risk
+"Agilon Health, Inc.",NYS:AGL,23.5,Medium ESG Risk,31,NYS,AGL,Medium Risk
+"Agilysys, Inc.",NAS:AGYS,13.2,Low ESG Risk,31,NAS,AGYS,Low Risk
+"Agios Pharmaceuticals, Inc.",NAS:AGIO,26.6,Medium ESG Risk,31,NAS,AGIO,Medium Risk
+AGNC Investment Corp.,NAS:AGNC,8.7,Negligible ESG Risk,31,NAS,AGNC,Low Risk
+Agree Realty Corp.,NYS:ADC,15.2,Low ESG Risk,32,NYS,ADC,Low Risk
+Air Lease Corp.,NYS:AL,13.4,Low ESG Risk,35,NYS,AL,Low Risk
+"Air Products & Chemicals, Inc.",NYS:APD,14.8,Low ESG Risk,35,NYS,APD,Low Risk
+"Air Transport Services Group, Inc.",NAS:ATSG,23.6,Medium ESG Risk,36,NAS,ATSG,Medium Risk
+"Airbnb, Inc.",NAS:ABNB,23.7,Medium ESG Risk,36,NAS,ABNB,Medium Risk
+"AirSculpt Technologies, Inc.",NAS:AIRS,33.1,High ESG Risk,37,NAS,AIRS,High Risk
+"Akamai Technologies, Inc.",NAS:AKAM,13.3,Low ESG Risk,38,NAS,AKAM,Low Risk
+"Akero Therapeutics, Inc.",NAS:AKRO,37.6,High ESG Risk,39,NAS,AKRO,High Risk
+"Akoustis Technologies, Inc.",NAS:AKTS,24.4,Medium ESG Risk,39,NAS,AKTS,Medium Risk
+"Akoya Biosciences, Inc.",NAS:AKYA,31.8,High ESG Risk,39,NAS,AKYA,High Risk
+"Alamo Group, Inc.",NYS:ALG,22.4,Medium ESG Risk,42,NYS,ALG,Medium Risk
+"Alarm.com Holdings, Inc.",NAS:ALRM,24.4,Medium ESG Risk,42,NAS,ALRM,Medium Risk
+"Alaska Air Group, Inc.",NYS:ALK,25.2,Medium ESG Risk,42,NYS,ALK,Medium Risk
+Albany International Corp.,NYS:AIN,19.4,Low ESG Risk,42,NYS,AIN,Low Risk
+Albemarle Corp.,NYS:ALB,20.1,Medium ESG Risk,42,NYS,ALB,Medium Risk
+"Albertsons Cos., Inc.",NYS:ACI,31.9,High ESG Risk,43,NYS,ACI,High Risk
+Alcoa Corp.,NYS:AA,25.1,Medium ESG Risk,43,NYS,AA,Medium Risk
+"Aldeyra Therapeutics, Inc.",NAS:ALDX,29.3,Medium ESG Risk,43,NAS,ALDX,Medium Risk
+"Alector, Inc.",NAS:ALEC,27.3,Medium ESG Risk,44,NAS,ALEC,Medium Risk
+Alerus Financial Corp.,NAS:ALRS,29.8,Medium ESG Risk,44,NAS,ALRS,Medium Risk
+"Alexander & Baldwin, Inc.",NYS:ALEX,21.2,Medium ESG Risk,44,NYS,ALEX,Medium Risk
+"Alexander's, Inc.",NYS:ALX,20.2,Medium ESG Risk,44,NYS,ALX,Medium Risk
+"Alexandria Real Estate Equities, Inc.",NYS:ARE,13.1,Low ESG Risk,45,NYS,ARE,Low Risk
+"Alight, Inc.",NYS:ALIT,17.7,Low ESG Risk,46,NYS,ALIT,Low Risk
+"Align Technology, Inc.",NAS:ALGN,18.6,Low ESG Risk,46,NAS,ALGN,Low Risk
+"Alignment Healthcare, Inc.",NAS:ALHC,23.2,Medium ESG Risk,47,NAS,ALHC,Medium Risk
+"Alkami Technology, Inc.",NAS:ALKT,27.4,Medium ESG Risk,47,NAS,ALKT,Medium Risk
+Alkermes Plc,NAS:ALKS,22.8,Medium ESG Risk,48,NAS,ALKS,Medium Risk
+"Allakos, Inc.",NAS:ALLK,32.8,High ESG Risk,48,NAS,ALLK,High Risk
+"Allbirds, Inc.",NAS:BIRD,18.3,Low ESG Risk,48,NAS,BIRD,Low Risk
+Allegiant Travel Co.,NAS:ALGT,34.1,High ESG Risk,48,NAS,ALGT,High Risk
+Allegion Plc,NYS:ALLE,19.8,Low ESG Risk,48,NYS,ALLE,Low Risk
+"Allegro MicroSystems, Inc.",NAS:ALGM,14.1,Low ESG Risk,49,NAS,ALGM,Low Risk
+"ALLETE, Inc.",NYS:ALE,32.8,High ESG Risk,49,NYS,ALE,High Risk
+Alliance Resource Partners LP,NAS:ARLP,54.6,Severe ESG Risk,49,NAS,ARLP,High Risk
+Alliant Energy Corp.,NAS:LNT,17.1,Low ESG Risk,49,NAS,LNT,Low Risk
+"Allient, Inc.",NAS:ALNT,23.4,Medium ESG Risk,50,NAS,ALNT,Medium Risk
+"Allison Transmission Holdings, Inc.",NYS:ALSN,28.1,Medium ESG Risk,51,NYS,ALSN,Medium Risk
+"Allogene Therapeutics, Inc.",NAS:ALLO,25.2,Medium ESG Risk,51,NAS,ALLO,Medium Risk
+"AlloVir, Inc.",NAS:ALVR,31.3,High ESG Risk,51,NAS,ALVR,High Risk
+"Ally Financial, Inc.",NYS:ALLY,22.6,Medium ESG Risk,51,NYS,ALLY,Medium Risk
+"Alnylam Pharmaceuticals, Inc.",NAS:ALNY,26.7,Medium ESG Risk,52,NAS,ALNY,Medium Risk
+Alpha & Omega Semiconductor Ltd.,NAS:AOSL,29.3,Medium ESG Risk,53,NAS,AOSL,Medium Risk
+"Alpha Metallurgical Resources, Inc.",NYS:AMR,52.0,Severe ESG Risk,53,NYS,AMR,High Risk
+"Alphabet, Inc.",NAS:GOOGL,23.9,Medium ESG Risk,54,NAS,GOOGL,Medium Risk
+"Alphatec Holdings, Inc.",NAS:ATEC,33.7,High ESG Risk,54,NAS,ATEC,High Risk
+"Alpine Income Property Trust, Inc.",NYS:PINE,23.0,Medium ESG Risk,54,NYS,PINE,Medium Risk
+"Alta Equipment Group, Inc.",NYS:ALTG,31.7,High ESG Risk,55,NYS,ALTG,High Risk
+"Altair Engineering, Inc.",NAS:ALTR,24.9,Medium ESG Risk,55,NAS,ALTR,Medium Risk
+"Altice USA, Inc.",NYS:ATUS,22.6,Medium ESG Risk,57,NYS,ATUS,Medium Risk
+"Altimmune, Inc.",NAS:ALT,37.1,High ESG Risk,57,NAS,ALT,High Risk
+"Altria Group, Inc.",NYS:MO,31.3,High ESG Risk,57,NYS,MO,High Risk
+"Altus Power, Inc.",NYS:AMPS,25.5,Medium ESG Risk,57,NYS,AMPS,Medium Risk
+Alvotech,NAS:ALVO,29.5,Medium ESG Risk,58,NAS,ALVO,Medium Risk
+"ALX Oncology Holdings, Inc.",NAS:ALXO,35.9,High ESG Risk,58,NAS,ALXO,High Risk
+Amalgamated Financial Corp.,NAS:AMAL,19.2,Low ESG Risk,58,NAS,AMAL,Low Risk
+"Amazon.com, Inc.",NAS:AMZN,29.0,Medium ESG Risk,59,NAS,AMZN,Medium Risk
+"Ambac Financial Group, Inc.",NYS:AMBC,27.0,Medium ESG Risk,59,NYS,AMBC,Medium Risk
+"Ambarella, Inc.",NAS:AMBA,34.6,High ESG Risk,59,NAS,AMBA,High Risk
+"AMC Entertainment Holdings, Inc.",NYS:AMC,18.1,Low ESG Risk,60,NYS,AMC,Low Risk
+"AMC Networks, Inc.",NAS:AMCX,24.9,Medium ESG Risk,60,NAS,AMCX,Medium Risk
+Amcor Plc,NYS:AMCR,14.7,Low ESG Risk,60,NYS,AMCR,Low Risk
+Amdocs Ltd.,NAS:DOX,13.9,Low ESG Risk,60,NAS,DOX,Low Risk
+"Amedisys, Inc.",NAS:AMED,21.7,Medium ESG Risk,61,NAS,AMED,Medium Risk
+"Amerant Bancorp, Inc.",NYS:AMTB,31.9,High ESG Risk,61,NYS,AMTB,High Risk
+Ameren Corp.,NYS:AEE,26.2,Medium ESG Risk,61,NYS,AEE,Medium Risk
+"Ameresco, Inc.",NYS:AMRC,30.7,High ESG Risk,61,NYS,AMRC,High Risk
+"America's Car-Mart, Inc.",NAS:CRMT,12.7,Low ESG Risk,61,NAS,CRMT,Low Risk
+"American Airlines Group, Inc.",NAS:AAL,23.7,Medium ESG Risk,61,NAS,AAL,Medium Risk
+"American Assets Trust, Inc.",NYS:AAT,18.7,Low ESG Risk,62,NYS,AAT,Low Risk
+"American Axle & Manufacturing Holdings, Inc.",NYS:AXL,15.1,Low ESG Risk,62,NYS,AXL,Low Risk
+"American Eagle Outfitters, Inc.",NYS:AEO,15.2,Low ESG Risk,62,NYS,AEO,Low Risk
+"American Electric Power Co., Inc.",NAS:AEP,22.1,Medium ESG Risk,62,NAS,AEP,Medium Risk
+American Express Co.,NYS:AXP,18.3,Low ESG Risk,62,NYS,AXP,Low Risk
+"American Financial Group, Inc.",NYS:AFG,29.4,Medium ESG Risk,62,NYS,AFG,Medium Risk
+American Homes 4 Rent,NYS:AMH,11.6,Low ESG Risk,62,NYS,AMH,Low Risk
+"American International Group, Inc.",NYS:AIG,23.6,Medium ESG Risk,62,NYS,AIG,Medium Risk
+"American Realty Investors, Inc.",NYS:ARL,26.1,Medium ESG Risk,63,NYS,ARL,Medium Risk
+"American Software, Inc.",NAS:LGTY,23.9,Medium ESG Risk,63,NAS,LGTY,Medium Risk
+American States Water Co.,NYS:AWR,32.5,High ESG Risk,63,NYS,AWR,High Risk
+American Tower Corp.,NYS:AMT,12.6,Low ESG Risk,63,NYS,AMT,Low Risk
+American Vanguard Corp.,NYS:AVD,41.5,Severe ESG Risk,63,NYS,AVD,High Risk
+"American Water Works Co., Inc.",NYS:AWK,19.1,Low ESG Risk,63,NYS,AWK,Low Risk
+American Well Corp.,NYS:AMWL,23.9,Medium ESG Risk,64,NYS,AMWL,Medium Risk
+American Woodmark Corp.,NAS:AMWD,34.3,High ESG Risk,64,NAS,AMWD,High Risk
+"Americold Realty Trust, Inc.",NYS:COLD,14.1,Low ESG Risk,64,NYS,COLD,Low Risk
+"Ameriprise Financial, Inc.",NYS:AMP,18.7,Low ESG Risk,64,NYS,AMP,Low Risk
+Ameris Bancorp,NYS:ABCB,31.7,High ESG Risk,64,NYS,ABCB,High Risk
+"AMERISAFE, Inc.",NAS:AMSF,26.6,Medium ESG Risk,64,NAS,AMSF,Medium Risk
+Ames National Corp.,NAS:ATLO,31.2,High ESG Risk,64,NAS,ATLO,High Risk
+"AMETEK, Inc.",NYS:AME,21.1,Medium ESG Risk,64,NYS,AME,Medium Risk
+"Amgen, Inc.",NAS:AMGN,22.8,Medium ESG Risk,65,NAS,AMGN,Medium Risk
+"Amicus Therapeutics, Inc.",NAS:FOLD,27.5,Medium ESG Risk,65,NAS,FOLD,Medium Risk
+"Amkor Technology, Inc.",NAS:AMKR,23.0,Medium ESG Risk,65,NAS,AMKR,Medium Risk
+"AMMO, Inc.",NAS:POWW,16.4,Low ESG Risk,65,NAS,POWW,Low Risk
+"AMN Healthcare Services, Inc.",NYS:AMN,18.7,Low ESG Risk,65,NYS,AMN,Low Risk
+"Amphastar Pharmaceuticals, Inc.",NAS:AMPH,33.4,High ESG Risk,66,NAS,AMPH,High Risk
+Amphenol Corp.,NYS:APH,17.8,Low ESG Risk,66,NYS,APH,Low Risk
+Amplify Energy Corp.,NYS:AMPY,46.3,Severe ESG Risk,67,NYS,AMPY,High Risk
+"Amplitude, Inc.",NAS:AMPL,20.9,Medium ESG Risk,67,NAS,AMPL,Medium Risk
+"Amylyx Pharmaceuticals, Inc.",NAS:AMLX,33.8,High ESG Risk,68,NAS,AMLX,High Risk
+"Analog Devices, Inc.",NAS:ADI,18.3,Low ESG Risk,68,NAS,ADI,Low Risk
+"AnaptysBio, Inc.",NAS:ANAB,25.4,Medium ESG Risk,69,NAS,ANAB,Medium Risk
+Anavex Life Sciences Corp.,NAS:AVXL,29.0,Medium ESG Risk,69,NAS,AVXL,Medium Risk
+"Angel Oak Mortgage REIT, Inc.",NYS:AOMR,24.9,Medium ESG Risk,70,NYS,AOMR,Medium Risk
+"Angi, Inc.",NAS:ANGI,28.4,Medium ESG Risk,70,NAS,ANGI,Medium Risk
+"AngioDynamics, Inc.",NAS:ANGO,29.8,Medium ESG Risk,70,NAS,ANGO,Medium Risk
+"ANI Pharmaceuticals, Inc.",NAS:ANIP,36.3,High ESG Risk,73,NAS,ANIP,High Risk
+"Anika Therapeutics, Inc.",NAS:ANIK,11.7,Low ESG Risk,73,NAS,ANIK,Low Risk
+"Annaly Capital Management, Inc.",NYS:NLY,9.6,Negligible ESG Risk,74,NYS,NLY,Low Risk
+"Annexon, Inc.",NAS:ANNX,33.5,High ESG Risk,74,NAS,ANNX,High Risk
+"ANSYS, Inc.",NAS:ANSS,14.5,Low ESG Risk,75,NAS,ANSS,Low Risk
+"Anterix, Inc.",NAS:ATEX,32.5,High ESG Risk,75,NAS,ATEX,High Risk
+Antero Midstream Corp.,NYS:AM,25.6,Medium ESG Risk,75,NYS,AM,Medium Risk
+Antero Resources Corp.,NYS:AR,34.5,High ESG Risk,75,NYS,AR,High Risk
+"Anywhere Real Estate, Inc.",NYS:HOUS,8.0,Negligible ESG Risk,76,NYS,HOUS,Low Risk
+Aon Plc,NYS:AON,15.3,Low ESG Risk,76,NYS,AON,Low Risk
+APA Corp.,NAS:APA,43.1,Severe ESG Risk,77,NAS,APA,High Risk
+Apartment Investment & Management Co.,NYS:AIV,19.7,Low ESG Risk,78,NYS,AIV,Low Risk
+"Apellis Pharmaceuticals, Inc.",NAS:APLS,24.4,Medium ESG Risk,78,NAS,APLS,Medium Risk
+APi Group Corp.,NYS:APG,24.0,Medium ESG Risk,78,NYS,APG,Medium Risk
+"Apogee Enterprises, Inc.",NAS:APOG,32.3,High ESG Risk,79,NAS,APOG,High Risk
+"Apogee Therapeutics, Inc.",NAS:APGE,30.8,High ESG Risk,79,NAS,APGE,High Risk
+"Apollo Commercial Real Estate Finance, Inc.",NYS:ARI,14.9,Low ESG Risk,79,NYS,ARI,Low Risk
+"Apollo Global Management, Inc.",NYS:APO,23.8,Medium ESG Risk,79,NYS,APO,Medium Risk
+"AppFolio, Inc.",NAS:APPF,21.9,Medium ESG Risk,79,NAS,APPF,Medium Risk
+Appian Corp.,NAS:APPN,25.3,Medium ESG Risk,80,NAS,APPN,Medium Risk
+"Apple Hospitality REIT, Inc.",NYS:APLE,17.4,Low ESG Risk,80,NYS,APLE,Low Risk
+"Apple, Inc.",NAS:AAPL,16.8,Low ESG Risk,80,NAS,AAPL,Low Risk
+Applied Digital Corp.,NAS:APLD,19.2,Low ESG Risk,80,NAS,APLD,Low Risk
+"Applied Industrial Technologies, Inc.",NYS:AIT,24.1,Medium ESG Risk,80,NYS,AIT,Medium Risk
+"Applied Materials, Inc.",NAS:AMAT,11.6,Low ESG Risk,80,NAS,AMAT,Low Risk
+AppLovin Corp.,NAS:APP,19.2,Low ESG Risk,80,NAS,APP,Low Risk
+"AptarGroup, Inc.",NYS:ATR,9.8,Negligible ESG Risk,81,NYS,ATR,Low Risk
+Aptiv Plc,NYS:APTV,12.9,Low ESG Risk,81,NYS,APTV,Low Risk
+Aramark,NYS:ARMK,22.2,Medium ESG Risk,83,NYS,ARMK,Medium Risk
+"Arbor Realty Trust, Inc.",NYS:ABR,20.8,Medium ESG Risk,83,NYS,ABR,Medium Risk
+Arbutus Biopharma Corp.,NAS:ABUS,25.5,Medium ESG Risk,83,NAS,ABUS,Medium Risk
+ArcBest Corp.,NAS:ARCB,15.3,Low ESG Risk,84,NAS,ARCB,Low Risk
+"Arcellx, Inc.",NAS:ACLX,26.9,Medium ESG Risk,84,NAS,ACLX,Medium Risk
+Arch Capital Group Ltd.,NAS:ACGL,20.3,Medium ESG Risk,85,NAS,ACGL,Medium Risk
+"Arch Resources, Inc.",NYS:ARCH,47.7,Severe ESG Risk,85,NYS,ARCH,High Risk
+"Archer Aviation, Inc.",NYS:ACHR,37.1,High ESG Risk,85,NYS,ACHR,High Risk
+Archer-Daniels-Midland Co.,NYS:ADM,31.3,High ESG Risk,85,NYS,ADM,High Risk
+"Archrock, Inc.",NYS:AROC,26.0,Medium ESG Risk,85,NYS,AROC,Medium Risk
+"Arcos Dorados Holdings, Inc.",NYS:ARCO,28.1,Medium ESG Risk,86,NYS,ARCO,Medium Risk
+"Arcosa, Inc.",NYS:ACA,39.7,High ESG Risk,86,NYS,ACA,High Risk
+"Arcturus Therapeutics Holdings, Inc.",NAS:ARCT,34.3,High ESG Risk,86,NAS,ARCT,High Risk
+"Arcus Biosciences, Inc.",NYS:RCUS,32.1,High ESG Risk,86,NYS,RCUS,High Risk
+"Arcutis Biotherapeutics, Inc.",NAS:ARQT,29.3,Medium ESG Risk,87,NAS,ARQT,Medium Risk
+Ardagh Metal Packaging SA,NYS:AMBP,12.0,Low ESG Risk,87,NYS,AMBP,Low Risk
+"Ardelyx, Inc.",NAS:ARDX,28.9,Medium ESG Risk,87,NAS,ARDX,Medium Risk
+Ardmore Shipping Corp.,NYS:ASC,38.3,High ESG Risk,87,NYS,ASC,High Risk
+Ares Commercial Real Estate Corp.,NYS:ACRE,13.3,Low ESG Risk,88,NYS,ACRE,Low Risk
+Ares Management Corp.,NYS:ARES,18.6,Low ESG Risk,88,NYS,ARES,Low Risk
+"Argan, Inc.",NYS:AGX,40.6,Severe ESG Risk,88,NYS,AGX,High Risk
+Argo Group International Holdings Ltd.,NYS:ARGO.PRA,22.6,Medium ESG Risk,88,NYS,ARGO.PRA,Medium Risk
+"Arhaus, Inc.",NAS:ARHS,17.2,Low ESG Risk,89,NAS,ARHS,Low Risk
+"Aris Water Solutions, Inc.",NYS:ARIS,22.6,Medium ESG Risk,89,NYS,ARIS,Medium Risk
+"Arista Networks, Inc.",NYS:ANET,13.7,Low ESG Risk,89,NYS,ANET,Low Risk
+ARKO Corp.,NAS:ARKO,47.7,Severe ESG Risk,90,NAS,ARKO,High Risk
+"Arlo Technologies, Inc.",NYS:ARLO,19.1,Low ESG Risk,90,NYS,ARLO,Low Risk
+"Armada Hoffler Properties, Inc.",NYS:AHH,20.1,Medium ESG Risk,91,NYS,AHH,Medium Risk
+"ARMOUR Residential REIT, Inc.",NYS:ARR,18.3,Low ESG Risk,91,NYS,ARR,Low Risk
+"Armstrong World Industries, Inc.",NYS:AWI,19.7,Low ESG Risk,91,NYS,AWI,Low Risk
+"Array Technologies, Inc.",NAS:ARRY,18.3,Low ESG Risk,91,NAS,ARRY,Low Risk
+"Arrow Electronics, Inc.",NYS:ARW,7.7,Negligible ESG Risk,91,NYS,ARW,Low Risk
+Arrow Financial Corp.,NAS:AROW,29.1,Medium ESG Risk,92,NAS,AROW,Medium Risk
+"Arrowhead Pharmaceuticals, Inc.",NAS:ARWR,25.8,Medium ESG Risk,92,NAS,ARWR,Medium Risk
+Artesian Resources Corp.,NAS:ARTNA,47.3,Severe ESG Risk,92,NAS,ARTNA,High Risk
+Arthur J. Gallagher & Co.,NYS:AJG,20.3,Medium ESG Risk,92,NYS,AJG,Medium Risk
+"Artisan Partners Asset Management, Inc.",NYS:APAM,24.2,Medium ESG Risk,92,NYS,APAM,Medium Risk
+"Artivion, Inc.",NYS:AORT,28.5,Medium ESG Risk,92,NYS,AORT,Medium Risk
+"Arvinas, Inc.",NAS:ARVN,26.2,Medium ESG Risk,93,NAS,ARVN,Medium Risk
+"Asana, Inc.",NYS:ASAN,22.1,Medium ESG Risk,94,NYS,ASAN,Medium Risk
+"Asbury Automotive Group, Inc.",NYS:ABG,14.6,Low ESG Risk,94,NYS,ABG,Low Risk
+Ascendis Pharma A/S,NAS:ASND,27.5,Medium ESG Risk,95,NAS,ASND,Medium Risk
+ASGN Incorporated,NYS:ASGN,8.0,Negligible ESG Risk,95,NYS,ASGN,Low Risk
+"Ashland, Inc.",NYS:ASH,30.2,High ESG Risk,95,NYS,ASH,High Risk
+"Aspen Aerogels, Inc.",NYS:ASPN,27.8,Medium ESG Risk,98,NYS,ASPN,Medium Risk
+"Aspen Technology, Inc.",NAS:AZPN,16.3,Low ESG Risk,98,NAS,AZPN,Low Risk
+"Assertio Holdings, Inc.",NAS:ASRT,32.8,High ESG Risk,99,NAS,ASRT,High Risk
+Associated Banc-Corp,NYS:ASB,24.3,Medium ESG Risk,99,NYS,ASB,Medium Risk
+"Assurant, Inc.",NYS:AIZ,23.5,Medium ESG Risk,100,NYS,AIZ,Medium Risk
+Assured Guaranty Ltd.,NYS:AGO,24.3,Medium ESG Risk,100,NYS,AGO,Medium Risk
+"AST Spacemobile, Inc.",NAS:ASTS,33.0,High ESG Risk,100,NAS,ASTS,High Risk
+"Astec Industries, Inc.",NAS:ASTE,28.5,Medium ESG Risk,100,NAS,ASTE,Medium Risk
+"Astrana Health, Inc.",NAS:ASTH,25.4,Medium ESG Risk,101,NAS,ASTH,Medium Risk
+"Astria Therapeutics, Inc.",NAS:ATXS,28.3,Medium ESG Risk,101,NAS,ATXS,Medium Risk
+Astronics Corp.,NAS:ATRO,42.8,Severe ESG Risk,102,NAS,ATRO,High Risk
+"Asure Software, Inc.",NAS:ASUR,23.3,Medium ESG Risk,102,NAS,ASUR,Medium Risk
+"AT&T, Inc.",NYS:T,22.1,Medium ESG Risk,102,NYS,T,Medium Risk
+"Atara Biotherapeutics, Inc.",NAS:ATRA,26.2,Medium ESG Risk,103,NAS,ATRA,Medium Risk
+"Atea Pharmaceuticals, Inc.",NAS:AVIR,36.1,High ESG Risk,103,NAS,AVIR,High Risk
+"ATI, Inc. (Texas)",NYS:ATI,37.2,High ESG Risk,103,NYS,ATI,High Risk
+"Atkore, Inc.",NYS:ATKR,28.0,Medium ESG Risk,104,NYS,ATKR,Medium Risk
+"Atlanta Braves Holdings, Inc.",NAS:BATRK,16.1,Low ESG Risk,104,NAS,BATRK,Low Risk
+Atlantic Union Bankshares Corp.,NYS:AUB,29.3,Medium ESG Risk,104,NYS,AUB,Medium Risk
+Atlantica Sustainable Infrastructure Plc,NAS:AY,11.8,Low ESG Risk,104,NAS,AY,Low Risk
+Atlanticus Holdings Corp.,NAS:ATLC,25.1,Medium ESG Risk,104,NAS,ATLC,Medium Risk
+Atlassian Corp.,NAS:TEAM,17.7,Low ESG Risk,104,NAS,TEAM,Low Risk
+Atmos Energy Corp.,NYS:ATO,31.2,High ESG Risk,105,NYS,ATO,High Risk
+"ATN International, Inc.",NAS:ATNI,34.6,High ESG Risk,105,NAS,ATNI,High Risk
+"Atomera, Inc.",NAS:ATOM,22.0,Medium ESG Risk,105,NAS,ATOM,Medium Risk
+Atour Lifestyle Holdings Ltd.,NAS:ATAT,33.8,High ESG Risk,105,NAS,ATAT,High Risk
+ATRenew Inc.,NYS:RERE,19.6,Low ESG Risk,106,NYS,RERE,Low Risk
+"AtriCure, Inc.",NAS:ATRC,22.0,Medium ESG Risk,106,NAS,ATRC,Medium Risk
+AudioCodes Ltd.,NAS:AUDC,19.6,Low ESG Risk,107,NAS,AUDC,Low Risk
+Auna SA,NYS:AUNA,29.4,Medium ESG Risk,107,NYS,AUNA,Medium Risk
+"Aura Biosciences, Inc.",NAS:AURA,27.4,Medium ESG Risk,108,NAS,AURA,Medium Risk
+"Aurinia Pharmaceuticals, Inc.",NAS:AUPH,27.3,Medium ESG Risk,108,NAS,AUPH,Medium Risk
+"Aurora Innovation, Inc.",NAS:AUR,26.1,Medium ESG Risk,109,NAS,AUR,Medium Risk
+"Autodesk, Inc.",NAS:ADSK,15.1,Low ESG Risk,111,NAS,ADSK,Low Risk
+"Autoliv, Inc.",NYS:ALV,12.0,Low ESG Risk,112,NYS,ALV,Low Risk
+"Automatic Data Processing, Inc.",NAS:ADP,15.1,Low ESG Risk,112,NAS,ADP,Low Risk
+"AutoNation, Inc.",NYS:AN,12.8,Low ESG Risk,112,NYS,AN,Low Risk
+"AutoZone, Inc.",NYS:AZO,11.0,Low ESG Risk,112,NYS,AZO,Low Risk
+"AvalonBay Communities, Inc.",NYS:AVB,8.1,Negligible ESG Risk,113,NYS,AVB,Low Risk
+"Avangrid, Inc.",NYS:AGR,22.1,Medium ESG Risk,113,NYS,AGR,Medium Risk
+"Avanos Medical, Inc.",NYS:AVNS,23.7,Medium ESG Risk,113,NYS,AVNS,Medium Risk
+"Avantor, Inc.",NYS:AVTR,16.6,Low ESG Risk,113,NYS,AVTR,Low Risk
+"Aveanna Healthcare Holdings, Inc.",NAS:AVAH,23.1,Medium ESG Risk,114,NAS,AVAH,Medium Risk
+"AvePoint, Inc.",NAS:AVPT,22.5,Medium ESG Risk,114,NAS,AVPT,Medium Risk
+Avery Dennison Corp.,NYS:AVY,15.4,Low ESG Risk,114,NYS,AVY,Low Risk
+"Aviat Networks, Inc.",NAS:AVNW,19.2,Low ESG Risk,114,NAS,AVNW,Low Risk
+"Avid Bioservices, Inc.",NAS:CDMO,25.2,Medium ESG Risk,115,NAS,CDMO,Medium Risk
+"Avidity Biosciences, Inc.",NAS:RNA,24.7,Medium ESG Risk,115,NAS,RNA,Medium Risk
+"AvidXchange Holdings, Inc.",NAS:AVDX,23.3,Medium ESG Risk,115,NAS,AVDX,Medium Risk
+Avient Corp.,NYS:AVNT,22.7,Medium ESG Risk,115,NYS,AVNT,Medium Risk
+"Avis Budget Group, Inc.",NAS:CAR,13.5,Low ESG Risk,116,NAS,CAR,Low Risk
+Avista Corp.,NYS:AVA,28.0,Medium ESG Risk,116,NYS,AVA,Medium Risk
+"AVITA Medical, Inc.",NAS:RCEL,29.0,Medium ESG Risk,116,NAS,RCEL,Medium Risk
+"Avnet, Inc.",NAS:AVT,5.6,Negligible ESG Risk,116,NAS,AVT,Low Risk
+Axalta Coating Systems Ltd.,NYS:AXTA,23.8,Medium ESG Risk,117,NYS,AXTA,Medium Risk
+"Axcelis Technologies, Inc.",NAS:ACLS,13.6,Low ESG Risk,117,NAS,ACLS,Low Risk
+AXIS Capital Holdings Ltd.,NYS:AXS,22.2,Medium ESG Risk,118,NYS,AXS,Medium Risk
+"Axogen, Inc.",NAS:AXGN,27.7,Medium ESG Risk,118,NAS,AXGN,Medium Risk
+"Axon Enterprise, Inc.",NAS:AXON,30.5,High ESG Risk,118,NAS,AXON,High Risk
+"Axonics, Inc.",NAS:AXNX,30.0,Medium ESG Risk,118,NAS,AXNX,Medium Risk
+"Axos Financial, Inc.",NYS:AX,34.6,High ESG Risk,118,NYS,AX,High Risk
+"Axsome Therapeutics, Inc.",NAS:AXSM,37.0,High ESG Risk,118,NAS,AXSM,High Risk
+"Azenta, Inc.",NAS:AZTA,15.9,Low ESG Risk,119,NAS,AZTA,Low Risk
+"AZZ, Inc.",NYS:AZZ,29.7,Medium ESG Risk,120,NYS,AZZ,Medium Risk
+"B. Riley Financial, Inc.",NAS:RILY,35.1,High ESG Risk,120,NAS,RILY,High Risk
+"B&G Foods, Inc.",NYS:BGS,34.3,High ESG Risk,120,NYS,BGS,High Risk
+"Babcock & Wilcox Enterprises, Inc.",NYS:BW,27.3,Medium ESG Risk,121,NYS,BW,Medium Risk
+"Badger Meter, Inc.",NYS:BMI,10.2,Low ESG Risk,122,NYS,BMI,Low Risk
+Baker Hughes Co.,NAS:BKR,19.1,Low ESG Risk,123,NAS,BKR,Low Risk
+"Bakkt Holdings, Inc.",NYS:BKKT,21.0,Medium ESG Risk,124,NYS,BKKT,Medium Risk
+Balchem Corp.,NAS:BCPC,21.1,Medium ESG Risk,124,NAS,BCPC,Medium Risk
+Ball Corp.,NYS:BALL,10.3,Low ESG Risk,124,NYS,BALL,Low Risk
+Bally's Corp.,NYS:BALY,29.7,Medium ESG Risk,125,NYS,BALY,Medium Risk
+"Banc of California, Inc.",NYS:BANC,31.8,High ESG Risk,125,NYS,BANC,High Risk
+BancFirst Corp. (Oklahoma),NAS:BANF,27.7,Medium ESG Risk,126,NAS,BANF,Medium Risk
+Banco Latinoamericano de Comercio Exterior SA,NYS:BLX,28.5,Medium ESG Risk,129,NYS,BLX,Medium Risk
+"Bandwidth, Inc.",NAS:BAND,23.5,Medium ESG Risk,130,NAS,BAND,Medium Risk
+Bank First Corp.,NAS:BFC,29.5,Medium ESG Risk,132,NAS,BFC,Medium Risk
+Bank of America Corp.,NYS:BAC,24.4,Medium ESG Risk,133,NYS,BAC,Medium Risk
+Bank of Hawaii Corp.,NYS:BOH,24.9,Medium ESG Risk,134,NYS,BOH,Medium Risk
+Bank of Marin Bancorp,NAS:BMRC,27.0,Medium ESG Risk,135,NAS,BMRC,Medium Risk
+Bank OZK,NAS:OZK,21.6,Medium ESG Risk,136,NAS,OZK,Medium Risk
+Bank7 Corp.,NAS:BSVN,29.6,Medium ESG Risk,136,NAS,BSVN,Medium Risk
+"BankUnited, Inc.",NYS:BKU,25.4,Medium ESG Risk,137,NYS,BKU,Medium Risk
+"Bankwell Financial Group, Inc.",NAS:BWFG,33.8,High ESG Risk,137,NAS,BWFG,High Risk
+Banner Corp.,NAS:BANR,24.4,Medium ESG Risk,137,NAS,BANR,Medium Risk
+"BARK, Inc.",NYS:BARK,43.9,Severe ESG Risk,139,NYS,BARK,High Risk
+"Barnes Group, Inc.",NYS:B,26.7,Medium ESG Risk,139,NYS,B,Medium Risk
+"Barrett Business Services, Inc.",NAS:BBSI,11.9,Low ESG Risk,139,NAS,BBSI,Low Risk
+"Bath & Body Works, Inc.",NYS:BBWI,26.2,Medium ESG Risk,141,NYS,BBWI,Medium Risk
+Bausch + Lomb Corp.,NYS:BLCO,19.6,Low ESG Risk,141,NYS,BLCO,Low Risk
+"Baxter International, Inc.",NYS:BAX,21.8,Medium ESG Risk,142,NYS,BAX,Medium Risk
+BayCom Corp.,NAS:BCML,30.6,High ESG Risk,142,NAS,BCML,High Risk
+"BCB Bancorp, Inc.",NAS:BCBP,35.8,High ESG Risk,144,NAS,BCBP,High Risk
+"Beacon Roofing Supply, Inc.",NAS:BECN,22.0,Medium ESG Risk,144,NAS,BECN,Medium Risk
+"Beam Therapeutics, Inc.",NAS:BEAM,33.0,High ESG Risk,145,NAS,BEAM,High Risk
+"Beasley Broadcast Group, Inc.",NAS:BBGI,20.6,Medium ESG Risk,145,NAS,BBGI,Medium Risk
+"Beazer Homes USA, Inc.",NYS:BZH,20.5,Medium ESG Risk,145,NYS,BZH,Medium Risk
+"Becton, Dickinson & Co.",NYS:BDX,23.7,Medium ESG Risk,145,NYS,BDX,Medium Risk
+"Bel Fuse, Inc.",NAS:BELFB,18.2,Low ESG Risk,154,NAS,BELFB,Low Risk
+"Belden, Inc.",NYS:BDC,20.0,Low ESG Risk,154,NYS,BDC,Low Risk
+"BellRing Brands, Inc.",NYS:BRBR,30.4,High ESG Risk,155,NYS,BRBR,High Risk
+"Benchmark Electronics, Inc.",NYS:BHE,9.3,Negligible ESG Risk,155,NYS,BHE,Low Risk
+"Benson Hill, Inc.",NAS:BHIL,38.6,High ESG Risk,156,NAS,BHIL,High Risk
+"Bentley Systems, Inc.",NAS:BSY,15.5,Low ESG Risk,156,NAS,BSY,Low Risk
+"Berkshire Hathaway, Inc.",NYS:BRK.B,26.2,Medium ESG Risk,157,NYS,BRK.B,Medium Risk
+"Berkshire Hills Bancorp, Inc.",NYS:BHLB,18.2,Low ESG Risk,157,NYS,BHLB,Low Risk
+Berry Corp.,NAS:BRY,46.9,Severe ESG Risk,158,NAS,BRY,High Risk
+"Berry Global Group, Inc.",NYS:BERY,15.4,Low ESG Risk,158,NYS,BERY,Low Risk
+"Best Buy Co., Inc.",NYS:BBY,13.8,Low ESG Risk,158,NYS,BBY,Low Risk
+"Beyond Air, Inc.",NAS:XAIR,26.6,Medium ESG Risk,160,NAS,XAIR,Medium Risk
+"Beyond Meat, Inc.",NAS:BYND,40.3,Severe ESG Risk,160,NAS,BYND,High Risk
+"Beyond, Inc.",NYS:BYON,25.0,Medium ESG Risk,160,NYS,BYON,Medium Risk
+"BGC Group, Inc.",NAS:BGC,19.8,Low ESG Risk,160,NAS,BGC,Low Risk
+Bicycle Therapeutics Plc,NAS:BCYC,12.7,Low ESG Risk,162,NAS,BCYC,Low Risk
+Big 5 Sporting Goods Corp.,NAS:BGFV,19.0,Low ESG Risk,162,NAS,BGFV,Low Risk
+"BigCommerce Holdings, Inc.",NAS:BIGC,23.2,Medium ESG Risk,163,NAS,BIGC,Medium Risk
+"Biglari Holdings, Inc.",NYS:BH,31.8,High ESG Risk,163,NYS,BH,High Risk
+"Bill Holdings, Inc.",NYS:BILL,20.7,Medium ESG Risk,163,NYS,BILL,Medium Risk
+"Bio-Rad Laboratories, Inc.",NYS:BIO,16.8,Low ESG Risk,164,NYS,BIO,Low Risk
+Bio-Techne Corp.,NAS:TECH,26.0,Medium ESG Risk,164,NAS,TECH,Medium Risk
+"BioAtla, Inc.",NAS:BCAB,27.0,Medium ESG Risk,165,NAS,BCAB,Medium Risk
+"BioCryst Pharmaceuticals, Inc.",NAS:BCRX,25.1,Medium ESG Risk,165,NAS,BCRX,Medium Risk
+"Biogen, Inc.",NAS:BIIB,20.5,Medium ESG Risk,165,NAS,BIIB,Medium Risk
+Biohaven Ltd.,NYS:BHVN,32.3,High ESG Risk,165,NYS,BHVN,High Risk
+"BioLife Solutions, Inc.",NAS:BLFS,29.1,Medium ESG Risk,165,NAS,BLFS,Medium Risk
+"BioMarin Pharmaceutical, Inc.",NAS:BMRN,23.5,Medium ESG Risk,165,NAS,BMRN,Medium Risk
+"Biomea Fusion, Inc.",NAS:BMEA,35.6,High ESG Risk,165,NAS,BMEA,High Risk
+BioNTech SE,NAS:BNTX,25.5,Medium ESG Risk,166,NAS,BNTX,Medium Risk
+biote Corp.,NAS:BTMD,32.3,High ESG Risk,166,NAS,BTMD,High Risk
+"BioXcel Therapeutics, Inc.",NAS:BTAI,27.6,Medium ESG Risk,166,NAS,BTAI,Medium Risk
+Birkenstock Holding Plc,NYS:BIRK,13.5,Low ESG Risk,167,NYS,BIRK,Low Risk
+"BJ's Restaurants, Inc.",NAS:BJRI,31.9,High ESG Risk,167,NAS,BJRI,High Risk
+"BJ's Wholesale Club Holdings, Inc.",NYS:BJ,30.0,Medium ESG Risk,167,NYS,BJ,Medium Risk
+Black Hills Corp.,NYS:BKH,27.4,Medium ESG Risk,168,NYS,BKH,Medium Risk
+"Blackbaud, Inc.",NAS:BLKB,17.0,Low ESG Risk,168,NAS,BLKB,Low Risk
+"BlackLine, Inc.",NAS:BL,23.1,Medium ESG Risk,168,NAS,BL,Medium Risk
+"Blackstone Mortgage Trust, Inc.",NYS:BXMT,16.6,Low ESG Risk,168,NYS,BXMT,Low Risk
+Blackstone Secured Lending Fund,NYS:BXSL,29.3,Medium ESG Risk,169,NYS,BXSL,Medium Risk
+"Blackstone, Inc.",NYS:BX,23.6,Medium ESG Risk,169,NYS,BX,Medium Risk
+"Blade Air Mobility, Inc.",NAS:BLDE,39.8,High ESG Risk,169,NAS,BLDE,High Risk
+Blink Charging Co.,NAS:BLNK,22.6,Medium ESG Risk,169,NAS,BLNK,Medium Risk
+"Block, Inc.",NYS:SQ,20.7,Medium ESG Risk,169,NYS,SQ,Medium Risk
+Bloom Energy Corp.,NYS:BE,29.6,Medium ESG Risk,169,NYS,BE,Medium Risk
+"Bloomin' Brands, Inc.",NAS:BLMN,29.1,Medium ESG Risk,170,NAS,BLMN,Medium Risk
+Blue Bird Corp.,NAS:BLBD,35.0,High ESG Risk,170,NAS,BLBD,High Risk
+Blue Foundry Bancorp,NAS:BLFY,31.6,High ESG Risk,170,NAS,BLFY,High Risk
+Blue Owl Capital Corp.,NYS:OBDC,27.6,Medium ESG Risk,170,NYS,OBDC,Medium Risk
+"Blue Owl Capital, Inc.",NYS:OWL,33.7,High ESG Risk,171,NYS,OWL,High Risk
+"bluebird bio, Inc.",NAS:BLUE,28.1,Medium ESG Risk,171,NAS,BLUE,Medium Risk
+"BlueLinx Holdings, Inc.",NYS:BXC,27.2,Medium ESG Risk,172,NYS,BXC,Medium Risk
+Blueprint Medicines Corp.,NAS:BPMC,22.3,Medium ESG Risk,172,NAS,BPMC,Medium Risk
+Boise Cascade Co.,NYS:BCC,25.7,Medium ESG Risk,174,NYS,BCC,Medium Risk
+BOK Financial Corp.,NAS:BOKF,21.1,Medium ESG Risk,174,NAS,BOKF,Medium Risk
+"Booking Holdings, Inc.",NAS:BKNG,16.3,Low ESG Risk,176,NAS,BKNG,Low Risk
+"Boot Barn Holdings, Inc.",NYS:BOOT,16.0,Low ESG Risk,176,NYS,BOOT,Low Risk
+Booz Allen Hamilton Holding Corp.,NYS:BAH,13.1,Low ESG Risk,176,NYS,BAH,Low Risk
+"BorgWarner, Inc.",NYS:BWA,9.9,Negligible ESG Risk,176,NYS,BWA,Low Risk
+"Boston Beer Co., Inc.",NYS:SAM,31.8,High ESG Risk,178,NYS,SAM,High Risk
+Boston Omaha Corp.,NYS:BOC,23.8,Medium ESG Risk,178,NYS,BOC,Medium Risk
+"Boston Properties, Inc.",NYS:BXP,12.0,Low ESG Risk,178,NYS,BXP,Low Risk
+Boston Scientific Corp.,NYS:BSX,22.1,Medium ESG Risk,178,NYS,BSX,Medium Risk
+Bowlero Corp.,NYS:BOWL,18.7,Low ESG Risk,179,NYS,BOWL,Low Risk
+Bowman Consulting Group Ltd.,NAS:BWMN,41.2,Severe ESG Risk,179,NAS,BWMN,High Risk
+"Box, Inc.",NYS:BOX,23.7,Medium ESG Risk,179,NYS,BOX,Medium Risk
+Boyd Gaming Corp.,NYS:BYD,20.2,Medium ESG Risk,179,NYS,BYD,Medium Risk
+Brady Corp.,NYS:BRC,6.4,Negligible ESG Risk,180,NYS,BRC,Low Risk
+"Braemar Hotels & Resorts, Inc.",NYS:BHR,20.6,Medium ESG Risk,180,NYS,BHR,Medium Risk
+Brandywine Realty Trust,NYS:BDN,12.0,Low ESG Risk,181,NYS,BDN,Low Risk
+"Braze, Inc.",NAS:BRZE,24.2,Medium ESG Risk,181,NAS,BRZE,Medium Risk
+"BRC, Inc.",NYS:BRCC,35.3,High ESG Risk,181,NYS,BRCC,High Risk
+"Bread Financial Holdings, Inc.",NYS:BFH,18.0,Low ESG Risk,181,NYS,BFH,Low Risk
+"BridgeBio Pharma, Inc.",NAS:BBIO,35.7,High ESG Risk,182,NAS,BBIO,High Risk
+"Bridgewater Bancshares, Inc.",NAS:BWB,29.0,Medium ESG Risk,183,NAS,BWB,Medium Risk
+"Bright Horizons Family Solutions, Inc.",NYS:BFAM,16.0,Low ESG Risk,183,NYS,BFAM,Low Risk
+"Brightcove, Inc.",NAS:BCOV,27.3,Medium ESG Risk,183,NAS,BCOV,Medium Risk
+"Brighthouse Financial, Inc.",NAS:BHF,20.8,Medium ESG Risk,183,NAS,BHF,Medium Risk
+"BrightSphere Investment Group, Inc.",NYS:BSIG,31.3,High ESG Risk,184,NYS,BSIG,High Risk
+"BrightSpire Capital, Inc.",NYS:BRSP,21.8,Medium ESG Risk,184,NYS,BRSP,Medium Risk
+"BrightView Holdings, Inc.",NYS:BV,21.5,Medium ESG Risk,184,NYS,BV,Medium Risk
+"Brinker International, Inc.",NYS:EAT,23.8,Medium ESG Risk,184,NYS,EAT,Medium Risk
+Bristol Myers Squibb Co.,NYS:BMY,21.2,Medium ESG Risk,185,NYS,BMY,Medium Risk
+"Bristow Group, Inc.",NYS:VTOL,21.5,Medium ESG Risk,185,NYS,VTOL,Medium Risk
+"Brixmor Property Group, Inc.",NYS:BRX,12.1,Low ESG Risk,186,NYS,BRX,Low Risk
+Broadcom Inc.,NAS:AVGO,19.2,Low ESG Risk,186,NAS,AVGO,Low Risk
+"Broadridge Financial Solutions, Inc.",NYS:BR,15.5,Low ESG Risk,186,NYS,BR,Low Risk
+"Broadstone Net Lease, Inc.",NYS:BNL,14.7,Low ESG Risk,186,NYS,BNL,Low Risk
+"Brookdale Senior Living, Inc.",NYS:BKD,33.9,High ESG Risk,187,NYS,BKD,High Risk
+Brookfield Infrastructure Partners LP,NYS:BIP,39.0,High ESG Risk,187,NYS,BIP,High Risk
+Brookfield Renewable Corp.,NYS:BEPC,18.4,Low ESG Risk,188,NYS,BEPC,Low Risk
+"Brookline Bancorp, Inc.",NAS:BRKL,33.2,High ESG Risk,188,NAS,BRKL,High Risk
+"Brown & Brown, Inc.",NYS:BRO,21.1,Medium ESG Risk,188,NYS,BRO,Medium Risk
+Brown-Forman Corp.,NYS:BF.B,25.8,Medium ESG Risk,188,NYS,BF.B,Medium Risk
+"BRP Group, Inc.",NAS:BWIN,32.6,High ESG Risk,188,NAS,BWIN,High Risk
+BRT Apartments Corp.,NYS:BRT,22.8,Medium ESG Risk,189,NYS,BRT,Medium Risk
+Bruker Corp.,NAS:BRKR,19.5,Low ESG Risk,189,NAS,BRKR,Low Risk
+Brunswick Corp.,NYS:BC,19.7,Low ESG Risk,189,NYS,BC,Low Risk
+"Build-A-Bear Workshop, Inc.",NYS:BBW,17.5,Low ESG Risk,191,NYS,BBW,Low Risk
+"Builders FirstSource, Inc.",NYS:BLDR,26.7,Medium ESG Risk,191,NYS,BLDR,Medium Risk
+"Bumble, Inc.",NAS:BMBL,23.3,Medium ESG Risk,191,NAS,BMBL,Medium Risk
+"Burlington Stores, Inc.",NYS:BURL,16.1,Low ESG Risk,193,NYS,BURL,Low Risk
+"Business First Bancshares, Inc.",NAS:BFST,30.4,High ESG Risk,193,NAS,BFST,High Risk
+"Butterfly Network, Inc.",NYS:BFLY,32.5,High ESG Risk,193,NYS,BFLY,High Risk
+"BWX Technologies, Inc.",NYS:BWXT,33.7,High ESG Risk,194,NYS,BWXT,High Risk
+"Byline Bancorp, Inc.",NYS:BY,28.9,Medium ESG Risk,195,NYS,BY,Medium Risk
+"C.H. Robinson Worldwide, Inc.",NAS:CHRW,17.5,Low ESG Risk,195,NAS,CHRW,Low Risk
+C&F Financial Corp.,NAS:CFFI,28.4,Medium ESG Risk,196,NAS,CFFI,Medium Risk
+"C3.ai, Inc.",NYS:AI,22.0,Medium ESG Risk,196,NYS,AI,Medium Risk
+"Cabaletta Bio, Inc.",NAS:CABA,27.8,Medium ESG Risk,197,NAS,CABA,Medium Risk
+"Cable One, Inc.",NYS:CABO,14.4,Low ESG Risk,197,NYS,CABO,Low Risk
+Cabot Corp.,NYS:CBT,20.9,Medium ESG Risk,197,NYS,CBT,Medium Risk
+"CACI International, Inc.",NYS:CACI,16.1,Low ESG Risk,197,NYS,CACI,Low Risk
+"Cactus, Inc.",NYS:WHD,26.7,Medium ESG Risk,197,NYS,WHD,Medium Risk
+Cadence Bank,NYS:CADE,30.6,High ESG Risk,197,NYS,CADE,High Risk
+"Cadence Design Systems, Inc.",NAS:CDNS,11.4,Low ESG Risk,197,NAS,CDNS,Low Risk
+"Cadiz, Inc.",NAS:CDZI,40.0,High ESG Risk,198,NAS,CDZI,High Risk
+"Cadre Holdings, Inc.",NYS:CDRE,47.0,Severe ESG Risk,198,NYS,CDRE,High Risk
+"Caesars Entertainment, Inc.",NAS:CZR,20.2,Medium ESG Risk,198,NAS,CZR,Medium Risk
+"Cal-Maine Foods, Inc.",NAS:CALM,41.5,Severe ESG Risk,200,NAS,CALM,High Risk
+"Calavo Growers, Inc.",NAS:CVGW,36.0,High ESG Risk,200,NAS,CVGW,High Risk
+"Caleres, Inc.",NYS:CAL,17.2,Low ESG Risk,200,NYS,CAL,Low Risk
+California Resources Corp.,NYS:CRC,35.5,High ESG Risk,201,NYS,CRC,High Risk
+California Water Service Group,NYS:CWT,30.6,High ESG Risk,201,NYS,CWT,High Risk
+"Calix, Inc.",NYS:CALX,15.1,Low ESG Risk,201,NYS,CALX,Low Risk
+Cambium Networks Corp.,NAS:CMBM,19.1,Low ESG Risk,202,NAS,CMBM,Low Risk
+Camden National Corp. (Maine),NAS:CAC,25.4,Medium ESG Risk,202,NAS,CAC,Medium Risk
+Camden Property Trust,NYS:CPT,14.2,Low ESG Risk,202,NYS,CPT,Low Risk
+Campbell Soup Co.,NAS:CPB,26.3,Medium ESG Risk,202,NAS,CPB,Medium Risk
+"Camping World Holdings, Inc.",NYS:CWH,14.9,Low ESG Risk,202,NYS,CWH,Low Risk
+Camtek Ltd.,NAS:CAMT,25.8,Medium ESG Risk,203,NAS,CAMT,Medium Risk
+"Canaan, Inc.",NAS:CAN,40.7,Severe ESG Risk,203,NAS,CAN,High Risk
+"Canadian Solar, Inc.",NAS:CSIQ,29.6,Medium ESG Risk,205,NAS,CSIQ,Medium Risk
+"Cannae Holdings, Inc.",NYS:CNNE,10.5,Low ESG Risk,206,NYS,CNNE,Low Risk
+"Cantaloupe, Inc.",NAS:CTLP,24.1,Medium ESG Risk,206,NAS,CTLP,Medium Risk
+"Capital Bancorp, Inc. (Maryland)",NAS:CBNK,32.5,High ESG Risk,207,NAS,CBNK,High Risk
+"Capital City Bank Group, Inc.",NAS:CCBG,28.6,Medium ESG Risk,207,NAS,CCBG,Medium Risk
+Capital One Financial Corp.,NYS:COF,21.3,Medium ESG Risk,208,NYS,COF,Medium Risk
+"Capitol Federal Financial, Inc.",NAS:CFFN,31.3,High ESG Risk,209,NAS,CFFN,High Risk
+Capri Holdings Ltd.,NYS:CPRI,15.8,Low ESG Risk,209,NYS,CPRI,Low Risk
+"CARA Therapeutics, Inc.",NAS:CARA,29.0,Medium ESG Risk,210,NAS,CARA,Medium Risk
+"Cardinal Health, Inc.",NYS:CAH,11.1,Low ESG Risk,210,NYS,CAH,Low Risk
+"Cardlytics, Inc.",NAS:CDLX,29.3,Medium ESG Risk,210,NAS,CDLX,Medium Risk
+"CareDx, Inc.",NAS:CDNA,24.6,Medium ESG Risk,210,NAS,CDNA,Medium Risk
+"CareMax, Inc.",NAS:CMAX,33.3,High ESG Risk,211,NAS,CMAX,High Risk
+"CareTrust REIT, Inc.",NYS:CTRE,14.6,Low ESG Risk,211,NYS,CTRE,Low Risk
+"Cargurus, Inc.",NAS:CARG,19.0,Low ESG Risk,211,NAS,CARG,Low Risk
+"Caribou Biosciences, Inc.",NAS:CRBU,28.0,Medium ESG Risk,212,NAS,CRBU,Medium Risk
+"Carisma Therapeutics, Inc.",NAS:CARM,26.2,Medium ESG Risk,212,NAS,CARM,Medium Risk
+"Carlisle Cos., Inc.",NYS:CSL,20.2,Medium ESG Risk,212,NYS,CSL,Medium Risk
+"CarMax, Inc.",NYS:KMX,11.1,Low ESG Risk,212,NYS,KMX,Low Risk
+Carnival Corp.,NYS:CCL,22.4,Medium ESG Risk,213,NYS,CCL,Medium Risk
+"CarParts.com, Inc.",NAS:PRTS,23.8,Medium ESG Risk,213,NAS,PRTS,Medium Risk
+Carpenter Technology Corp.,NYS:CRS,33.7,High ESG Risk,213,NYS,CRS,High Risk
+"Carriage Services, Inc.",NYS:CSV,18.9,Low ESG Risk,213,NYS,CSV,Low Risk
+Carrier Global Corp.,NYS:CARR,16.2,Low ESG Risk,213,NYS,CARR,Low Risk
+"Cars.com, Inc.",NYS:CARS,21.1,Medium ESG Risk,213,NYS,CARS,Medium Risk
+"Carter Bankshares, Inc.",NAS:CARE,30.6,High ESG Risk,214,NAS,CARE,High Risk
+"Carter's, Inc.",NYS:CRI,13.6,Low ESG Risk,214,NYS,CRI,Low Risk
+"Cartesian Therapeutics, Inc.",NAS:RNAC,28.9,Medium ESG Risk,214,NAS,RNAC,Medium Risk
+Carvana Co.,NYS:CVNA,16.1,Low ESG Risk,214,NYS,CVNA,Low Risk
+"Casella Waste Systems, Inc.",NAS:CWST,20.5,Medium ESG Risk,214,NAS,CWST,Medium Risk
+"Casey's General Stores, Inc.",NAS:CASY,26.7,Medium ESG Risk,214,NAS,CASY,Medium Risk
+"Cass Information Systems, Inc.",NAS:CASS,15.3,Low ESG Risk,215,NAS,CASS,Low Risk
+"Cassava Sciences, Inc.",NAS:SAVA,35.8,High ESG Risk,215,NAS,SAVA,High Risk
+"Castle Biosciences, Inc.",NAS:CSTL,21.3,Medium ESG Risk,215,NAS,CSTL,Medium Risk
+"Catalent, Inc.",NYS:CTLT,20.8,Medium ESG Risk,215,NYS,CTLT,Medium Risk
+"Catalyst Pharmaceuticals, Inc.",NAS:CPRX,24.3,Medium ESG Risk,215,NAS,CPRX,Medium Risk
+"Caterpillar, Inc.",NYS:CAT,28.3,Medium ESG Risk,216,NYS,CAT,Medium Risk
+Cathay General Bancorp,NAS:CATY,30.7,High ESG Risk,216,NAS,CATY,High Risk
+"Cavco Industries, Inc.",NAS:CVCO,21.7,Medium ESG Risk,217,NAS,CVCO,Medium Risk
+"CBIZ, Inc.",NYS:CBZ,21.7,Medium ESG Risk,217,NYS,CBZ,Medium Risk
+"CBRE Group, Inc.",NYS:CBRE,6.3,Negligible ESG Risk,217,NYS,CBRE,Low Risk
+"CCC Intelligent Solutions Holdings, Inc.",NAS:CCCS,20.2,Medium ESG Risk,217,NAS,CCCS,Medium Risk
+CDW Corp.,NAS:CDW,7.5,Negligible ESG Risk,219,NAS,CDW,Low Risk
+CECO Environmental Corp.,NAS:CECO,23.8,Medium ESG Risk,219,NAS,CECO,Medium Risk
+Celanese Corp.,NYS:CE,24.7,Medium ESG Risk,220,NYS,CE,Medium Risk
+"Celcuity, Inc.",NAS:CELC,27.9,Medium ESG Risk,220,NAS,CELC,Medium Risk
+"Celldex Therapeutics, Inc.",NAS:CLDX,24.5,Medium ESG Risk,220,NAS,CLDX,Medium Risk
+"Celsius Holdings, Inc.",NAS:CELH,38.8,High ESG Risk,221,NAS,CELH,High Risk
+"Cencora, Inc.",NYS:COR,11.0,Low ESG Risk,222,NYS,COR,Low Risk
+Centene Corp.,NYS:CNC,15.3,Low ESG Risk,222,NYS,CNC,Low Risk
+"CenterPoint Energy, Inc.",NYS:CNP,24.8,Medium ESG Risk,223,NYS,CNP,Medium Risk
+Centerspace,NYS:CSR,15.2,Low ESG Risk,223,NYS,CSR,Low Risk
+Central Garden & Pet Co.,NAS:CENT,14.1,Low ESG Risk,224,NAS,CENT,Low Risk
+Central Pacific Financial Corp.,NYS:CPF,22.8,Medium ESG Risk,224,NYS,CPF,Medium Risk
+Century Aluminum Co.,NAS:CENX,40.0,High ESG Risk,226,NAS,CENX,High Risk
+"Century Casinos, Inc.",NAS:CNTY,29.9,Medium ESG Risk,226,NAS,CNTY,Medium Risk
+"Century Communities, Inc.",NYS:CCS,19.9,Low ESG Risk,226,NYS,CCS,Low Risk
+"Century Therapeutics, Inc.",NAS:IPSC,27.5,Medium ESG Risk,226,NAS,IPSC,Medium Risk
+"Cerence, Inc.",NAS:CRNC,21.2,Medium ESG Risk,226,NAS,CRNC,Medium Risk
+"Certara, Inc.",NAS:CERT,16.6,Low ESG Risk,227,NAS,CERT,Low Risk
+Cerus Corp.,NAS:CERS,19.7,Low ESG Risk,227,NAS,CERS,Low Risk
+"CEVA, Inc.",NAS:CEVA,22.9,Medium ESG Risk,228,NAS,CEVA,Medium Risk
+"CF Industries Holdings, Inc.",NYS:CF,28.0,Medium ESG Risk,228,NYS,CF,Medium Risk
+ChampionX Corp.,NAS:CHX,22.0,Medium ESG Risk,230,NAS,CHX,Medium Risk
+"ChargePoint Holdings, Inc.",NYS:CHPT,17.9,Low ESG Risk,232,NYS,CHPT,Low Risk
+"Charles River Laboratories International, Inc.",NYS:CRL,18.1,Low ESG Risk,232,NYS,CRL,Low Risk
+"Chart Industries, Inc.",NYS:GTLS,28.3,Medium ESG Risk,232,NYS,GTLS,Medium Risk
+"Charter Communications, Inc.",NAS:CHTR,23.7,Medium ESG Risk,232,NAS,CHTR,Medium Risk
+Chatham Lodging Trust,NYS:CLDT,18.2,Low ESG Risk,233,NYS,CLDT,Low Risk
+Check Point Software Technologies Ltd.,NAS:CHKP,17.8,Low ESG Risk,233,NAS,CHKP,Low Risk
+"Cheesecake Factory, Inc.",NAS:CAKE,27.7,Medium ESG Risk,233,NAS,CAKE,Medium Risk
+"Chegg, Inc.",NYS:CHGG,11.3,Low ESG Risk,233,NYS,CHGG,Low Risk
+Chemed Corp.,NYS:CHE,25.2,Medium ESG Risk,234,NYS,CHE,Medium Risk
+Chemung Financial Corp.,NAS:CHMG,30.1,High ESG Risk,234,NAS,CHMG,High Risk
+Cheniere Energy Partners LP,NYS:CQP,30.3,High ESG Risk,236,NYS,CQP,High Risk
+"Cheniere Energy, Inc.",NYS:LNG,21.5,Medium ESG Risk,236,NYS,LNG,Medium Risk
+Chesapeake Utilities Corp.,NYS:CPK,37.0,High ESG Risk,236,NYS,CPK,High Risk
+Chevron Corp.,NYS:CVX,35.3,High ESG Risk,237,NYS,CVX,High Risk
+"Chewy, Inc.",NYS:CHWY,28.3,Medium ESG Risk,237,NYS,CHWY,Medium Risk
+"Chicago Atlantic Real Estate Finance, Inc.",NAS:REFI,21.8,Medium ESG Risk,237,NAS,REFI,Medium Risk
+Chimera Investment Corp.,NYS:CIM,15.1,Low ESG Risk,238,NYS,CIM,Low Risk
+"Chipotle Mexican Grill, Inc.",NYS:CMG,20.1,Medium ESG Risk,258,NYS,CMG,Medium Risk
+"Choice Hotels International, Inc.",NYS:CHH,26.7,Medium ESG Risk,259,NYS,CHH,Medium Risk
+"ChoiceOne Financial Services, Inc.",NAS:COFS,30.5,High ESG Risk,259,NAS,COFS,High Risk
+Chord Energy Corp.,NAS:CHRD,35.1,High ESG Risk,262,NAS,CHRD,High Risk
+Chubb Ltd.,NYS:CB,22.4,Medium ESG Risk,263,NYS,CB,Medium Risk
+"Church & Dwight Co., Inc.",NYS:CHD,22.7,Medium ESG Risk,265,NYS,CHD,Medium Risk
+"Churchill Downs, Inc.",NAS:CHDN,27.5,Medium ESG Risk,265,NAS,CHDN,Medium Risk
+Ciena Corp.,NYS:CIEN,14.5,Low ESG Risk,266,NYS,CIEN,Low Risk
+Cimpress Plc,NAS:CMPR,7.8,Negligible ESG Risk,266,NAS,CMPR,Low Risk
+Cincinnati Financial Corp.,NAS:CINF,23.1,Medium ESG Risk,267,NAS,CINF,Medium Risk
+"Cinemark Holdings, Inc.",NYS:CNK,18.6,Low ESG Risk,267,NYS,CNK,Low Risk
+Cintas Corp.,NAS:CTAS,17.0,Low ESG Risk,267,NAS,CTAS,Low Risk
+"Cipher Mining, Inc.",NAS:CIFR,25.1,Medium ESG Risk,267,NAS,CIFR,Medium Risk
+"Cirrus Logic, Inc.",NAS:CRUS,14.5,Low ESG Risk,268,NAS,CRUS,Low Risk
+"Cisco Systems, Inc.",NAS:CSCO,12.9,Low ESG Risk,268,NAS,CSCO,Low Risk
+"Citigroup, Inc.",NYS:C,22.1,Medium ESG Risk,269,NYS,C,Medium Risk
+"Citius Pharmaceuticals, Inc.",NAS:CTXR,34.9,High ESG Risk,269,NAS,CTXR,High Risk
+Citizens & Northern Corp.,NAS:CZNC,35.6,High ESG Risk,269,NAS,CZNC,High Risk
+"Citizens Financial Group, Inc. (Rhode Island)",NYS:CFG,23.0,Medium ESG Risk,269,NYS,CFG,Medium Risk
+"Citizens Financial Services, Inc.",NAS:CZFS,32.1,High ESG Risk,270,NAS,CZFS,High Risk
+City Holding Co.,NAS:CHCO,31.6,High ESG Risk,270,NAS,CHCO,High Risk
+"City Office REIT, Inc.",NYS:CIO,16.3,Low ESG Risk,270,NYS,CIO,Low Risk
+"Civista Bancshares, Inc.",NAS:CIVB,30.0,Medium ESG Risk,270,NAS,CIVB,Medium Risk
+"Civitas Resources, Inc.",NYS:CIVI,37.3,High ESG Risk,271,NYS,CIVI,High Risk
+Clarivate Plc,NYS:CLVT,19.7,Low ESG Risk,273,NYS,CLVT,Low Risk
+"Claros Mortgage Trust, Inc.",NYS:CMTG,19.9,Low ESG Risk,273,NYS,CMTG,Low Risk
+Clarus Corp.,NAS:CLAR,16.2,Low ESG Risk,273,NAS,CLAR,Low Risk
+Clean Energy Fuels Corp.,NAS:CLNE,33.0,High ESG Risk,273,NAS,CLNE,High Risk
+"Clean Harbors, Inc.",NYS:CLH,22.2,Medium ESG Risk,273,NYS,CLH,Medium Risk
+"CleanSpark, Inc.",NAS:CLSK,24.6,Medium ESG Risk,274,NAS,CLSK,Medium Risk
+"Clear Channel Outdoor Holdings, Inc.",NYS:CCO,16.1,Low ESG Risk,274,NYS,CCO,Low Risk
+"Clear Secure, Inc.",NYS:YOU,22.7,Medium ESG Risk,274,NYS,YOU,Medium Risk
+"Clearfield, Inc.",NAS:CLFD,19.4,Low ESG Risk,274,NAS,CLFD,Low Risk
+"Clearpoint Neuro, Inc.",NAS:CLPT,32.5,High ESG Risk,274,NAS,CLPT,High Risk
+"Clearwater Analytics Holdings, Inc.",NYS:CWAN,26.3,Medium ESG Risk,274,NYS,CWAN,Medium Risk
+Clearwater Paper Corp.,NYS:CLW,22.5,Medium ESG Risk,274,NYS,CLW,Medium Risk
+"Clearway Energy, Inc.",NYS:CWEN,41.6,Severe ESG Risk,275,NYS,CWEN,High Risk
+"Cleveland-Cliffs, Inc.",NYS:CLF,36.6,High ESG Risk,275,NYS,CLF,High Risk
+"Climb Global Solutions, Inc.",NAS:CLMB,13.1,Low ESG Risk,275,NAS,CLMB,Low Risk
+"Clipper Realty, Inc.",NYS:CLPR,24.6,Medium ESG Risk,276,NYS,CLPR,Medium Risk
+"Cloudflare, Inc.",NYS:NET,23.9,Medium ESG Risk,276,NYS,NET,Medium Risk
+Clover Health Investments Corp.,NAS:CLOV,32.7,High ESG Risk,276,NAS,CLOV,High Risk
+"CME Group, Inc.",NAS:CME,17.1,Low ESG Risk,277,NAS,CME,Low Risk
+CMS Energy Corp.,NYS:CMS,20.3,Medium ESG Risk,278,NYS,CMS,Medium Risk
+CNA Financial Corp.,NYS:CNA,28.9,Medium ESG Risk,278,NYS,CNA,Medium Risk
+CNB Financial Corp. (Pennsylvania),NAS:CCNE,31.0,High ESG Risk,278,NAS,CCNE,High Risk
+CNH Industrial NV,NYS:CNH,13.7,Low ESG Risk,279,NYS,CNH,Low Risk
+"CNO Financial Group, Inc.",NYS:CNO,21.7,Medium ESG Risk,279,NYS,CNO,Medium Risk
+CNX Resources Corp.,NYS:CNX,44.3,Severe ESG Risk,280,NYS,CNX,High Risk
+Coastal Financial Corp. (Washington),NAS:CCB,38.7,High ESG Risk,281,NAS,CCB,High Risk
+"Coca-Cola Consolidated, Inc.",NAS:COKE,39.6,High ESG Risk,281,NAS,COKE,High Risk
+Coca-Cola Europacific Partners plc,NAS:CCEP,13.6,Low ESG Risk,281,NAS,CCEP,Low Risk
+"Codexis, Inc.",NAS:CDXS,38.4,High ESG Risk,282,NAS,CDXS,High Risk
+"Coeur Mining, Inc.",NYS:CDE,32.0,High ESG Risk,282,NYS,CDE,High Risk
+"Cogent Biosciences, Inc.",NAS:COGT,30.5,High ESG Risk,283,NAS,COGT,High Risk
+"Cogent Communications Holdings, Inc.",NAS:CCOI,30.3,High ESG Risk,283,NAS,CCOI,High Risk
+Cognex Corp.,NAS:CGNX,9.9,Negligible ESG Risk,283,NAS,CGNX,Low Risk
+Cognizant Technology Solutions Corp.,NAS:CTSH,15.2,Low ESG Risk,284,NAS,CTSH,Low Risk
+"Cohen & Steers, Inc. (New York)",NYS:CNS,26.2,Medium ESG Risk,284,NYS,CNS,Medium Risk
+Coherent Corp.,NYS:COHR,17.5,Low ESG Risk,284,NYS,COHR,Low Risk
+"Coherus BioSciences, Inc.",NAS:CHRS,28.1,Medium ESG Risk,284,NAS,CHRS,Medium Risk
+"Cohu, Inc.",NAS:COHU,16.4,Low ESG Risk,284,NAS,COHU,Low Risk
+"Coinbase Global, Inc.",NAS:COIN,27.8,Medium ESG Risk,284,NAS,COIN,Medium Risk
+Colgate-Palmolive Co.,NYS:CL,24.1,Medium ESG Risk,285,NYS,CL,Medium Risk
+"Collegium Pharmaceutical, Inc.",NAS:COLL,29.4,Medium ESG Risk,285,NAS,COLL,Medium Risk
+"Colony Bankcorp, Inc.",NAS:CBAN,27.8,Medium ESG Risk,285,NAS,CBAN,Medium Risk
+"Columbia Banking System, Inc.",NAS:COLB,27.7,Medium ESG Risk,286,NAS,COLB,Medium Risk
+"Columbia Financial, Inc.",NAS:CLBK,29.5,Medium ESG Risk,286,NAS,CLBK,Medium Risk
+Columbia Sportswear Co.,NAS:COLM,14.5,Low ESG Risk,286,NAS,COLM,Low Risk
+Columbus McKinnon Corp.,NAS:CMCO,26.6,Medium ESG Risk,286,NAS,CMCO,Medium Risk
+Comcast Corp.,NAS:CMCSA,22.1,Medium ESG Risk,287,NAS,CMCSA,Medium Risk
+"Comerica, Inc.",NYS:CMA,25.0,Medium ESG Risk,287,NYS,CMA,Medium Risk
+"Comfort Systems USA, Inc.",NYS:FIX,35.1,High ESG Risk,287,NYS,FIX,High Risk
+"Commerce Bancshares, Inc. (Missouri)",NAS:CBSH,23.2,Medium ESG Risk,288,NAS,CBSH,Medium Risk
+Commercial Metals Co.,NYS:CMC,25.9,Medium ESG Risk,288,NYS,CMC,Medium Risk
+"Commercial Vehicle Group, Inc.",NAS:CVGI,29.3,Medium ESG Risk,288,NAS,CVGI,Medium Risk
+"CommScope Holding Co., Inc.",NAS:COMM,13.6,Low ESG Risk,289,NAS,COMM,Low Risk
+"Community Bank System, Inc.",NYS:CBU,24.5,Medium ESG Risk,289,NYS,CBU,Medium Risk
+"Community Health Systems, Inc.",NYS:CYH,34.2,High ESG Risk,289,NYS,CYH,High Risk
+"Community Healthcare Trust, Inc.",NYS:CHCT,17.6,Low ESG Risk,289,NYS,CHCT,Low Risk
+"Community Trust Bancorp, Inc. (Kentucky)",NAS:CTBI,31.9,High ESG Risk,289,NAS,CTBI,High Risk
+Community West Bancshares,NAS:CWBC,26.5,Medium ESG Risk,289,NAS,CWBC,Medium Risk
+"Commvault Systems, Inc.",NAS:CVLT,15.5,Low ESG Risk,289,NAS,CVLT,Low Risk
+Compass Diversified Holdings,NYS:CODI,30.5,High ESG Risk,291,NYS,CODI,High Risk
+"Compass Minerals International, Inc.",NYS:CMP,32.3,High ESG Risk,292,NYS,CMP,High Risk
+"Compass Therapeutics, Inc.",NAS:CMPX,33.9,High ESG Risk,292,NAS,CMPX,High Risk
+"Compass, Inc. (New York)",NYS:COMP.EQ,24.7,Medium ESG Risk,292,NYS,COMP.EQ,Medium Risk
+"CompoSecure, Inc.",NAS:CMPO,25.8,Medium ESG Risk,292,NAS,CMPO,Medium Risk
+"Comstock Resources, Inc.",NYS:CRK,45.0,Severe ESG Risk,293,NYS,CRK,High Risk
+Comtech Telecommunications Corp.,NAS:CMTL,22.4,Medium ESG Risk,293,NAS,CMTL,Medium Risk
+"Conagra Brands, Inc.",NYS:CAG,26.8,Medium ESG Risk,293,NYS,CAG,Medium Risk
+Concentrix Corp.,NAS:CNXC,14.3,Low ESG Risk,294,NAS,CNXC,Low Risk
+"Concrete Pumping Holdings, Inc.",NAS:BBCP,44.3,Severe ESG Risk,294,NAS,BBCP,High Risk
+"Conduent, Inc.",NAS:CNDT,21.9,Medium ESG Risk,295,NAS,CNDT,Medium Risk
+"Confluent, Inc.",NAS:CFLT,17.9,Low ESG Risk,295,NAS,CFLT,Low Risk
+CONMED Corp.,NYS:CNMD,27.6,Medium ESG Risk,295,NYS,CNMD,Medium Risk
+"ConnectOne Bancorp, Inc.",NAS:CNOB,34.1,High ESG Risk,295,NAS,CNOB,High Risk
+ConocoPhillips,NYS:COP,33.1,High ESG Risk,295,NYS,COP,High Risk
+"Consensus Cloud Solutions, Inc.",NAS:CCSI,24.2,Medium ESG Risk,296,NAS,CCSI,Medium Risk
+"CONSOL Energy, Inc.",NYS:CEIX,42.3,Severe ESG Risk,296,NYS,CEIX,High Risk
+"Consolidated Communications Holdings, Inc.",NAS:CNSL,35.6,High ESG Risk,296,NAS,CNSL,High Risk
+"Consolidated Edison, Inc.",NYS:ED,21.1,Medium ESG Risk,296,NYS,ED,Medium Risk
+Consolidated Water Co. Ltd.,NAS:CWCO,35.5,High ESG Risk,296,NAS,CWCO,High Risk
+"Constellation Brands, Inc.",NYS:STZ,26.4,Medium ESG Risk,296,NYS,STZ,Medium Risk
+Constellation Energy Corp.,NAS:CEG,28.5,Medium ESG Risk,296,NAS,CEG,Medium Risk
+Constellium SE,NYS:CSTM,21.8,Medium ESG Risk,297,NYS,CSTM,Medium Risk
+"Construction Partners, Inc.",NAS:ROAD,51.1,Severe ESG Risk,297,NAS,ROAD,High Risk
+"Consumer Portfolio Services, Inc.",NAS:CPSS,31.7,High ESG Risk,297,NAS,CPSS,High Risk
+"ContextLogic, Inc.",NAS:LOGC,24.2,Medium ESG Risk,298,NAS,LOGC,Medium Risk
+"Cooper-Standard Holdings, Inc.",NYS:CPS,16.0,Low ESG Risk,299,NYS,CPS,Low Risk
+Copa Holdings SA,NYS:CPA,30.8,High ESG Risk,299,NYS,CPA,High Risk
+"Copart, Inc.",NAS:CPRT,15.7,Low ESG Risk,300,NAS,CPRT,Low Risk
+COPT Defense Properties,NYS:CDP,10.7,Low ESG Risk,300,NYS,CDP,Low Risk
+"Corcept Therapeutics, Inc.",NAS:CORT,28.1,Medium ESG Risk,300,NAS,CORT,Medium Risk
+"Core & Main, Inc.",NYS:CNM,19.8,Low ESG Risk,300,NYS,CNM,Low Risk
+Core Laboratories Inc.,NYS:CLB,40.9,Severe ESG Risk,300,NYS,CLB,High Risk
+CoreCard Corp.,NYS:CCRD,25.6,Medium ESG Risk,301,NYS,CCRD,Medium Risk
+"CoreCivic, Inc.",NYS:CXW,27.5,Medium ESG Risk,301,NYS,CXW,Medium Risk
+"CorMedix, Inc.",NAS:CRMD,29.3,Medium ESG Risk,301,NAS,CRMD,Medium Risk
+"Corning, Inc.",NYS:GLW,16.7,Low ESG Risk,301,NYS,GLW,Low Risk
+"Corpay, Inc.",NYS:CPAY,22.5,Medium ESG Risk,302,NYS,CPAY,Medium Risk
+"Corsair Gaming, Inc.",NAS:CRSR,25.1,Medium ESG Risk,303,NAS,CRSR,Medium Risk
+"Corteva, Inc.",NYS:CTVA,33.8,High ESG Risk,303,NYS,CTVA,High Risk
+CorVel Corp.,NAS:CRVL,20.7,Medium ESG Risk,303,NAS,CRVL,Medium Risk
+"Costamare, Inc.",NYS:CMRE,24.9,Medium ESG Risk,305,NYS,CMRE,Medium Risk
+"CoStar Group, Inc.",NAS:CSGP,21.2,Medium ESG Risk,305,NAS,CSGP,Medium Risk
+Costco Wholesale Corp.,NAS:COST,29.1,Medium ESG Risk,305,NAS,COST,Medium Risk
+"Coterra Energy, Inc.",NYS:CTRA,32.7,High ESG Risk,305,NYS,CTRA,High Risk
+Coty Inc.,NYS:COTY,23.9,Medium ESG Risk,306,NYS,COTY,Medium Risk
+"Couchbase, Inc.",NAS:BASE,21.9,Medium ESG Risk,306,NAS,BASE,Medium Risk
+"Coupang, Inc.",NYS:CPNG,26.0,Medium ESG Risk,306,NYS,CPNG,Medium Risk
+"Coursera, Inc.",NYS:COUR,19.6,Low ESG Risk,306,NYS,COUR,Low Risk
+"Cousins Properties, Inc.",NYS:CUZ,10.3,Low ESG Risk,306,NYS,CUZ,Low Risk
+"Covenant Logistics Group, Inc.",NYS:CVLG,20.4,Medium ESG Risk,306,NYS,CVLG,Medium Risk
+"CPI Card Group, Inc.",NAS:PMTS,19.4,Low ESG Risk,308,NAS,PMTS,Low Risk
+"CRA International, Inc.",NAS:CRAI,19.1,Low ESG Risk,308,NAS,CRAI,Low Risk
+"Cracker Barrel Old Country Store, Inc.",NAS:CBRL,25.4,Medium ESG Risk,308,NAS,CBRL,Medium Risk
+Crawford & Co.,NYS:CRD.B,23.3,Medium ESG Risk,309,NYS,CRD.B,Medium Risk
+Credicorp Ltd.,NYS:BAP,21.2,Medium ESG Risk,310,NYS,BAP,Medium Risk
+Credit Acceptance Corp.,NAS:CACC,25.4,Medium ESG Risk,310,NAS,CACC,Medium Risk
+Credo Technology Group Holding Ltd.,NAS:CRDO,24.1,Medium ESG Risk,311,NAS,CRDO,Medium Risk
+Crescent Energy Co.,NYS:CRGY,43.2,Severe ESG Risk,311,NYS,CRGY,High Risk
+CRH Plc,NYS:CRH,19.0,Low ESG Risk,312,NYS,CRH,Low Risk
+"Cricut, Inc.",NAS:CRCT,19.8,Low ESG Risk,312,NAS,CRCT,Low Risk
+"Crinetics Pharmaceuticals, Inc.",NAS:CRNX,38.7,High ESG Risk,312,NAS,CRNX,High Risk
+CRISPR Therapeutics AG,NAS:CRSP,25.4,Medium ESG Risk,312,NAS,CRSP,Medium Risk
+Criteo SA,NAS:CRTO,16.3,Low ESG Risk,312,NAS,CRTO,Low Risk
+"Crocs, Inc.",NAS:CROX,15.3,Low ESG Risk,312,NAS,CROX,Low Risk
+"Cross Country Healthcare, Inc.",NAS:CCRN,19.3,Low ESG Risk,313,NAS,CCRN,Low Risk
+"CrossFirst Bankshares, Inc.",NAS:CFB,27.7,Medium ESG Risk,313,NAS,CFB,Medium Risk
+"CrowdStrike Holdings, Inc.",NAS:CRWD,17.8,Low ESG Risk,313,NAS,CRWD,Low Risk
+"Crown Castle, Inc.",NYS:CCI,12.0,Low ESG Risk,313,NYS,CCI,Low Risk
+"Crown Holdings, Inc.",NYS:CCK,9.1,Negligible ESG Risk,314,NYS,CCK,Low Risk
+"CryoPort, Inc.",NAS:CYRX,24.9,Medium ESG Risk,314,NAS,CYRX,Medium Risk
+"CS Disco, Inc.",NYS:LAW,23.9,Medium ESG Risk,314,NYS,LAW,Medium Risk
+"CSG Systems International, Inc.",NAS:CSGS,16.2,Low ESG Risk,314,NAS,CSGS,Low Risk
+"CSW Industrials, Inc.",NAS:CSWI,26.6,Medium ESG Risk,316,NAS,CSWI,Medium Risk
+CSX Corp.,NAS:CSX,21.1,Medium ESG Risk,316,NAS,CSX,Medium Risk
+"CTO Realty Growth, Inc.",NYS:CTO,18.6,Low ESG Risk,316,NYS,CTO,Low Risk
+CTS Corp.,NYS:CTS,12.8,Low ESG Risk,317,NYS,CTS,Low Risk
+CubeSmart,NYS:CUBE,16.6,Low ESG Risk,317,NYS,CUBE,Low Risk
+"Cue Biopharma, Inc.",NAS:CUE,28.2,Medium ESG Risk,318,NAS,CUE,Medium Risk
+"Cullen/Frost Bankers, Inc.",NYS:CFR,27.1,Medium ESG Risk,318,NYS,CFR,Medium Risk
+"Cullinan Therapeutics, Inc.",NAS:CGEM,39.8,High ESG Risk,318,NAS,CGEM,High Risk
+"Cummins, Inc.",NYS:CMI,18.8,Low ESG Risk,318,NYS,CMI,Low Risk
+"Cumulus Media, Inc.",NAS:CMLS,12.9,Low ESG Risk,318,NAS,CMLS,Low Risk
+CureVac NV,NAS:CVAC,27.5,Medium ESG Risk,318,NAS,CVAC,Medium Risk
+Curtiss-Wright Corp.,NYS:CW,37.1,High ESG Risk,319,NYS,CW,High Risk
+Cushman & Wakefield Plc,NYS:CWK,16.5,Low ESG Risk,319,NYS,CWK,Low Risk
+"Custom Truck One Source, Inc.",NYS:CTOS,28.9,Medium ESG Risk,319,NYS,CTOS,Medium Risk
+"Customers Bancorp, Inc.",NYS:CUBI,25.0,Medium ESG Risk,319,NYS,CUBI,Medium Risk
+"Cutera, Inc.",NAS:CUTR,25.5,Medium ESG Risk,319,NAS,CUTR,Medium Risk
+CVB Financial Corp.,NAS:CVBF,27.7,Medium ESG Risk,320,NAS,CVBF,Medium Risk
+"CVR Energy, Inc.",NYS:CVI,49.1,Severe ESG Risk,320,NYS,CVI,High Risk
+"CVRx, Inc.",NAS:CVRX,29.0,Medium ESG Risk,320,NAS,CVRX,Medium Risk
+CVS Health Corp.,NYS:CVS,18.3,Low ESG Risk,320,NYS,CVS,Low Risk
+CyberArk Software Ltd.,NAS:CYBR,15.7,Low ESG Risk,320,NAS,CYBR,Low Risk
+"Cytek Biosciences, Inc.",NAS:CTKB,29.0,Medium ESG Risk,321,NAS,CTKB,Medium Risk
+"Cytokinetics, Inc.",NAS:CYTK,27.6,Medium ESG Risk,322,NAS,CYTK,Medium Risk
+"D.R. Horton, Inc.",NYS:DHI,21.6,Medium ESG Risk,322,NYS,DHI,Medium Risk
+Dada Nexus Ltd.,NAS:DADA,21.7,Medium ESG Risk,323,NAS,DADA,Medium Risk
+Daily Journal Corp.,NAS:DJCO,14.6,Low ESG Risk,326,NAS,DJCO,Low Risk
+"Daktronics, Inc.",NAS:DAKT,17.6,Low ESG Risk,328,NAS,DAKT,Low Risk
+"Dana, Inc.",NYS:DAN,14.8,Low ESG Risk,329,NYS,DAN,Low Risk
+Danaher Corp.,NYS:DHR,10.5,Low ESG Risk,329,NYS,DHR,Low Risk
+Danaos Corp.,NYS:DAC,20.4,Medium ESG Risk,330,NYS,DAC,Medium Risk
+"Danimer Scientific, Inc.",NYS:DNMR,36.3,High ESG Risk,330,NYS,DNMR,High Risk
+Daqo New Energy Corp.,NYS:DQ,23.5,Medium ESG Risk,331,NYS,DQ,Medium Risk
+"Darden Restaurants, Inc.",NYS:DRI,27.5,Medium ESG Risk,331,NYS,DRI,Medium Risk
+"Darling Ingredients, Inc.",NYS:DAR,19.5,Low ESG Risk,332,NYS,DAR,Low Risk
+"Datadog, Inc.",NAS:DDOG,16.1,Low ESG Risk,332,NAS,DDOG,Low Risk
+"Dave & Buster's Entertainment, Inc.",NAS:PLAY,30.5,High ESG Risk,333,NAS,PLAY,High Risk
+"DaVita, Inc.",NYS:DVA,21.8,Medium ESG Risk,333,NYS,DVA,Medium Risk
+"Day One Biopharmaceuticals, Inc.",NAS:DAWN,37.1,High ESG Risk,333,NAS,DAWN,High Risk
+"Dayforce, Inc.",NYS:DAY,17.3,Low ESG Risk,334,NYS,DAY,Low Risk
+Deckers Outdoor Corp.,NYS:DECK,14.2,Low ESG Risk,336,NYS,DECK,Low Risk
+Deere & Co.,NYS:DE,16.3,Low ESG Risk,336,NYS,DE,Low Risk
+Definitive Healthcare Corp.,NAS:DH,16.1,Low ESG Risk,336,NAS,DH,Low Risk
+"Delek US Holdings, Inc.",NYS:DK,37.4,High ESG Risk,337,NYS,DK,High Risk
+"Dell Technologies, Inc.",NYS:DELL,15.7,Low ESG Risk,338,NYS,DELL,Low Risk
+"Delta Air Lines, Inc.",NYS:DAL,30.5,High ESG Risk,338,NYS,DAL,High Risk
+Deluxe Corp.,NYS:DLX,10.0,Low ESG Risk,338,NYS,DLX,Low Risk
+"Denali Therapeutics, Inc.",NAS:DNLI,24.9,Medium ESG Risk,339,NAS,DNLI,Medium Risk
+Denny's Corp.,NAS:DENN,26.0,Medium ESG Risk,339,NAS,DENN,Medium Risk
+"Dentsply Sirona, Inc.",NAS:XRAY,12.1,Low ESG Risk,340,NAS,XRAY,Low Risk
+"Design Therapeutics, Inc.",NAS:DSGN,28.3,Medium ESG Risk,341,NAS,DSGN,Medium Risk
+"Designer Brands, Inc.",NYS:DBI,17.4,Low ESG Risk,341,NYS,DBI,Low Risk
+"Desktop Metal, Inc.",NYS:DM,23.1,Medium ESG Risk,341,NYS,DM,Medium Risk
+"Destination XL Group, Inc.",NAS:DXLG,17.0,Low ESG Risk,341,NAS,DXLG,Low Risk
+Devon Energy Corp.,NYS:DVN,31.6,High ESG Risk,343,NYS,DVN,High Risk
+"DexCom, Inc.",NAS:DXCM,21.7,Medium ESG Risk,343,NAS,DXCM,Medium Risk
+"DHI Group, Inc.",NYS:DHX,25.0,Medium ESG Risk,345,NYS,DHX,Medium Risk
+"DHT Holdings, Inc.",NYS:DHT,31.9,High ESG Risk,345,NYS,DHT,High Risk
+"Diamond Hill Investment Group, Inc.",NAS:DHIL,27.3,Medium ESG Risk,346,NAS,DHIL,Medium Risk
+"Diamondback Energy, Inc.",NAS:FANG,37.3,High ESG Risk,346,NAS,FANG,High Risk
+DiamondRock Hospitality Co.,NYS:DRH,13.1,Low ESG Risk,346,NYS,DRH,Low Risk
+"Dick's Sporting Goods, Inc.",NYS:DKS,16.6,Low ESG Risk,346,NYS,DKS,Low Risk
+"Diebold Nixdorf, Inc.",NYS:DBD,17.4,Low ESG Risk,347,NYS,DBD,Low Risk
+"Digi International, Inc.",NAS:DGII,17.7,Low ESG Risk,347,NAS,DGII,Low Risk
+Digimarc Corp.,NAS:DMRC,20.6,Medium ESG Risk,347,NAS,DMRC,Medium Risk
+"Digital Realty Trust, Inc.",NYS:DLR,12.6,Low ESG Risk,348,NYS,DLR,Low Risk
+"Digital Turbine, Inc.",NAS:APPS,20.3,Medium ESG Risk,348,NAS,APPS,Medium Risk
+"DigitalBridge Group, Inc.",NYS:DBRG,19.0,Low ESG Risk,348,NYS,DBRG,Low Risk
+"DigitalOcean Holdings, Inc.",NYS:DOCN,26.1,Medium ESG Risk,348,NYS,DOCN,Medium Risk
+"Dillard's, Inc.",NYS:DDS,18.2,Low ESG Risk,348,NYS,DDS,Low Risk
+"Dime Community Bancshares, Inc.",NAS:DCOM,28.8,Medium ESG Risk,348,NAS,DCOM,Medium Risk
+"Dine Brands Global, Inc.",NYS:DIN,29.3,Medium ESG Risk,348,NYS,DIN,Medium Risk
+Dingdong (Cayman) Ltd.,NYS:DDL,32.7,High ESG Risk,349,NYS,DDL,High Risk
+"Diodes, Inc.",NAS:DIOD,23.1,Medium ESG Risk,349,NAS,DIOD,Medium Risk
+"Disc Medicine, Inc.",NAS:IRON,30.1,High ESG Risk,350,NAS,IRON,High Risk
+Discover Financial Services,NYS:DFS,22.8,Medium ESG Risk,350,NYS,DFS,Medium Risk
+"Distribution Solutions Group, Inc.",NAS:DSGR,24.6,Medium ESG Risk,350,NAS,DSGR,Medium Risk
+Diversified Healthcare Trust,NAS:DHC,16.3,Low ESG Risk,351,NAS,DHC,Low Risk
+DLocal Ltd.,NAS:DLO,22.2,Medium ESG Risk,352,NAS,DLO,Medium Risk
+"DMC Global, Inc.",NAS:BOOM,29.6,Medium ESG Risk,352,NAS,BOOM,Medium Risk
+"DNOW, Inc.",NYS:DNOW,18.5,Low ESG Risk,353,NYS,DNOW,Low Risk
+"DocGo, Inc.",NAS:DCGO,24.1,Medium ESG Risk,353,NAS,DCGO,Medium Risk
+"DocuSign, Inc.",NAS:DOCU,17.0,Low ESG Risk,353,NAS,DOCU,Low Risk
+"Dolby Laboratories, Inc.",NYS:DLB,11.9,Low ESG Risk,354,NYS,DLB,Low Risk
+Dole Plc,NYS:DOLE,19.0,Low ESG Risk,354,NYS,DOLE,Low Risk
+Dollar General Corp.,NYS:DG,21.2,Medium ESG Risk,354,NYS,DG,Medium Risk
+"Dollar Tree, Inc.",NAS:DLTR,18.8,Low ESG Risk,354,NAS,DLTR,Low Risk
+"Dominion Energy, Inc.",NYS:D,28.6,Medium ESG Risk,355,NYS,D,Medium Risk
+"Domino's Pizza, Inc.",NYS:DPZ,27.5,Medium ESG Risk,355,NYS,DPZ,Medium Risk
+"Domo, Inc.",NAS:DOMO,23.6,Medium ESG Risk,355,NAS,DOMO,Medium Risk
+"Donaldson Co., Inc.",NYS:DCI,29.3,Medium ESG Risk,355,NYS,DCI,Medium Risk
+"Donegal Group, Inc.",NAS:DGICA,31.8,High ESG Risk,355,NAS,DGICA,High Risk
+"Donnelley Financial Solutions, Inc.",NYS:DFIN,19.6,Low ESG Risk,357,NYS,DFIN,Low Risk
+"DoorDash, Inc.",NAS:DASH,21.9,Medium ESG Risk,357,NAS,DASH,Medium Risk
+Dorian LPG Ltd.,NYS:LPG,34.7,High ESG Risk,358,NYS,LPG,High Risk
+"Dorman Products, Inc.",NAS:DORM,15.9,Low ESG Risk,358,NAS,DORM,Low Risk
+"DoubleVerify Holdings, Inc.",NYS:DV,18.4,Low ESG Risk,359,NYS,DV,Low Risk
+"Douglas Dynamics, Inc.",NYS:PLOW,28.5,Medium ESG Risk,359,NYS,PLOW,Medium Risk
+"Douglas Elliman, Inc.",NYS:DOUG,23.1,Medium ESG Risk,359,NYS,DOUG,Medium Risk
+"Douglas Emmett, Inc.",NYS:DEI,22.7,Medium ESG Risk,359,NYS,DEI,Medium Risk
+Dover Corp.,NYS:DOV,24.5,Medium ESG Risk,360,NYS,DOV,Medium Risk
+"Dow, Inc.",NYS:DOW,19.6,Low ESG Risk,360,NYS,DOW,Low Risk
+"Doximity, Inc.",NYS:DOCS,20.9,Medium ESG Risk,360,NYS,DOCS,Medium Risk
+"DraftKings, Inc.",NAS:DKNG,34.7,High ESG Risk,361,NAS,DKNG,High Risk
+Dragonfly Energy Holdings Corp.,NAS:DFLI,26.7,Medium ESG Risk,361,NAS,DFLI,Medium Risk
+"Dream Finders Homes, Inc.",NYS:DFH,21.9,Medium ESG Risk,362,NYS,DFH,Medium Risk
+"Driven Brands Holdings, Inc.",NAS:DRVN,17.9,Low ESG Risk,362,NAS,DRVN,Low Risk
+"Dropbox, Inc.",NAS:DBX,18.8,Low ESG Risk,362,NAS,DBX,Low Risk
+"DT Midstream, Inc.",NYS:DTM,28.9,Medium ESG Risk,363,NYS,DTM,Medium Risk
+DTE Energy Co.,NYS:DTE,31.3,High ESG Risk,363,NYS,DTE,High Risk
+"Ducommun, Inc.",NYS:DCO,37.5,High ESG Risk,364,NYS,DCO,High Risk
+Duke Energy Corp.,NYS:DUK,26.8,Medium ESG Risk,364,NYS,DUK,Medium Risk
+"Duluth Holdings, Inc.",NAS:DLTH,25.8,Medium ESG Risk,365,NAS,DLTH,Medium Risk
+"Dun & Bradstreet Holdings, Inc.",NYS:DNB,18.2,Low ESG Risk,365,NYS,DNB,Low Risk
+"Duolingo, Inc.",NAS:DUOL,27.0,Medium ESG Risk,365,NAS,DUOL,Medium Risk
+"DuPont de Nemours, Inc.",NYS:DD,26.5,Medium ESG Risk,365,NYS,DD,Medium Risk
+"Dutch Bros, Inc.",NYS:BROS,38.9,High ESG Risk,366,NYS,BROS,High Risk
+DXC Technology Co.,NYS:DXC,15.3,Low ESG Risk,366,NYS,DXC,Low Risk
+"DXP Enterprises, Inc.",NAS:DXPE,25.1,Medium ESG Risk,366,NAS,DXPE,Medium Risk
+"Dycom Industries, Inc.",NYS:DY,40.3,Severe ESG Risk,366,NYS,DY,High Risk
+"Dynatrace, Inc.",NYS:DT,15.0,Low ESG Risk,367,NYS,DT,Low Risk
+Dynavax Technologies Corp.,NAS:DVAX,27.7,Medium ESG Risk,367,NAS,DVAX,Medium Risk
+"Dyne Therapeutics, Inc.",NAS:DYN,26.0,Medium ESG Risk,367,NAS,DYN,Medium Risk
+"Dynex Capital, Inc.",NYS:DX,15.8,Low ESG Risk,367,NYS,DX,Low Risk
+"e.l.f. Beauty, Inc.",NYS:ELF,21.5,Medium ESG Risk,368,NYS,ELF,Medium Risk
+"E2open Parent Holdings, Inc.",NYS:ETWO,14.1,Low ESG Risk,369,NYS,ETWO,Low Risk
+"Eagle Bancorp, Inc. (Maryland)",NAS:EGBN,29.0,Medium ESG Risk,369,NAS,EGBN,Medium Risk
+"Eagle Materials, Inc.",NYS:EXP,36.0,High ESG Risk,369,NYS,EXP,High Risk
+"East West Bancorp, Inc.",NAS:EWBC,25.9,Medium ESG Risk,370,NAS,EWBC,Medium Risk
+"Easterly Government Properties, Inc.",NYS:DEA,15.8,Low ESG Risk,370,NYS,DEA,Low Risk
+"Eastern Bankshares, Inc.",NAS:EBC,30.6,High ESG Risk,371,NAS,EBC,High Risk
+"EastGroup Properties, Inc.",NYS:EGP,12.8,Low ESG Risk,371,NYS,EGP,Low Risk
+Eastman Chemical Co.,NYS:EMN,24.6,Medium ESG Risk,371,NYS,EMN,Medium Risk
+Eastman Kodak Co.,NYS:KODK,23.0,Medium ESG Risk,371,NYS,KODK,Medium Risk
+Eaton Corp. Plc,NYS:ETN,20.4,Medium ESG Risk,372,NYS,ETN,Medium Risk
+"eBay, Inc.",NAS:EBAY,15.4,Low ESG Risk,372,NAS,EBAY,Low Risk
+EchoStar Corp.,NAS:SATS,27.8,Medium ESG Risk,373,NAS,SATS,Medium Risk
+"Ecolab, Inc.",NYS:ECL,23.9,Medium ESG Risk,374,NYS,ECL,Medium Risk
+"Ecovyst, Inc.",NYS:ECVT,31.4,High ESG Risk,375,NYS,ECVT,High Risk
+Edgewell Personal Care Co.,NYS:EPC,25.2,Medium ESG Risk,375,NYS,EPC,Medium Risk
+"Edgewise Therapeutics, Inc.",NAS:EWTX,28.5,Medium ESG Risk,375,NAS,EWTX,Medium Risk
+Edison International,NYS:EIX,24.0,Medium ESG Risk,376,NYS,EIX,Medium Risk
+"Editas Medicine, Inc.",NAS:EDIT,25.2,Medium ESG Risk,376,NAS,EDIT,Medium Risk
+Edwards Lifesciences Corp.,NYS:EW,21.7,Medium ESG Risk,376,NYS,EW,Medium Risk
+eGain Corp.,NAS:EGAN,23.3,Medium ESG Risk,377,NAS,EGAN,Medium Risk
+EHang Holdings Ltd.,NAS:EH,19.4,Low ESG Risk,378,NAS,EH,Low Risk
+"eHealth, Inc.",NAS:EHTH,18.3,Low ESG Risk,378,NAS,EHTH,Low Risk
+"El Pollo Loco Holdings, Inc.",NAS:LOCO,29.7,Medium ESG Risk,379,NAS,LOCO,Medium Risk
+"Elanco Animal Health, Inc.",NYS:ELAN,18.6,Low ESG Risk,380,NYS,ELAN,Low Risk
+Elastic NV,NYS:ESTC,15.9,Low ESG Risk,380,NYS,ESTC,Low Risk
+"Electronic Arts, Inc.",NAS:EA,13.2,Low ESG Risk,381,NAS,EA,Low Risk
+"Element Solutions, Inc.",NYS:ESI,23.4,Medium ESG Risk,382,NYS,ESI,Medium Risk
+"Elevance Health, Inc.",NYS:ELV,10.0,Negligible ESG Risk,382,NYS,ELV,Low Risk
+Eli Lilly & Co.,NYS:LLY,23.6,Medium ESG Risk,383,NYS,LLY,Medium Risk
+"Ellington Financial, Inc.",NYS:EFC,17.0,Low ESG Risk,384,NYS,EFC,Low Risk
+Elme Communities,NYS:ELME,9.8,Negligible ESG Risk,384,NYS,ELME,Low Risk
+Embecta Corp.,NAS:EMBC,22.2,Medium ESG Risk,386,NAS,EMBC,Medium Risk
+"EMCOR Group, Inc.",NYS:EME,33.1,High ESG Risk,386,NYS,EME,High Risk
+"Emerald Expositions Events, Inc.",NYS:EEX,18.1,Low ESG Risk,387,NYS,EEX,Low Risk
+"Emergent BioSolutions, Inc.",NYS:EBS,21.7,Medium ESG Risk,387,NYS,EBS,Medium Risk
+Emerson Electric Co.,NYS:EMR,22.8,Medium ESG Risk,387,NYS,EMR,Medium Risk
+"Empire State Realty Trust, Inc.",NYS:ESRT,12.6,Low ESG Risk,388,NYS,ESRT,Low Risk
+"Employers Holdings, Inc.",NYS:EIG,30.3,High ESG Risk,389,NYS,EIG,High Risk
+"Enact Holdings, Inc.",NAS:ACT,22.5,Medium ESG Risk,390,NAS,ACT,Medium Risk
+"Enanta Pharmaceuticals, Inc.",NAS:ENTA,24.9,Medium ESG Risk,390,NAS,ENTA,Medium Risk
+Encompass Health Corp.,NYS:EHC,30.6,High ESG Risk,391,NYS,EHC,High Risk
+"Encore Capital Group, Inc.",NAS:ECPG,22.6,Medium ESG Risk,391,NAS,ECPG,Medium Risk
+Endava Plc,NYS:DAVA,14.2,Low ESG Risk,392,NYS,DAVA,Low Risk
+"Endeavor Group Holdings, Inc.",NYS:EDR,27.8,Medium ESG Risk,392,NYS,EDR,Medium Risk
+"Energizer Holdings, Inc.",NYS:ENR,20.5,Medium ESG Risk,394,NYS,ENR,Medium Risk
+"Energy Recovery, Inc.",NAS:ERII,24.5,Medium ESG Risk,394,NAS,ERII,Medium Risk
+Energy Transfer LP,NYS:ET,39.6,High ESG Risk,395,NYS,ET,High Risk
+"Energy Vault Holdings, Inc.",NYS:NRGV,27.8,Medium ESG Risk,395,NYS,NRGV,Medium Risk
+Enerpac Tool Group Corp.,NYS:EPAC,22.1,Medium ESG Risk,395,NYS,EPAC,Medium Risk
+EnerSys,NYS:ENS,25.7,Medium ESG Risk,395,NYS,ENS,Medium Risk
+"Enfusion, Inc.",NYS:ENFN,23.1,Medium ESG Risk,396,NYS,ENFN,Medium Risk
+"Enhabit, Inc.",NYS:EHAB,33.9,High ESG Risk,397,NYS,EHAB,High Risk
+EnLink Midstream LLC,NYS:ENLC,23.7,Medium ESG Risk,397,NYS,ENLC,Medium Risk
+"Enliven Therapeutics, Inc.",NAS:ELVN,30.9,High ESG Risk,398,NAS,ELVN,High Risk
+"Ennis, Inc.",NYS:EBF,9.4,Negligible ESG Risk,398,NYS,EBF,Low Risk
+"Enova International, Inc.",NYS:ENVA,24.1,Medium ESG Risk,398,NYS,ENVA,Medium Risk
+Enovis Corp.,NYS:ENOV,31.1,High ESG Risk,398,NYS,ENOV,High Risk
+Enovix Corp.,NAS:ENVX,28.0,Medium ESG Risk,398,NAS,ENVX,Medium Risk
+"Enphase Energy, Inc.",NAS:ENPH,19.9,Low ESG Risk,399,NAS,ENPH,Low Risk
+"Enpro, Inc.",NYS:NPO,30.8,High ESG Risk,399,NYS,NPO,High Risk
+Enstar Group Ltd.,NAS:ESGR,22.6,Medium ESG Risk,399,NAS,ESGR,Medium Risk
+"Entegris, Inc.",NAS:ENTG,18.7,Low ESG Risk,399,NAS,ENTG,Low Risk
+Entergy Corp.,NYS:ETR,24.9,Medium ESG Risk,399,NYS,ETR,Medium Risk
+"Enterprise Bancorp, Inc.",NAS:EBTC,30.4,High ESG Risk,400,NAS,EBTC,High Risk
+Enterprise Financial Services Corp.,NAS:EFSC,32.6,High ESG Risk,400,NAS,EFSC,High Risk
+Enterprise Products Partners LP,NYS:EPD,28.2,Medium ESG Risk,400,NYS,EPD,Medium Risk
+"Entrada Therapeutics, Inc.",NAS:TRDA,26.0,Medium ESG Risk,400,NAS,TRDA,Medium Risk
+Entravision Communications Corp.,NYS:EVC,18.9,Low ESG Risk,400,NYS,EVC,Low Risk
+"Envestnet, Inc.",NYS:ENV,24.5,Medium ESG Risk,400,NYS,ENV,Medium Risk
+Enviri Corp.,NYS:NVRI,18.7,Low ESG Risk,401,NYS,NVRI,Low Risk
+Envista Holdings Corp.,NYS:NVST,26.9,Medium ESG Risk,401,NYS,NVST,Medium Risk
+"EOG Resources, Inc.",NYS:EOG,34.4,High ESG Risk,401,NYS,EOG,High Risk
+"Eos Energy Enterprises, Inc.",NAS:EOSE,24.7,Medium ESG Risk,402,NAS,EOSE,Medium Risk
+"EPAM Systems, Inc.",NYS:EPAM,27.4,Medium ESG Risk,402,NYS,EPAM,Medium Risk
+"ePlus, Inc.",NAS:PLUS,23.4,Medium ESG Risk,403,NAS,PLUS,Medium Risk
+EPR Properties,NYS:EPR,16.0,Low ESG Risk,403,NYS,EPR,Low Risk
+EQT Corp.,NYS:EQT,31.7,High ESG Risk,403,NYS,EQT,High Risk
+"Equifax, Inc.",NYS:EFX,21.3,Medium ESG Risk,404,NYS,EFX,Medium Risk
+"Equinix, Inc.",NAS:EQIX,13.1,Low ESG Risk,404,NAS,EQIX,Low Risk
+"Equitable Holdings, Inc.",NYS:EQH,16.2,Low ESG Risk,404,NYS,EQH,Low Risk
+"Equity Bancshares, Inc.",NYS:EQBK,30.1,High ESG Risk,405,NYS,EQBK,High Risk
+Equity Commonwealth,NYS:EQC,16.6,Low ESG Risk,405,NYS,EQC,Low Risk
+"Equity LifeStyle Properties, Inc.",NYS:ELS,13.9,Low ESG Risk,405,NYS,ELS,Low Risk
+Equity Residential,NYS:EQR,11.4,Low ESG Risk,405,NYS,EQR,Low Risk
+"Erasca, Inc.",NAS:ERAS,33.2,High ESG Risk,405,NAS,ERAS,High Risk
+Erie Indemnity Co.,NAS:ERIE,27.9,Medium ESG Risk,406,NAS,ERIE,Medium Risk
+"Escalade, Inc.",NAS:ESCA,12.6,Low ESG Risk,407,NAS,ESCA,Low Risk
+"ESCO Technologies, Inc.",NYS:ESE,29.4,Medium ESG Risk,407,NYS,ESE,Medium Risk
+"Esquire Financial Holdings, Inc.",NAS:ESQ,35.8,High ESG Risk,408,NAS,ESQ,High Risk
+"ESS Tech, Inc.",NYS:GWH,27.7,Medium ESG Risk,408,NYS,GWH,Medium Risk
+"ESSA Bancorp, Inc.",NAS:ESSA,38.3,High ESG Risk,409,NAS,ESSA,High Risk
+Essent Group Ltd.,NYS:ESNT,22.3,Medium ESG Risk,409,NYS,ESNT,Medium Risk
+"Essential Properties Realty Trust, Inc.",NYS:EPRT,18.4,Low ESG Risk,409,NYS,EPRT,Low Risk
+"Essential Utilities, Inc.",NYS:WTRG,18.5,Low ESG Risk,409,NYS,WTRG,Low Risk
+"Essex Property Trust, Inc.",NYS:ESS,11.6,Low ESG Risk,409,NYS,ESS,Low Risk
+"Establishment Labs Holdings, Inc.",NAS:ESTA,30.7,High ESG Risk,409,NAS,ESTA,High Risk
+"Ethan Allen Interiors, Inc.",NYS:ETD,13.1,Low ESG Risk,410,NYS,ETD,Low Risk
+"Etsy, Inc.",NAS:ETSY,15.6,Low ESG Risk,410,NAS,ETSY,Low Risk
+"Euronet Worldwide, Inc.",NAS:EEFT,21.4,Medium ESG Risk,412,NAS,EEFT,Medium Risk
+"European Wax Center, Inc.",NAS:EWCZ,17.0,Low ESG Risk,413,NAS,EWCZ,Low Risk
+"Eve Holding, Inc.",NYS:EVEX,31.2,High ESG Risk,414,NYS,EVEX,High Risk
+"Eventbrite, Inc.",NYS:EB,26.5,Medium ESG Risk,414,NYS,EB,Medium Risk
+"EverCommerce, Inc.",NAS:EVCM,26.3,Medium ESG Risk,414,NAS,EVCM,Medium Risk
+"Evercore, Inc.",NYS:EVR,26.3,Medium ESG Risk,415,NYS,EVR,Medium Risk
+"Evergy, Inc.",NAS:EVRG,29.2,Medium ESG Risk,415,NAS,EVRG,Medium Risk
+"Everi Holdings, Inc.",NYS:EVRI,18.2,Low ESG Risk,415,NYS,EVRI,Low Risk
+"EverQuote, Inc.",NAS:EVER,26.8,Medium ESG Risk,416,NAS,EVER,Medium Risk
+Eversource Energy,NYS:ES,18.1,Low ESG Risk,416,NYS,ES,Low Risk
+"EVERTEC, Inc.",NYS:EVTC,17.7,Low ESG Risk,416,NYS,EVTC,Low Risk
+"EVgo, Inc.",NAS:EVGO,23.4,Medium ESG Risk,416,NAS,EVGO,Medium Risk
+"Evolent Health, Inc.",NYS:EVH,21.5,Medium ESG Risk,417,NYS,EVH,Medium Risk
+"Evolus, Inc.",NAS:EOLS,39.1,High ESG Risk,417,NAS,EOLS,High Risk
+"Evolv Technologies Holdings, Inc.",NAS:EVLV,16.4,Low ESG Risk,417,NAS,EVLV,Low Risk
+EXACT Sciences Corp.,NAS:EXAS,20.9,Medium ESG Risk,418,NAS,EXAS,Medium Risk
+"Excelerate Energy, Inc.",NYS:EE,39.7,High ESG Risk,418,NYS,EE,High Risk
+"Exelixis, Inc.",NAS:EXEL,22.5,Medium ESG Risk,418,NAS,EXEL,Medium Risk
+Exelon Corp.,NAS:EXC,18.8,Low ESG Risk,419,NAS,EXC,Low Risk
+"ExlService Holdings, Inc.",NAS:EXLS,12.0,Low ESG Risk,419,NAS,EXLS,Low Risk
+"eXp World Holdings, Inc.",NAS:EXPI,20.6,Medium ESG Risk,419,NAS,EXPI,Medium Risk
+"Expedia Group, Inc.",NAS:EXPE,22.5,Medium ESG Risk,419,NAS,EXPE,Medium Risk
+"Expeditors International of Washington, Inc.",NYS:EXPD,16.2,Low ESG Risk,419,NYS,EXPD,Low Risk
+"Expensify, Inc.",NAS:EXFY,24.3,Medium ESG Risk,419,NAS,EXFY,Medium Risk
+"Exponent, Inc.",NAS:EXPO,20.8,Medium ESG Risk,420,NAS,EXPO,Medium Risk
+Expro Group Holdings NV,NYS:XPRO,24.3,Medium ESG Risk,420,NYS,XPRO,Medium Risk
+"Extra Space Storage, Inc.",NYS:EXR,14.2,Low ESG Risk,420,NYS,EXR,Low Risk
+"Extreme Networks, Inc.",NAS:EXTR,17.1,Low ESG Risk,420,NAS,EXTR,Low Risk
+Exxon Mobil Corp.,NYS:XOM,43.7,Severe ESG Risk,421,NYS,XOM,High Risk
+"Eyenovia, Inc.",NAS:EYEN,33.4,High ESG Risk,421,NAS,EYEN,High Risk
+"EyePoint Pharmaceuticals, Inc.",NAS:EYPT,39.1,High ESG Risk,421,NAS,EYPT,High Risk
+"EZCORP, Inc.",NAS:EZPW,24.8,Medium ESG Risk,421,NAS,EZPW,Medium Risk
+F.N.B. Corp. (Pennsylvania),NYS:FNB,25.5,Medium ESG Risk,422,NYS,FNB,Medium Risk
+"F&G Annuities & Life, Inc.",NYS:FG,28.0,Medium ESG Risk,422,NYS,FG,Medium Risk
+"F5, Inc.",NAS:FFIV,16.3,Low ESG Risk,422,NAS,FFIV,Low Risk
+Fabrinet,NYS:FN,7.7,Negligible ESG Risk,422,NYS,FN,Low Risk
+"FactSet Research Systems, Inc.",NYS:FDS,16.5,Low ESG Risk,422,NYS,FDS,Low Risk
+Fair Isaac Corp.,NYS:FICO,20.1,Medium ESG Risk,423,NYS,FICO,Medium Risk
+"Farmers & Merchants Bancorp, Inc.",NAS:FMAO,28.0,Medium ESG Risk,425,NAS,FMAO,Medium Risk
+Farmers National Banc Corp.,NAS:FMNB,27.0,Medium ESG Risk,425,NAS,FMNB,Medium Risk
+"Farmland Partners, Inc.",NYS:FPI,20.0,Medium ESG Risk,425,NYS,FPI,Medium Risk
+"FARO Technologies, Inc.",NAS:FARO,16.0,Low ESG Risk,425,NAS,FARO,Low Risk
+Fastenal Co.,NAS:FAST,25.0,Medium ESG Risk,426,NAS,FAST,Medium Risk
+"Fastly, Inc.",NYS:FSLY,24.2,Medium ESG Risk,426,NYS,FSLY,Medium Risk
+"Fate Therapeutics, Inc.",NAS:FATE,27.8,Medium ESG Risk,426,NAS,FATE,Medium Risk
+FB Financial Corp.,NYS:FBK,29.8,Medium ESG Risk,427,NYS,FBK,Medium Risk
+Federal Agricultural Mortgage Corp.,NYS:AGM,25.4,Medium ESG Risk,428,NYS,AGM,Medium Risk
+Federal Realty Investment Trust,NYS:FRT,12.4,Low ESG Risk,429,NYS,FRT,Low Risk
+Federal Signal Corp.,NYS:FSS,25.8,Medium ESG Risk,429,NYS,FSS,Medium Risk
+"Federated Hermes, Inc.",NYS:FHI,31.6,High ESG Risk,429,NYS,FHI,High Risk
+FedEx Corp.,NYS:FDX,19.0,Low ESG Risk,429,NYS,FDX,Low Risk
+Ferroglobe PLC,NAS:GSM,45.3,Severe ESG Risk,430,NAS,GSM,High Risk
+"FibroGen, Inc.",NAS:FGEN,27.7,Medium ESG Risk,432,NAS,FGEN,Medium Risk
+"Fidelity D&D Bancorp, Inc.",NAS:FDBC,32.1,High ESG Risk,432,NAS,FDBC,High Risk
+"Fidelity National Financial, Inc.",NYS:FNF,24.4,Medium ESG Risk,433,NYS,FNF,Medium Risk
+"Fidelity National Information Services, Inc.",NYS:FIS,14.4,Low ESG Risk,433,NYS,FIS,Low Risk
+Fifth Third Bancorp,NAS:FITB,16.9,Low ESG Risk,433,NAS,FITB,Low Risk
+"FIGS, Inc.",NYS:FIGS,14.4,Low ESG Risk,433,NYS,FIGS,Low Risk
+"Finance of America Cos., Inc.",NYS:FOA,24.8,Medium ESG Risk,434,NYS,FOA,Medium Risk
+"Financial Institutions, Inc.",NAS:FISI,27.8,Medium ESG Risk,434,NAS,FISI,Medium Risk
+FinVolution Group,NYS:FINV,18.7,Low ESG Risk,436,NYS,FINV,Low Risk
+First Advantage Corp.,NAS:FA,22.4,Medium ESG Risk,436,NAS,FA,Medium Risk
+First American Financial Corp.,NYS:FAF,25.7,Medium ESG Risk,436,NYS,FAF,Medium Risk
+First Bancorp (North Carolina),NAS:FBNC,29.6,Medium ESG Risk,436,NAS,FBNC,Medium Risk
+First BanCorp (Puerto Rico),NYS:FBP,25.2,Medium ESG Risk,437,NYS,FBP,Medium Risk
+"First Bank (Hamilton, New Jersey)",NAS:FRBA,33.1,High ESG Risk,437,NAS,FRBA,High Risk
+First Busey Corp.,NAS:BUSE,27.7,Medium ESG Risk,437,NAS,BUSE,Medium Risk
+"First Business Financial Services, Inc.",NAS:FBIZ,31.5,High ESG Risk,437,NAS,FBIZ,High Risk
+"First Citizens BancShares, Inc. (North Carolina)",NAS:FCNCA,31.2,High ESG Risk,437,NAS,FCNCA,High Risk
+First Commonwealth Financial Corp. (Pennsylvania),NYS:FCF,29.6,Medium ESG Risk,437,NYS,FCF,Medium Risk
+"First Community Bancshares, Inc. (Virginia)",NAS:FCBC,28.4,Medium ESG Risk,437,NAS,FCBC,Medium Risk
+First Financial Bancorp (Ohio),NAS:FFBC,25.4,Medium ESG Risk,438,NAS,FFBC,Medium Risk
+"First Financial Bankshares, Inc.",NAS:FFIN,29.7,Medium ESG Risk,438,NAS,FFIN,Medium Risk
+First Financial Corp. (Indiana),NAS:THFF,27.6,Medium ESG Risk,438,NAS,THFF,Medium Risk
+"First Foundation, Inc.",NYS:FFWM,33.4,High ESG Risk,438,NYS,FFWM,High Risk
+"First Hawaiian, Inc.",NAS:FHB,22.5,Medium ESG Risk,438,NAS,FHB,Medium Risk
+First Horizon Corp. (Tennessee),NYS:FHN,23.1,Medium ESG Risk,438,NYS,FHN,Medium Risk
+"First Industrial Realty Trust, Inc.",NYS:FR,15.0,Low ESG Risk,438,NYS,FR,Low Risk
+"First Interstate BancSystem, Inc.",NAS:FIBK,31.0,High ESG Risk,438,NAS,FIBK,High Risk
+First Merchants Corp. (Indiana),NAS:FRME,30.6,High ESG Risk,439,NAS,FRME,High Risk
+"First Mid Bancshares, Inc.",NAS:FMBH,28.2,Medium ESG Risk,439,NAS,FMBH,Medium Risk
+"First Solar, Inc.",NAS:FSLR,17.3,Low ESG Risk,440,NAS,FSLR,Low Risk
+"First Watch Restaurant Group, Inc.",NAS:FWRG,30.2,High ESG Risk,440,NAS,FWRG,High Risk
+"First Western Financial, Inc.",NAS:MYFW,39.3,High ESG Risk,440,NAS,MYFW,High Risk
+"FirstCash Holdings, Inc.",NAS:FCFS,27.9,Medium ESG Risk,440,NAS,FCFS,Medium Risk
+FirstEnergy Corp.,NYS:FE,28.1,Medium ESG Risk,440,NYS,FE,Medium Risk
+"Fiscalnote Holdings, Inc.",NYS:NOTE,25.3,Medium ESG Risk,441,NYS,NOTE,Medium Risk
+"Fiserv, Inc.",NYS:FI,17.5,Low ESG Risk,441,NYS,FI,Low Risk
+"Five Below, Inc.",NAS:FIVE,20.9,Medium ESG Risk,442,NAS,FIVE,Medium Risk
+Five Star Bancorp,NAS:FSBC,28.5,Medium ESG Risk,442,NAS,FSBC,Medium Risk
+"Five9, Inc.",NAS:FIVN,27.4,Medium ESG Risk,442,NAS,FIVN,Medium Risk
+Fiverr International Ltd.,NYS:FVRR,22.5,Medium ESG Risk,442,NYS,FVRR,Medium Risk
+FLEX LNG Ltd.,NYS:FLNG,27.9,Medium ESG Risk,443,NYS,FLNG,Medium Risk
+Flex Ltd.,NAS:FLEX,7.6,Negligible ESG Risk,443,NAS,FLEX,Low Risk
+"Floor & Decor Holdings, Inc.",NYS:FND,15.1,Low ESG Risk,444,NYS,FND,Low Risk
+"Flowers Foods, Inc.",NYS:FLO,36.4,High ESG Risk,444,NYS,FLO,High Risk
+Flowserve Corp.,NYS:FLS,22.0,Medium ESG Risk,444,NYS,FLS,Medium Risk
+"Fluence Energy, Inc.",NAS:FLNC,26.2,Medium ESG Risk,444,NAS,FLNC,Medium Risk
+Fluor Corp.,NYS:FLR,30.1,High ESG Risk,445,NYS,FLR,High Risk
+Flushing Financial Corp.,NAS:FFIC,28.9,Medium ESG Risk,445,NAS,FFIC,Medium Risk
+Flutter Entertainment Plc,NYS:FLUT,19.8,Low ESG Risk,445,NYS,FLUT,Low Risk
+Flywire Corp.,NAS:FLYW,19.6,Low ESG Risk,445,NAS,FLYW,Low Risk
+FMC Corp.,NYS:FMC,25.1,Medium ESG Risk,445,NYS,FMC,Medium Risk
+"Foghorn Therapeutics, Inc.",NAS:FHTX,30.8,High ESG Risk,446,NAS,FHTX,High Risk
+"Foot Locker, Inc.",NYS:FL,12.1,Low ESG Risk,447,NYS,FL,Low Risk
+Forafric Global Plc,NAS:AFRI,49.7,Severe ESG Risk,447,NAS,AFRI,High Risk
+Ford Motor Co.,NYS:F,22.8,Medium ESG Risk,448,NYS,F,Medium Risk
+"Forestar Group, Inc.",NYS:FOR,18.5,Low ESG Risk,448,NYS,FOR,Low Risk
+"Forge Global Holdings, Inc.",NYS:FRGE,25.3,Medium ESG Risk,448,NYS,FRGE,Medium Risk
+"FormFactor, Inc.",NAS:FORM,23.3,Medium ESG Risk,449,NAS,FORM,Medium Risk
+"Forrester Research, Inc.",NAS:FORR,19.6,Low ESG Risk,450,NAS,FORR,Low Risk
+"Fortinet, Inc.",NAS:FTNT,15.8,Low ESG Risk,450,NAS,FTNT,Low Risk
+Fortive Corp.,NYS:FTV,27.9,Medium ESG Risk,451,NYS,FTV,Medium Risk
+"Fortune Brands Innovations, Inc.",NYS:FBIN,20.9,Medium ESG Risk,452,NYS,FBIN,Medium Risk
+"Forum Energy Technologies, Inc.",NYS:FET,32.0,High ESG Risk,452,NYS,FET,High Risk
+Forward Air Corp.,NAS:FWRD,21.9,Medium ESG Risk,452,NAS,FWRD,Medium Risk
+"Fossil Group, Inc.",NAS:FOSL,13.5,Low ESG Risk,453,NAS,FOSL,Low Risk
+"Four Corners Property Trust, Inc.",NYS:FCPT,14.7,Low ESG Risk,453,NYS,FCPT,Low Risk
+Fox Corp.,NAS:FOXA,12.2,Low ESG Risk,453,NAS,FOXA,Low Risk
+Fox Factory Holding Corp.,NAS:FOXF,16.4,Low ESG Risk,453,NAS,FOXF,Low Risk
+"Franklin BSP Realty Trust, Inc.",NYS:FBRT,14.3,Low ESG Risk,455,NYS,FBRT,Low Risk
+Franklin Covey Co.,NYS:FC,23.9,Medium ESG Risk,455,NYS,FC,Medium Risk
+"Franklin Electric Co., Inc.",NAS:FELE,26.6,Medium ESG Risk,455,NAS,FELE,Medium Risk
+"Franklin Resources, Inc.",NYS:BEN,19.5,Low ESG Risk,455,NYS,BEN,Low Risk
+Freedom Holding Corp.,NAS:FRHC,35.8,High ESG Risk,456,NAS,FRHC,High Risk
+"Freeport-McMoRan, Inc.",NYS:FCX,28.1,Medium ESG Risk,456,NYS,FCX,Medium Risk
+"Fresh Del Monte Produce, Inc.",NYS:FDP,34.6,High ESG Risk,457,NYS,FDP,High Risk
+"Freshpet, Inc.",NAS:FRPT,38.2,High ESG Risk,457,NAS,FRPT,High Risk
+"Freshworks, Inc.",NAS:FRSH,21.5,Medium ESG Risk,457,NAS,FRSH,Medium Risk
+"Frontdoor, Inc.",NAS:FTDR,14.3,Low ESG Risk,458,NAS,FTDR,Low Risk
+"Frontier Communications Parent, Inc.",NAS:FYBR,29.9,Medium ESG Risk,458,NAS,FYBR,Medium Risk
+"Frontier Group Holdings, Inc.",NAS:ULCC,38.9,High ESG Risk,458,NAS,ULCC,High Risk
+Frontline Plc,NYS:FRO,29.0,Medium ESG Risk,458,NYS,FRO,Medium Risk
+"FRP Holdings, Inc.",NAS:FRPH,16.5,Low ESG Risk,458,NAS,FRPH,Low Risk
+"FS Bancorp, Inc.",NAS:FSBW,27.5,Medium ESG Risk,458,NAS,FSBW,Medium Risk
+FS Investment Corporation,NYS:FSK,28.0,Medium ESG Risk,459,NYS,FSK,Medium Risk
+FTAI Aviation Ltd.,NAS:FTAI,30.0,High ESG Risk,459,NAS,FTAI,High Risk
+"FTC Solar, Inc.",NAS:FTCI,21.3,Medium ESG Risk,459,NAS,FTCI,Medium Risk
+"FTI Consulting, Inc.",NYS:FCN,18.8,Low ESG Risk,459,NYS,FCN,Low Risk
+"fuboTV, Inc.",NYS:FUBO,19.4,Low ESG Risk,459,NYS,FUBO,Low Risk
+"FuelCell Energy, Inc.",NAS:FCEL,21.3,Medium ESG Risk,460,NAS,FCEL,Medium Risk
+"Fulgent Genetics, Inc.",NAS:FLGT,17.3,Low ESG Risk,464,NAS,FLGT,Low Risk
+"Full House Resorts, Inc.",NAS:FLL,34.2,High ESG Risk,464,NAS,FLL,High Risk
+"Full Truck Alliance Co., Ltd.",NYS:YMM,32.2,High ESG Risk,464,NYS,YMM,High Risk
+Fulton Financial Corp.,NAS:FULT,28.2,Medium ESG Risk,464,NAS,FULT,Medium Risk
+"Funko, Inc.",NAS:FNKO,14.7,Low ESG Risk,465,NAS,FNKO,Low Risk
+Futu Holdings Ltd.,NAS:FUTU,27.5,Medium ESG Risk,466,NAS,FUTU,Medium Risk
+FutureFuel Corp.,NYS:FF,34.6,High ESG Risk,466,NYS,FF,High Risk
+"FVCBankcorp, Inc.",NAS:FVCB,32.8,High ESG Risk,467,NAS,FVCB,High Risk
+G-III Apparel Group Ltd.,NAS:GIII,16.1,Low ESG Risk,467,NAS,GIII,Low Risk
+GameStop Corp.,NYS:GME,19.4,Low ESG Risk,469,NYS,GME,Low Risk
+"Gaming & Leisure Properties, Inc.",NAS:GLPI,14.8,Low ESG Risk,469,NAS,GLPI,Low Risk
+"Gannett Co., Inc.",NYS:GCI,15.2,Low ESG Risk,470,NYS,GCI,Low Risk
+"Gaotu Techedu, Inc.",NYS:GOTU,30.0,High ESG Risk,470,NYS,GOTU,High Risk
+"Gap, Inc.",NYS:GAP,16.1,Low ESG Risk,471,NYS,GAP,Low Risk
+Garmin Ltd.,NYS:GRMN,21.0,Medium ESG Risk,471,NYS,GRMN,Medium Risk
+"Garrett Motion, Inc.",NAS:GTX,11.0,Low ESG Risk,471,NAS,GTX,Low Risk
+"Gartner, Inc.",NYS:IT,19.2,Low ESG Risk,471,NYS,IT,Low Risk
+Gates Industrial Corp. Plc,NYS:GTES,28.5,Medium ESG Risk,471,NYS,GTES,Medium Risk
+GATX Corp.,NYS:GATX,24.6,Medium ESG Risk,472,NYS,GATX,Medium Risk
+"GCM Grosvenor, Inc.",NAS:GCMG,30.3,High ESG Risk,473,NAS,GCMG,High Risk
+GE Aerospace,NYS:GE,32.7,High ESG Risk,473,NYS,GE,High Risk
+"GE Healthcare Technologies, Inc.",NAS:GEHC,21.5,Medium ESG Risk,473,NAS,GEHC,Medium Risk
+Gen Digital Inc.,NAS:GEN,14.8,Low ESG Risk,475,NAS,GEN,Low Risk
+Genco Shipping & Trading Ltd.,NYS:GNK,25.4,Medium ESG Risk,475,NYS,GNK,Medium Risk
+Genelux Corp.,NAS:GNLX,31.4,High ESG Risk,475,NAS,GNLX,High Risk
+"Generac Holdings, Inc.",NYS:GNRC,21.9,Medium ESG Risk,475,NYS,GNRC,Medium Risk
+General Dynamics Corp.,NYS:GD,34.1,High ESG Risk,476,NYS,GD,High Risk
+"General Mills, Inc.",NYS:GIS,25.8,Medium ESG Risk,476,NYS,GIS,Medium Risk
+General Motors Co.,NYS:GM,27.0,Medium ESG Risk,476,NYS,GM,Medium Risk
+Generation Bio Co.,NAS:GBIO,32.6,High ESG Risk,476,NAS,GBIO,High Risk
+"Genesco, Inc.",NYS:GCO,16.2,Low ESG Risk,476,NYS,GCO,Low Risk
+Genesis Energy LP,NYS:GEL,26.0,Medium ESG Risk,477,NYS,GEL,Medium Risk
+Genie Energy Ltd.,NYS:GNE,54.7,Severe ESG Risk,477,NYS,GNE,High Risk
+Genpact Ltd.,NYS:G,13.8,Low ESG Risk,478,NYS,G,Low Risk
+Gentex Corp.,NAS:GNTX,17.5,Low ESG Risk,478,NAS,GNTX,Low Risk
+"Gentherm, Inc.",NAS:THRM,12.8,Low ESG Risk,478,NAS,THRM,Low Risk
+Genuine Parts Co.,NYS:GPC,12.8,Low ESG Risk,479,NYS,GPC,Low Risk
+"Genworth Financial, Inc.",NYS:GNW,24.9,Medium ESG Risk,479,NYS,GNW,Medium Risk
+GeoPark Ltd.,NYS:GPRK,25.4,Medium ESG Risk,479,NYS,GPRK,Medium Risk
+"German American Bancorp, Inc.",NAS:GABC,25.7,Medium ESG Risk,480,NAS,GABC,Medium Risk
+Geron Corp.,NAS:GERN,27.9,Medium ESG Risk,480,NAS,GERN,Medium Risk
+"Getty Images Holdings, Inc.",NYS:GETY,19.4,Low ESG Risk,481,NYS,GETY,Low Risk
+Getty Realty Corp.,NYS:GTY,18.4,Low ESG Risk,481,NYS,GTY,Low Risk
+"Gevo, Inc.",NAS:GEVO,28.8,Medium ESG Risk,481,NAS,GEVO,Medium Risk
+"Gibraltar Industries, Inc.",NAS:ROCK,26.0,Medium ESG Risk,482,NAS,ROCK,Medium Risk
+"Gilead Sciences, Inc.",NAS:GILD,21.7,Medium ESG Risk,483,NAS,GILD,Medium Risk
+"Ginkgo Bioworks Holdings, Inc.",NYS:DNA,33.3,High ESG Risk,483,NYS,DNA,High Risk
+"Gitlab, Inc.",NAS:GTLB,21.1,Medium ESG Risk,484,NAS,GTLB,Medium Risk
+"Glacier Bancorp, Inc.",NYS:GBCI,28.1,Medium ESG Risk,484,NYS,GBCI,Medium Risk
+Gladstone Commercial Corp.,NAS:GOOD,20.9,Medium ESG Risk,484,NAS,GOOD,Medium Risk
+Gladstone Land Corp.,NAS:LAND,21.1,Medium ESG Risk,484,NAS,LAND,Medium Risk
+Glatfelter Corp.,NYS:GLT,21.3,Medium ESG Risk,485,NYS,GLT,Medium Risk
+Glaukos Corp.,NYS:GKOS,19.1,Low ESG Risk,485,NYS,GKOS,Low Risk
+"Global Business Travel Group, Inc.",NYS:GBTG,20.8,Medium ESG Risk,486,NYS,GBTG,Medium Risk
+Global Industrial Co.,NYS:GIC,22.3,Medium ESG Risk,486,NYS,GIC,Medium Risk
+"Global Medical REIT, Inc.",NYS:GMRE,19.5,Low ESG Risk,487,NYS,GMRE,Low Risk
+"Global Net Lease, Inc.",NYS:GNL,20.3,Medium ESG Risk,487,NYS,GNL,Medium Risk
+Global Partners LP,NYS:GLP,42.1,Severe ESG Risk,487,NYS,GLP,High Risk
+"Global Payments, Inc.",NYS:GPN,19.5,Low ESG Risk,487,NYS,GPN,Low Risk
+"Global Ship Lease, Inc.",NYS:GSL,25.0,Medium ESG Risk,487,NYS,GSL,Medium Risk
+"Global Water Resources, Inc.",NAS:GWRS,44.8,Severe ESG Risk,488,NAS,GWRS,High Risk
+Global-e Online Ltd.,NAS:GLBE,24.9,Medium ESG Risk,488,NAS,GLBE,Medium Risk
+"GLOBALFOUNDRIES, Inc.",NAS:GFS,16.7,Low ESG Risk,488,NAS,GFS,Low Risk
+Globant SA,NYS:GLOB,15.7,Low ESG Risk,489,NYS,GLOB,Low Risk
+"Globe Life, Inc.",NYS:GL,20.3,Medium ESG Risk,489,NYS,GL,Medium Risk
+"Globus Medical, Inc.",NYS:GMED,29.2,Medium ESG Risk,489,NYS,GMED,Medium Risk
+"GMS, Inc.",NYS:GMS,26.6,Medium ESG Risk,491,NYS,GMS,Medium Risk
+"GoDaddy, Inc.",NYS:GDDY,18.6,Low ESG Risk,491,NYS,GDDY,Low Risk
+"Gogo, Inc.",NAS:GOGO,27.7,Medium ESG Risk,492,NAS,GOGO,Medium Risk
+"GoHealth, Inc.",NAS:GOCO,25.7,Medium ESG Risk,492,NAS,GOCO,Medium Risk
+Golar LNG Ltd.,NAS:GLNG,29.1,Medium ESG Risk,493,NAS,GLNG,Medium Risk
+"Golden Entertainment, Inc.",NAS:GDEN,30.7,High ESG Risk,493,NAS,GDEN,High Risk
+Golden Ocean Group Ltd.,NAS:GOGL,23.3,Medium ESG Risk,494,NAS,GOGL,Medium Risk
+"Goldman Sachs BDC, Inc.",NYS:GSBD,32.1,High ESG Risk,494,NYS,GSBD,High Risk
+"Golub Capital BDC, Inc.",NAS:GBDC,32.2,High ESG Risk,494,NAS,GBDC,High Risk
+"GoodRx Holdings, Inc.",NAS:GDRX,27.1,Medium ESG Risk,495,NAS,GDRX,Medium Risk
+Goodyear Tire & Rubber Co.,NAS:GT,15.8,Low ESG Risk,495,NAS,GT,Low Risk
+"Goosehead Insurance, Inc.",NAS:GSHD,22.1,Medium ESG Risk,495,NAS,GSHD,Medium Risk
+"GoPro, Inc.",NAS:GPRO,21.0,Medium ESG Risk,495,NAS,GPRO,Medium Risk
+Grab Holdings Ltd. (Singapore),NAS:GRAB,23.2,Medium ESG Risk,496,NAS,GRAB,Medium Risk
+"Graco, Inc.",NYS:GGG,26.9,Medium ESG Risk,497,NYS,GGG,Medium Risk
+GrafTech International Ltd.,NYS:EAF,22.4,Medium ESG Risk,497,NYS,EAF,Medium Risk
+Graham Holdings Co.,NYS:GHC,16.2,Low ESG Risk,497,NYS,GHC,Low Risk
+"Grand Canyon Education, Inc.",NAS:LOPE,13.8,Low ESG Risk,498,NAS,LOPE,Low Risk
+"Granite Construction, Inc.",NYS:GVA,27.6,Medium ESG Risk,499,NYS,GVA,Medium Risk
+"Granite Point Mortgage Trust, Inc.",NYS:GPMT,14.0,Low ESG Risk,499,NYS,GPMT,Low Risk
+"Granite Ridge Resources, Inc.",NYS:GRNT,50.5,Severe ESG Risk,499,NYS,GRNT,High Risk
+Graphic Packaging Holding Co.,NYS:GPK,16.0,Low ESG Risk,499,NYS,GPK,Low Risk
+"Gray Television, Inc.",NYS:GTN,19.3,Low ESG Risk,500,NYS,GTN,Low Risk
+Great Lakes Dredge & Dock Corp.,NAS:GLDD,33.3,High ESG Risk,500,NAS,GLDD,High Risk
+"Great Southern Bancorp, Inc. (Missouri)",NAS:GSBC,29.5,Medium ESG Risk,501,NAS,GSBC,Medium Risk
+"Green Brick Partners, Inc.",NYS:GRBK,24.4,Medium ESG Risk,502,NYS,GRBK,Medium Risk
+Green Dot Corp.,NYS:GDOT,26.8,Medium ESG Risk,502,NYS,GDOT,Medium Risk
+"Green Plains, Inc.",NAS:GPRE,23.4,Medium ESG Risk,503,NAS,GPRE,Medium Risk
+"Greenbrier Cos., Inc.",NYS:GBX,27.4,Medium ESG Risk,503,NYS,GBX,Medium Risk
+"Greene County Bancorp, Inc.",NAS:GCBC,34.4,High ESG Risk,503,NAS,GCBC,High Risk
+Greenfire Resources Ltd.,NYS:GFR,52.5,Severe ESG Risk,503,NYS,GFR,High Risk
+Greenlight Capital Re Ltd.,NAS:GLRE,35.9,High ESG Risk,503,NAS,GLRE,High Risk
+"Greif, Inc.",NYS:GEF,19.0,Low ESG Risk,504,NYS,GEF,Low Risk
+"Grid Dynamics Holdings, Inc.",NAS:GDYN,31.6,High ESG Risk,505,NAS,GDYN,High Risk
+Griffon Corp.,NYS:GFF,28.0,Medium ESG Risk,505,NYS,GFF,Medium Risk
+"Grindr, Inc.",NYS:GRND,21.7,Medium ESG Risk,506,NYS,GRND,Medium Risk
+Grocery Outlet Holding Corp.,NAS:GO,33.8,High ESG Risk,506,NAS,GO,High Risk
+"Group 1 Automotive, Inc.",NYS:GPI,13.1,Low ESG Risk,506,NYS,GPI,Low Risk
+"Groupon, Inc.",NAS:GRPN,29.2,Medium ESG Risk,507,NAS,GRPN,Medium Risk
+GrowGeneration Corp.,NAS:GRWG,30.2,High ESG Risk,507,NAS,GRWG,High Risk
+"Guaranty Bancshares, Inc.",NYS:GNTY,30.4,High ESG Risk,517,NYS,GNTY,High Risk
+"Guardant Health, Inc.",NAS:GH,24.9,Medium ESG Risk,518,NAS,GH,Medium Risk
+"Guess?, Inc.",NYS:GES,20.7,Medium ESG Risk,518,NYS,GES,Medium Risk
+"Guidewire Software, Inc.",NYS:GWRE,13.4,Low ESG Risk,518,NYS,GWRE,Low Risk
+Gulfport Energy Corp.,NYS:GPOR,43.0,Severe ESG Risk,520,NYS,GPOR,High Risk
+"GXO Logistics, Inc.",NYS:GXO,19.8,Low ESG Risk,523,NYS,GXO,Low Risk
+H.B. Fuller Co.,NYS:FUL,31.9,High ESG Risk,523,NYS,FUL,High Risk
+"H&E Equipment Services, Inc.",NAS:HEES,27.5,Medium ESG Risk,524,NAS,HEES,Medium Risk
+"H&R Block, Inc.",NYS:HRB,14.9,Low ESG Risk,524,NYS,HRB,Low Risk
+Haemonetics Corp.,NYS:HAE,12.1,Low ESG Risk,524,NYS,HAE,Low Risk
+"Hagerty, Inc.",NYS:HGTY,32.1,High ESG Risk,525,NYS,HGTY,High Risk
+Hallador Energy Co.,NAS:HNRG,56.8,Severe ESG Risk,527,NAS,HNRG,High Risk
+Halliburton Co.,NYS:HAL,23.8,Medium ESG Risk,527,NYS,HAL,Medium Risk
+"Halozyme Therapeutics, Inc.",NAS:HALO,19.9,Low ESG Risk,528,NAS,HALO,Low Risk
+"Hamilton Lane, Inc.",NAS:HLNE,30.9,High ESG Risk,529,NAS,HLNE,High Risk
+Hancock Whitney Corp.,NAS:HWC,31.1,High ESG Risk,530,NAS,HWC,High Risk
+"Hanesbrands, Inc.",NYS:HBI,16.2,Low ESG Risk,530,NYS,HBI,Low Risk
+Hanmi Financial Corp.,NAS:HAFC,28.8,Medium ESG Risk,534,NAS,HAFC,Medium Risk
+"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",NYS:HASI,12.4,Low ESG Risk,534,NYS,HASI,Low Risk
+"HarborOne Bancorp, Inc.",NAS:HONE,30.3,High ESG Risk,538,NAS,HONE,High Risk
+"Harley-Davidson, Inc.",NYS:HOG,13.1,Low ESG Risk,538,NYS,HOG,Low Risk
+"Harmonic, Inc.",NAS:HLIT,16.9,Low ESG Risk,538,NAS,HLIT,Low Risk
+"Harmony Biosciences Holdings, Inc.",NAS:HRMY,35.6,High ESG Risk,538,NAS,HRMY,High Risk
+"Harrow, Inc.",NAS:HROW,37.2,High ESG Risk,539,NAS,HROW,High Risk
+"Harvard Bioscience, Inc.",NAS:HBIO,22.9,Medium ESG Risk,539,NAS,HBIO,Medium Risk
+"Hasbro, Inc.",NAS:HAS,7.3,Negligible ESG Risk,539,NAS,HAS,Low Risk
+"HashiCorp, Inc.",NAS:HCP,25.6,Medium ESG Risk,539,NAS,HCP,Medium Risk
+"Haverty Furniture Cos., Inc.",NYS:HVT,15.9,Low ESG Risk,540,NYS,HVT,Low Risk
+"Hawaiian Electric Industries, Inc.",NYS:HE,34.0,High ESG Risk,540,NYS,HE,High Risk
+"Hawkins, Inc.",NAS:HWKN,29.7,Medium ESG Risk,540,NAS,HWKN,Medium Risk
+"Haynes International, Inc.",NAS:HAYN,35.0,High ESG Risk,540,NAS,HAYN,High Risk
+"Hayward Holdings, Inc.",NYS:HAYW,13.7,Low ESG Risk,540,NYS,HAYW,Low Risk
+"HBT Financial, Inc.",NAS:HBT,28.3,Medium ESG Risk,541,NAS,HBT,Medium Risk
+"HCA Healthcare, Inc.",NYS:HCA,27.8,Medium ESG Risk,541,NYS,HCA,Medium Risk
+"HCI Group, Inc.",NYS:HCI,32.7,High ESG Risk,541,NYS,HCI,High Risk
+"Health Catalyst, Inc.",NAS:HCAT,26.2,Medium ESG Risk,543,NAS,HCAT,Medium Risk
+"Healthcare Realty Trust, Inc.",NYS:HR,17.8,Low ESG Risk,544,NYS,HR,Low Risk
+"Healthcare Services Group, Inc.",NAS:HCSG,17.4,Low ESG Risk,544,NAS,HCSG,Low Risk
+"HealthEquity, Inc.",NAS:HQY,22.2,Medium ESG Risk,544,NAS,HQY,Medium Risk
+"HealthStream, Inc.",NAS:HSTM,18.2,Low ESG Risk,544,NAS,HSTM,Low Risk
+"Heartland Express, Inc.",NAS:HTLD,20.4,Medium ESG Risk,544,NAS,HTLD,Medium Risk
+"Heartland Financial USA, Inc.",NAS:HTLF,28.6,Medium ESG Risk,544,NAS,HTLF,Medium Risk
+Hecla Mining Co.,NYS:HL,32.1,High ESG Risk,545,NYS,HL,High Risk
+HEICO Corp.,NYS:HEI,39.0,High ESG Risk,545,NYS,HEI,High Risk
+"Heidrick & Struggles International, Inc.",NAS:HSII,10.3,Low ESG Risk,546,NAS,HSII,Low Risk
+Helen of Troy Ltd.,NAS:HELE,16.8,Low ESG Risk,547,NAS,HELE,Low Risk
+"Helios Technologies, Inc.",NYS:HLIO,26.6,Medium ESG Risk,547,NYS,HLIO,Medium Risk
+"Helix Energy Solutions Group, Inc.",NYS:HLX,19.3,Low ESG Risk,548,NYS,HLX,Low Risk
+"Hello Group, Inc.",NAS:MOMO,25.3,Medium ESG Risk,548,NAS,MOMO,Medium Risk
+"Helmerich & Payne, Inc.",NYS:HP,20.4,Medium ESG Risk,548,NYS,HP,Medium Risk
+"Henry Schein, Inc.",NAS:HSIC,14.4,Low ESG Risk,551,NAS,HSIC,Low Risk
+Herbalife Ltd.,NYS:HLF,21.9,Medium ESG Risk,551,NYS,HLF,Medium Risk
+"Herc Holdings, Inc.",NYS:HRI,19.6,Low ESG Risk,551,NYS,HRI,Low Risk
+Heritage Commerce Corp.,NAS:HTBK,31.2,High ESG Risk,552,NAS,HTBK,High Risk
+Heritage Financial Corp. (Washington),NAS:HFWA,25.6,Medium ESG Risk,552,NAS,HFWA,Medium Risk
+"Heron Therapeutics, Inc.",NAS:HRTX,30.8,High ESG Risk,552,NAS,HRTX,High Risk
+"Hertz Global Holdings, Inc.",NAS:HTZ,17.3,Low ESG Risk,552,NAS,HTZ,Low Risk
+Hess Corp.,NYS:HES,32.0,High ESG Risk,552,NYS,HES,High Risk
+Hess Midstream LP,NYS:HESM,25.3,Medium ESG Risk,553,NYS,HESM,Medium Risk
+Hewlett Packard Enterprise Co.,NYS:HPE,11.5,Low ESG Risk,553,NYS,HPE,Low Risk
+Hexcel Corp.,NYS:HXL,28.8,Medium ESG Risk,553,NYS,HXL,Medium Risk
+"HF Foods Group, Inc.",NAS:HFFG,17.7,Low ESG Risk,554,NAS,HFFG,Low Risk
+HF Sinclair Corp.,NYS:DINO,35.9,High ESG Risk,554,NYS,DINO,High Risk
+"HighPeak Energy, Inc.",NAS:HPK,32.6,High ESG Risk,555,NAS,HPK,High Risk
+"Highwoods Properties, Inc.",NYS:HIW,11.7,Low ESG Risk,555,NYS,HIW,Low Risk
+"Hillenbrand, Inc.",NYS:HI,29.7,Medium ESG Risk,556,NYS,HI,Medium Risk
+"HilleVax, Inc.",NAS:HLVX,28.8,Medium ESG Risk,556,NAS,HLVX,Medium Risk
+Hillman Solutions Corp.,NAS:HLMN,26.8,Medium ESG Risk,556,NAS,HLMN,Medium Risk
+"Hilltop Holdings, Inc.",NYS:HTH,30.1,High ESG Risk,556,NYS,HTH,High Risk
+"Hilton Grand Vacations, Inc.",NYS:HGV,23.9,Medium ESG Risk,556,NYS,HGV,Medium Risk
+"Hilton Worldwide Holdings, Inc.",NYS:HLT,17.4,Low ESG Risk,556,NYS,HLT,Low Risk
+"Hims & Hers Health, Inc.",NYS:HIMS,22.9,Medium ESG Risk,557,NYS,HIMS,Medium Risk
+Hingham Institution for Savings,NAS:HIFS,38.2,High ESG Risk,558,NAS,HIFS,High Risk
+"Hippo Holdings, Inc.",NYS:HIPO,22.8,Medium ESG Risk,558,NYS,HIPO,Medium Risk
+"HireQuest, Inc.",NAS:HQI,13.6,Low ESG Risk,559,NAS,HQI,Low Risk
+HNI Corp.,NYS:HNI,5.4,Negligible ESG Risk,562,NYS,HNI,Low Risk
+"Holley, Inc.",NYS:HLLY,26.0,Medium ESG Risk,564,NYS,HLLY,Medium Risk
+"Hologic, Inc.",NAS:HOLX,23.8,Medium ESG Risk,565,NAS,HOLX,Medium Risk
+"Home Bancorp, Inc.",NAS:HBCP,32.4,High ESG Risk,565,NAS,HBCP,High Risk
+"Home Bancshares, Inc. (Arkansas)",NYS:HOMB,27.3,Medium ESG Risk,565,NYS,HOMB,Medium Risk
+"HomeStreet, Inc.",NAS:HMST,27.3,Medium ESG Risk,566,NAS,HMST,Medium Risk
+"HomeTrust Bancshares, Inc.",NAS:HTBI,29.5,Medium ESG Risk,566,NAS,HTBI,Medium Risk
+"Honeywell International, Inc.",NAS:HON,27.1,Medium ESG Risk,567,NAS,HON,Medium Risk
+Hooker Furnishings Corp.,NAS:HOFT,13.7,Low ESG Risk,568,NAS,HOFT,Low Risk
+"Hope Bancorp, Inc.",NAS:HOPE,32.8,High ESG Risk,568,NAS,HOPE,High Risk
+Horace Mann Educators Corp.,NYS:HMN,21.9,Medium ESG Risk,568,NYS,HMN,Medium Risk
+"Horizon Bancorp, Inc. (Indiana)",NAS:HBNC,30.6,High ESG Risk,569,NAS,HBNC,High Risk
+Hormel Foods Corp.,NYS:HRL,26.1,Medium ESG Risk,569,NYS,HRL,Medium Risk
+"Host Hotels & Resorts, Inc.",NAS:HST,12.9,Low ESG Risk,570,NAS,HST,Low Risk
+"Houlihan Lokey, Inc.",NYS:HLI,26.1,Medium ESG Risk,571,NYS,HLI,Medium Risk
+"Hovnanian Enterprises, Inc.",NYS:HOV,21.6,Medium ESG Risk,571,NYS,HOV,Medium Risk
+"Howard Hughes Holdings, Inc.",NYS:HHH,22.8,Medium ESG Risk,571,NYS,HHH,Medium Risk
+"Howmet Aerospace, Inc.",NYS:HWM,23.6,Medium ESG Risk,571,NYS,HWM,Medium Risk
+"HP, Inc.",NYS:HPQ,10.6,Low ESG Risk,572,NYS,HPQ,Low Risk
+"Hub Group, Inc.",NAS:HUBG,22.6,Medium ESG Risk,576,NAS,HUBG,Medium Risk
+"Hubbell, Inc.",NYS:HUBB,17.9,Low ESG Risk,576,NYS,HUBB,Low Risk
+"HubSpot, Inc.",NYS:HUBS,14.6,Low ESG Risk,578,NYS,HUBS,Low Risk
+"Hudson Pacific Properties, Inc.",NYS:HPP,14.1,Low ESG Risk,578,NYS,HPP,Low Risk
+"Hudson Technologies, Inc.",NAS:HDSN,23.8,Medium ESG Risk,578,NAS,HDSN,Medium Risk
+"Humacyte, Inc.",NAS:HUMA,29.9,Medium ESG Risk,579,NAS,HUMA,Medium Risk
+"Humana, Inc.",NYS:HUM,18.9,Low ESG Risk,579,NYS,HUM,Low Risk
+"Huntington Bancshares, Inc.",NAS:HBAN,16.6,Low ESG Risk,582,NAS,HBAN,Low Risk
+"Huntington Ingalls Industries, Inc.",NYS:HII,34.2,High ESG Risk,582,NYS,HII,High Risk
+Huntsman Corp.,NYS:HUN,21.8,Medium ESG Risk,582,NYS,HUN,Medium Risk
+"Huron Consulting Group, Inc.",NAS:HURN,17.9,Low ESG Risk,582,NAS,HURN,Low Risk
+"HUYA, Inc.",NYS:HUYA,26.7,Medium ESG Risk,583,NYS,HUYA,Medium Risk
+Hyatt Hotels Corp.,NYS:H,29.1,Medium ESG Risk,583,NYS,H,Medium Risk
+Hyliion Holdings Corp.,NYS:HYLN,23.0,Medium ESG Risk,584,NYS,HYLN,Medium Risk
+"Hyster-Yale, Inc.",NYS:HY,36.1,High ESG Risk,585,NYS,HY,High Risk
+"i3 Verticals, Inc.",NAS:IIIV,26.3,Medium ESG Risk,588,NAS,IIIV,Medium Risk
+"IAC, Inc.",NAS:IAC,25.6,Medium ESG Risk,588,NAS,IAC,Medium Risk
+IBEX Ltd.,NAS:IBEX,22.4,Medium ESG Risk,589,NAS,IBEX,Medium Risk
+Icahn Enterprises LP,NAS:IEP,56.3,Severe ESG Risk,589,NAS,IEP,High Risk
+"ICF International, Inc.",NAS:ICFI,17.9,Low ESG Risk,590,NAS,ICFI,Low Risk
+Ichor Holdings Ltd.,NAS:ICHR,17.1,Low ESG Risk,590,NAS,ICHR,Low Risk
+ICL Group Ltd.,NYS:ICL,23.0,Medium ESG Risk,591,NYS,ICL,Medium Risk
+ICON plc,NAS:ICLR,15.6,Low ESG Risk,591,NAS,ICLR,Low Risk
+"ICU Medical, Inc.",NAS:ICUI,18.7,Low ESG Risk,591,NAS,ICUI,Low Risk
+"IDACORP, Inc.",NYS:IDA,32.7,High ESG Risk,591,NYS,IDA,High Risk
+"IDEAYA Biosciences, Inc.",NAS:IDYA,33.7,High ESG Risk,592,NAS,IDYA,High Risk
+IDEX Corp.,NYS:IEX,30.6,High ESG Risk,592,NYS,IEX,High Risk
+"IDEXX Laboratories, Inc.",NAS:IDXX,16.3,Low ESG Risk,592,NAS,IDXX,Low Risk
+IDT Corp.,NYS:IDT,33.6,High ESG Risk,593,NYS,IDT,High Risk
+"IES Holdings, Inc.",NAS:IESC,37.7,High ESG Risk,593,NAS,IESC,High Risk
+"IGM Biosciences, Inc.",NAS:IGMS,39.0,High ESG Risk,594,NAS,IGMS,High Risk
+"iHeartMedia, Inc.",NAS:IHRT,13.7,Low ESG Risk,594,NAS,IHRT,Low Risk
+IHS Holding Ltd.,NYS:IHS,18.3,Low ESG Risk,595,NYS,IHS,Low Risk
+"Ikena Oncology, Inc.",NAS:IKNA,32.4,High ESG Risk,595,NAS,IKNA,High Risk
+Illinois Tool Works Inc.,NYS:ITW,22.6,Medium ESG Risk,596,NYS,ITW,Medium Risk
+"Illumina, Inc.",NAS:ILMN,19.0,Low ESG Risk,596,NAS,ILMN,Low Risk
+IMAX Corp.,NYS:IMAX,18.3,Low ESG Risk,597,NYS,IMAX,Low Risk
+Immersion Corp.,NAS:IMMR,23.4,Medium ESG Risk,598,NAS,IMMR,Medium Risk
+Immuneering Corp.,NAS:IMRX,24.1,Medium ESG Risk,598,NAS,IMRX,Medium Risk
+"ImmunityBio, Inc.",NAS:IBRX,38.9,High ESG Risk,598,NAS,IBRX,High Risk
+"Immunovant, Inc.",NAS:IMVT,35.7,High ESG Risk,598,NAS,IMVT,High Risk
+"Impinj, Inc.",NAS:PI,32.1,High ESG Risk,599,NAS,PI,High Risk
+"Inari Medical, Inc.",NAS:NARI,31.0,High ESG Risk,600,NAS,NARI,High Risk
+Incyte Corp.,NAS:INCY,23.7,Medium ESG Risk,600,NAS,INCY,Medium Risk
+"Independence Realty Trust, Inc.",NYS:IRT,16.6,Low ESG Risk,600,NYS,IRT,Low Risk
+Independent Bank Corp. (Massachusetts),NAS:INDB,26.6,Medium ESG Risk,600,NAS,INDB,Medium Risk
+Independent Bank Corp. (Michigan),NAS:IBCP,27.1,Medium ESG Risk,601,NAS,IBCP,Medium Risk
+"Independent Bank Group, Inc.",NAS:IBTX,29.0,Medium ESG Risk,601,NAS,IBTX,Medium Risk
+"indie Semiconductor, Inc.",NAS:INDI,35.6,High ESG Risk,602,NAS,INDI,High Risk
+Infinera Corp.,NAS:INFN,17.9,Low ESG Risk,605,NAS,INFN,Low Risk
+"Informatica, Inc. (California)",NYS:INFA,17.5,Low ESG Risk,606,NYS,INFA,Low Risk
+"Information Services Group, Inc.",NAS:III,26.5,Medium ESG Risk,606,NAS,III,Medium Risk
+"Ingersoll Rand, Inc.",NYS:IR,10.2,Low ESG Risk,607,NYS,IR,Low Risk
+Ingevity Corp.,NYS:NGVT,22.9,Medium ESG Risk,607,NYS,NGVT,Medium Risk
+"Ingles Markets, Inc.",NAS:IMKTA,25.6,Medium ESG Risk,608,NAS,IMKTA,Medium Risk
+"Ingredion, Inc.",NYS:INGR,28.7,Medium ESG Risk,608,NYS,INGR,Medium Risk
+InMode Ltd.,NAS:INMD,28.2,Medium ESG Risk,608,NAS,INMD,Medium Risk
+"Innodata, Inc.",NAS:INOD,23.8,Medium ESG Risk,610,NAS,INOD,Medium Risk
+"Innospec, Inc.",NAS:IOSP,23.9,Medium ESG Risk,610,NAS,IOSP,Medium Risk
+InnovAge Holding Corp.,NAS:INNV,26.6,Medium ESG Risk,610,NAS,INNV,Medium Risk
+INNOVATE Corp.,NYS:VATE,44.4,Severe ESG Risk,610,NYS,VATE,High Risk
+"Innovative Industrial Properties, Inc.",NYS:IIPR,18.6,Low ESG Risk,611,NYS,IIPR,Low Risk
+"Innoviva, Inc.",NAS:INVA,30.2,High ESG Risk,611,NAS,INVA,High Risk
+"Inogen, Inc.",NAS:INGN,22.4,Medium ESG Risk,611,NAS,INGN,Medium Risk
+"Inozyme Pharma, Inc.",NAS:INZY,33.1,High ESG Risk,611,NAS,INZY,High Risk
+"Insight Enterprises, Inc.",NAS:NSIT,11.1,Low ESG Risk,612,NAS,NSIT,Low Risk
+"Insmed, Inc.",NAS:INSM,25.7,Medium ESG Risk,612,NAS,INSM,Medium Risk
+"Insperity, Inc.",NYS:NSP,12.4,Low ESG Risk,612,NYS,NSP,Low Risk
+"Inspire Medical Systems, Inc.",NYS:INSP,33.5,High ESG Risk,612,NYS,INSP,High Risk
+"Inspired Entertainment, Inc.",NAS:INSE,27.1,Medium ESG Risk,612,NAS,INSE,Medium Risk
+"Installed Building Products, Inc.",NYS:IBP,20.3,Medium ESG Risk,613,NYS,IBP,Medium Risk
+"Insteel Industries, Inc.",NYS:IIIN,30.9,High ESG Risk,613,NYS,IIIN,High Risk
+"Instructure Holdings, Inc.",NYS:INST,25.0,Medium ESG Risk,613,NYS,INST,Medium Risk
+Insulet Corp.,NAS:PODD,21.4,Medium ESG Risk,613,NAS,PODD,Medium Risk
+"Intapp, Inc.",NAS:INTA,23.4,Medium ESG Risk,614,NAS,INTA,Medium Risk
+Integer Holdings Corp.,NYS:ITGR,25.6,Medium ESG Risk,614,NYS,ITGR,Medium Risk
+Integra LifeSciences Holdings Corp.,NAS:IART,22.8,Medium ESG Risk,614,NAS,IART,Medium Risk
+Integral Ad Science Holding Corp.,NAS:IAS,22.4,Medium ESG Risk,614,NAS,IAS,Medium Risk
+Intel Corp.,NAS:INTC,15.3,Low ESG Risk,615,NAS,INTC,Low Risk
+"Intellia Therapeutics, Inc.",NAS:NTLA,26.9,Medium ESG Risk,615,NAS,NTLA,Medium Risk
+"Inter Parfums, Inc.",NAS:IPAR,33.9,High ESG Risk,615,NAS,IPAR,High Risk
+"Interactive Brokers Group, Inc.",NAS:IBKR,26.9,Medium ESG Risk,615,NAS,IBKR,Medium Risk
+"Intercontinental Exchange, Inc.",NYS:ICE,18.6,Low ESG Risk,616,NYS,ICE,Low Risk
+"InterDigital, Inc.",NAS:IDCC,21.7,Medium ESG Risk,616,NAS,IDCC,Medium Risk
+"Interface, Inc.",NAS:TILE,18.9,Low ESG Risk,617,NAS,TILE,Low Risk
+International Bancshares Corp.,NAS:IBOC,27.9,Medium ESG Risk,617,NAS,IBOC,Medium Risk
+International Business Machines Corp.,NYS:IBM,13.3,Low ESG Risk,617,NYS,IBM,Low Risk
+"International Flavors & Fragrances, Inc.",NYS:IFF,23.2,Medium ESG Risk,618,NYS,IFF,Medium Risk
+International Game Technology PLC,NYS:IGT,15.9,Low ESG Risk,618,NYS,IGT,Low Risk
+"International Money Express, Inc.",NAS:IMXI,33.6,High ESG Risk,618,NAS,IMXI,High Risk
+International Paper Co.,NYS:IP,23.4,Medium ESG Risk,619,NYS,IP,Medium Risk
+"International Seaways, Inc.",NYS:INSW,41.9,Severe ESG Risk,619,NYS,INSW,High Risk
+"Interpublic Group of Cos., Inc.",NYS:IPG,8.7,Negligible ESG Risk,619,NYS,IPG,Low Risk
+"Intevac, Inc.",NAS:IVAC,19.8,Low ESG Risk,620,NAS,IVAC,Low Risk
+"Intra-Cellular Therapies, Inc.",NAS:ITCI,33.9,High ESG Risk,621,NAS,ITCI,High Risk
+"Intrepid Potash, Inc.",NYS:IPI,38.6,High ESG Risk,621,NYS,IPI,High Risk
+"Intuit, Inc.",NAS:INTU,16.9,Low ESG Risk,621,NAS,INTU,Low Risk
+"Intuitive Surgical, Inc.",NAS:ISRG,19.5,Low ESG Risk,621,NAS,ISRG,Low Risk
+InvenTrust Properties Corp.,NYS:IVT,12.6,Low ESG Risk,622,NYS,IVT,Low Risk
+Invesco Ltd.,NYS:IVZ,21.1,Medium ESG Risk,622,NYS,IVZ,Medium Risk
+"Invesco Mortgage Capital, Inc.",NYS:IVR,17.5,Low ESG Risk,622,NYS,IVR,Low Risk
+Investors Title Co.,NAS:ITIC,29.4,Medium ESG Risk,623,NAS,ITIC,Medium Risk
+"Invitation Homes, Inc.",NYS:INVH,16.0,Low ESG Risk,624,NYS,INVH,Low Risk
+"Ionis Pharmaceuticals, Inc.",NAS:IONS,26.9,Medium ESG Risk,625,NAS,IONS,Medium Risk
+"IonQ, Inc.",NYS:IONQ,20.0,Medium ESG Risk,625,NYS,IONQ,Medium Risk
+"Iovance Biotherapeutics, Inc.",NAS:IOVA,28.2,Medium ESG Risk,625,NAS,IOVA,Medium Risk
+IPG Photonics Corp.,NAS:IPGP,10.7,Low ESG Risk,625,NAS,IPGP,Low Risk
+"iQIYI, Inc.",NAS:IQ,20.1,Medium ESG Risk,626,NAS,IQ,Medium Risk
+"IQVIA Holdings, Inc.",NYS:IQV,16.1,Low ESG Risk,626,NYS,IQV,Low Risk
+IRadimed Corp.,NAS:IRMD,30.1,High ESG Risk,626,NAS,IRMD,High Risk
+"iRhythm Technologies, Inc.",NAS:IRTC,27.4,Medium ESG Risk,627,NAS,IRTC,Medium Risk
+"Iridium Communications, Inc.",NAS:IRDM,24.9,Medium ESG Risk,627,NAS,IRDM,Medium Risk
+iRobot Corp.,NAS:IRBT,24.5,Medium ESG Risk,627,NAS,IRBT,Medium Risk
+"Iron Mountain, Inc.",NYS:IRM,14.1,Low ESG Risk,628,NYS,IRM,Low Risk
+"Ironwood Pharmaceuticals, Inc.",NAS:IRWD,18.9,Low ESG Risk,628,NAS,IRWD,Low Risk
+"iTeos Therapeutics, Inc.",NAS:ITOS,23.0,Medium ESG Risk,631,NAS,ITOS,Medium Risk
+"Iteris, Inc.",NAS:ITI,14.2,Low ESG Risk,632,NAS,ITI,Low Risk
+"Itron, Inc.",NAS:ITRI,12.2,Low ESG Risk,632,NAS,ITRI,Low Risk
+"ITT, Inc.",NYS:ITT,22.5,Medium ESG Risk,633,NYS,ITT,Medium Risk
+Ituran Location & Control Ltd.,NAS:ITRN,19.2,Low ESG Risk,633,NAS,ITRN,Low Risk
+"J.B. Hunt Transport Services, Inc.",NAS:JBHT,14.3,Low ESG Risk,635,NAS,JBHT,Low Risk
+"J.Jill, Inc.",NYS:JILL,17.7,Low ESG Risk,635,NYS,JILL,Low Risk
+J&J Snack Foods Corp.,NAS:JJSF,37.4,High ESG Risk,635,NAS,JJSF,High Risk
+"Jabil, Inc.",NYS:JBL,9.5,Negligible ESG Risk,635,NYS,JBL,Low Risk
+"Jack Henry & Associates, Inc.",NAS:JKHY,18.7,Low ESG Risk,636,NAS,JKHY,Low Risk
+"Jack in the Box, Inc.",NAS:JACK,28.1,Medium ESG Risk,636,NAS,JACK,Medium Risk
+"Jackson Financial, Inc.",NYS:JXN,24.1,Medium ESG Risk,636,NYS,JXN,Medium Risk
+"Jacobs Solutions, Inc.",NYS:J,23.5,Medium ESG Risk,636,NYS,J,Medium Risk
+"JAKKS Pacific, Inc.",NAS:JAKK,13.6,Low ESG Risk,637,NAS,JAKK,Low Risk
+James River Group Holdings Ltd.,NAS:JRVR,38.4,High ESG Risk,638,NAS,JRVR,High Risk
+Jamf Holding Corp.,NAS:JAMF,18.8,Low ESG Risk,638,NAS,JAMF,Low Risk
+Janus Henderson Group Plc,NYS:JHG,16.8,Low ESG Risk,638,NYS,JHG,Low Risk
+"Janus International Group, Inc.",NYS:JBI,32.0,High ESG Risk,638,NYS,JBI,High Risk
+"Janux Therapeutics, Inc.",NAS:JANX,28.8,Medium ESG Risk,639,NAS,JANX,Medium Risk
+Jazz Pharmaceuticals Plc,NAS:JAZZ,24.7,Medium ESG Risk,643,NAS,JAZZ,Medium Risk
+JBG SMITH Properties,NYS:JBGS,13.2,Low ESG Risk,643,NYS,JBGS,Low Risk
+"Jefferies Financial Group, Inc.",NYS:JEF,24.7,Medium ESG Risk,644,NYS,JEF,Medium Risk
+"JELD-WEN Holding, Inc.",NYS:JELD,27.9,Medium ESG Risk,645,NYS,JELD,Medium Risk
+JetBlue Airways Corp.,NAS:JBLU,30.4,High ESG Risk,646,NAS,JBLU,High Risk
+JFrog Ltd.,NAS:FROG,21.6,Medium ESG Risk,646,NAS,FROG,Medium Risk
+"JinkoSolar Holding Co., Ltd.",NYS:JKS,37.1,High ESG Risk,655,NYS,JKS,High Risk
+"Joby Aviation, Inc.",NYS:JOBY,40.3,Severe ESG Risk,658,NYS,JOBY,High Risk
+"John B. Sanfilippo & Son, Inc.",NAS:JBSS,31.4,High ESG Risk,658,NAS,JBSS,High Risk
+John Bean Technologies Corp.,NYS:JBT,27.0,Medium ESG Risk,658,NYS,JBT,Medium Risk
+"John Marshall Bancorp, Inc.",NAS:JMSB,30.1,High ESG Risk,658,NAS,JMSB,High Risk
+"John Wiley & Sons, Inc.",NYS:WLY,13.3,Low ESG Risk,658,NYS,WLY,Low Risk
+Johnson & Johnson,NYS:JNJ,20.1,Medium ESG Risk,659,NYS,JNJ,Medium Risk
+Johnson Controls International Plc,NYS:JCI,16.1,Low ESG Risk,659,NYS,JCI,Low Risk
+"Johnson Outdoors, Inc.",NAS:JOUT,11.3,Low ESG Risk,659,NAS,JOUT,Low Risk
+"Jones Lang LaSalle, Inc.",NYS:JLL,7.4,Negligible ESG Risk,660,NYS,JLL,Low Risk
+"JOYY, Inc.",NAS:YY,31.5,High ESG Risk,661,NAS,YY,High Risk
+JPMorgan Chase & Co.,NYS:JPM,27.5,Medium ESG Risk,661,NYS,JPM,Medium Risk
+"Juniper Networks, Inc.",NYS:JNPR,12.9,Low ESG Risk,664,NYS,JNPR,Low Risk
+Kadant Inc.,NYS:KAI,30.4,High ESG Risk,666,NYS,KAI,High Risk
+Kaiser Aluminum Corp.,NAS:KALU,27.9,Medium ESG Risk,667,NAS,KALU,Medium Risk
+"Kaltura, Inc.",NAS:KLTR,23.6,Medium ESG Risk,668,NAS,KLTR,Medium Risk
+"KalVista Pharmaceuticals, Inc.",NAS:KALV,32.5,High ESG Risk,669,NAS,KALV,High Risk
+"Karat Packaging, Inc.",NAS:KRT,22.5,Medium ESG Risk,672,NAS,KRT,Medium Risk
+"Karyopharm Therapeutics, Inc.",NAS:KPTI,29.6,Medium ESG Risk,673,NAS,KPTI,Medium Risk
+KB Home,NYS:KBH,17.9,Low ESG Risk,675,NYS,KBH,Low Risk
+"KBR, Inc.",NYS:KBR,18.5,Low ESG Risk,675,NYS,KBR,Low Risk
+Kearny Financial Corp.,NAS:KRNY,31.7,High ESG Risk,676,NAS,KRNY,High Risk
+Kellanova,NYS:K,30.3,High ESG Risk,678,NYS,K,High Risk
+"Kelly Services, Inc.",NAS:KELYA,9.0,Negligible ESG Risk,678,NAS,KELYA,Low Risk
+Kemper Corp.,NYS:KMPR,27.7,Medium ESG Risk,678,NYS,KMPR,Medium Risk
+"Kennametal, Inc.",NYS:KMT,19.1,Low ESG Risk,679,NYS,KMT,Low Risk
+"Kennedy-Wilson Holdings, Inc.",NYS:KW,15.2,Low ESG Risk,679,NYS,KW,Low Risk
+Kenon Holdings Ltd.,NYS:KEN,54.1,Severe ESG Risk,679,NYS,KEN,High Risk
+"Kenvue, Inc.",NYS:KVUE,17.0,Low ESG Risk,679,NYS,KVUE,Low Risk
+"Keros Therapeutics, Inc.",NAS:KROS,28.0,Medium ESG Risk,680,NAS,KROS,Medium Risk
+"Keurig Dr Pepper, Inc.",NAS:KDP,24.0,Medium ESG Risk,681,NAS,KDP,Medium Risk
+KeyCorp,NYS:KEY,22.4,Medium ESG Risk,682,NYS,KEY,Medium Risk
+"Keysight Technologies, Inc.",NYS:KEYS,8.9,Negligible ESG Risk,682,NYS,KEYS,Low Risk
+"Kezar Life Sciences, Inc.",NAS:KZR,25.3,Medium ESG Risk,682,NAS,KZR,Medium Risk
+"Kforce, Inc.",NYS:KFRC,8.6,Negligible ESG Risk,683,NYS,KFRC,Low Risk
+Kilroy Realty Corp.,NYS:KRC,13.5,Low ESG Risk,684,NYS,KRC,Low Risk
+"Kimball Electronics, Inc.",NAS:KE,4.5,Negligible ESG Risk,684,NAS,KE,Low Risk
+Kimbell Royalty Partners LP,NYS:KRP,42.6,Severe ESG Risk,684,NYS,KRP,High Risk
+Kimberly-Clark Corp.,NYS:KMB,24.3,Medium ESG Risk,685,NYS,KMB,Medium Risk
+Kimco Realty Corp.,NYS:KIM,10.4,Low ESG Risk,685,NYS,KIM,Low Risk
+"Kinder Morgan, Inc.",NYS:KMI,23.3,Medium ESG Risk,685,NYS,KMI,Medium Risk
+"Kinetik Holdings, Inc.",NYS:KNTK,33.7,High ESG Risk,686,NYS,KNTK,High Risk
+"Kingsway Financial Services, Inc.",NYS:KFS,30.5,High ESG Risk,687,NYS,KFS,High Risk
+"Kinsale Capital Group, Inc.",NYS:KNSL,28.4,Medium ESG Risk,688,NYS,KNSL,Medium Risk
+Kirby Corp.,NYS:KEX,21.0,Medium ESG Risk,689,NYS,KEX,Medium Risk
+Kite Realty Group Trust,NYS:KRG,9.8,Negligible ESG Risk,690,NYS,KRG,Low Risk
+"KKR & Co., Inc.",NYS:KKR,22.0,Medium ESG Risk,690,NYS,KKR,Medium Risk
+KKR Real Estate Finance Trust Inc.,NYS:KREF,17.8,Low ESG Risk,690,NYS,KREF,Low Risk
+KLA Corp.,NAS:KLAC,16.2,Low ESG Risk,691,NAS,KLAC,Low Risk
+"KLX Energy Services Holdings, Inc.",NAS:KLXE,38.3,High ESG Risk,691,NAS,KLXE,High Risk
+"Knight-Swift Transportation Holdings, Inc.",NYS:KNX,18.1,Low ESG Risk,692,NYS,KNX,Low Risk
+Knowles Corp.,NYS:KN,17.6,Low ESG Risk,692,NYS,KN,Low Risk
+"Kodiak Gas Services, Inc.",NYS:KGS,22.9,Medium ESG Risk,693,NYS,KGS,Medium Risk
+"Kodiak Sciences, Inc.",NAS:KOD,25.5,Medium ESG Risk,693,NAS,KOD,Medium Risk
+Kohl's Corp.,NYS:KSS,18.1,Low ESG Risk,694,NYS,KSS,Low Risk
+"Kontoor Brands, Inc.",NYS:KTB,14.4,Low ESG Risk,697,NYS,KTB,Low Risk
+"Koppers Holdings, Inc.",NYS:KOP,24.1,Medium ESG Risk,698,NYS,KOP,Medium Risk
+Korn Ferry,NYS:KFY,8.3,Negligible ESG Risk,701,NYS,KFY,Low Risk
+Kornit Digital Ltd.,NAS:KRNT,25.0,Medium ESG Risk,701,NAS,KRNT,Medium Risk
+"KORU Medical Systems, Inc.",NAS:KRMD,31.0,High ESG Risk,701,NAS,KRMD,High Risk
+Kosmos Energy Ltd.,NYS:KOS,27.8,Medium ESG Risk,701,NYS,KOS,Medium Risk
+"Kratos Defense & Security Solutions, Inc.",NAS:KTOS,45.9,Severe ESG Risk,703,NAS,KTOS,High Risk
+"Krispy Kreme, Inc.",NAS:DNUT,21.0,Medium ESG Risk,703,NAS,DNUT,Medium Risk
+"Kronos Worldwide, Inc.",NYS:KRO,27.2,Medium ESG Risk,703,NYS,KRO,Medium Risk
+"Krystal Biotech, Inc.",NAS:KRYS,34.3,High ESG Risk,704,NAS,KRYS,High Risk
+"Kulicke & Soffa Industries, Inc.",NAS:KLIC,17.9,Low ESG Risk,705,NAS,KLIC,Low Risk
+"Kura Oncology, Inc.",NAS:KURA,24.6,Medium ESG Risk,706,NAS,KURA,Medium Risk
+"Kura Sushi USA, Inc.",NAS:KRUS,33.5,High ESG Risk,707,NAS,KRUS,High Risk
+"KVH Industries, Inc. (Delaware)",NAS:KVHI,20.0,Low ESG Risk,708,NAS,KVHI,Low Risk
+"Kymera Therapeutics, Inc.",NAS:KYMR,27.5,Medium ESG Risk,709,NAS,KYMR,Medium Risk
+"Kyndryl Holdings, Inc.",NYS:KD,16.6,Low ESG Risk,709,NYS,KD,Low Risk
+"L3Harris Technologies, Inc.",NYS:LHX,20.1,Medium ESG Risk,712,NYS,LHX,Medium Risk
+"La-Z-Boy, Inc.",NYS:LZB,11.6,Low ESG Risk,712,NYS,LZB,Low Risk
+Ladder Capital Corp.,NYS:LADR,17.9,Low ESG Risk,713,NYS,LADR,Low Risk
+Lakeland Financial Corp. (Indiana),NAS:LKFN,29.1,Medium ESG Risk,714,NAS,LKFN,Medium Risk
+Lam Research Corp.,NAS:LRCX,12.2,Low ESG Risk,714,NAS,LRCX,Low Risk
+Lamar Advertising Co.,NAS:LAMR,18.5,Low ESG Risk,714,NAS,LAMR,Low Risk
+"Lamb Weston Holdings, Inc.",NYS:LW,22.5,Medium ESG Risk,714,NYS,LW,Medium Risk
+Lancaster Colony Corp.,NAS:LANC,28.6,Medium ESG Risk,714,NAS,LANC,Medium Risk
+"Lands' End, Inc.",NAS:LE,28.6,Medium ESG Risk,715,NAS,LE,Medium Risk
+Landsea Homes Corp.,NAS:LSEA,19.7,Low ESG Risk,716,NAS,LSEA,Low Risk
+"Landstar System, Inc.",NAS:LSTR,19.3,Low ESG Risk,716,NAS,LSTR,Low Risk
+"Lantheus Holdings, Inc.",NAS:LNTH,33.1,High ESG Risk,716,NAS,LNTH,High Risk
+"LanzaTech Global, Inc.",NAS:LNZA,36.6,High ESG Risk,716,NAS,LNZA,High Risk
+Las Vegas Sands Corp.,NYS:LVS,20.7,Medium ESG Risk,717,NYS,LVS,Medium Risk
+"Latham Group, Inc.",NAS:SWIM,33.9,High ESG Risk,718,NAS,SWIM,High Risk
+Lattice Semiconductor Corp.,NAS:LSCC,16.5,Low ESG Risk,718,NAS,LSCC,Low Risk
+"Laureate Education, Inc.",NAS:LAUR,18.9,Low ESG Risk,718,NAS,LAUR,Low Risk
+"Lazard, Inc.",NYS:LAZ,22.8,Medium ESG Risk,719,NYS,LAZ,Medium Risk
+"Lazydays Holdings, Inc.",NAS:GORV,20.8,Medium ESG Risk,719,NAS,GORV,Medium Risk
+LCI Industries,NYS:LCII,16.0,Low ESG Risk,719,NYS,LCII,Low Risk
+LCNB Corp.,NAS:LCNB,30.0,High ESG Risk,719,NAS,LCNB,High Risk
+Lear Corp.,NYS:LEA,11.6,Low ESG Risk,720,NYS,LEA,Low Risk
+Legacy Housing Corp.,NAS:LEGH,26.6,Medium ESG Risk,721,NAS,LEGH,Medium Risk
+"LegalZoom.com, Inc.",NAS:LZ,20.7,Medium ESG Risk,721,NAS,LZ,Medium Risk
+Legend Biotech Corp.,NAS:LEGN,34.0,High ESG Risk,721,NAS,LEGN,High Risk
+"Leggett & Platt, Inc.",NYS:LEG,12.5,Low ESG Risk,721,NYS,LEG,Low Risk
+"Leidos Holdings, Inc.",NYS:LDOS,17.3,Low ESG Risk,722,NYS,LDOS,Low Risk
+"LeMaitre Vascular, Inc.",NAS:LMAT,31.6,High ESG Risk,722,NAS,LMAT,High Risk
+"Lemonade, Inc.",NYS:LMND,33.3,High ESG Risk,722,NYS,LMND,High Risk
+LendingClub Corp.,NYS:LC,24.6,Medium ESG Risk,722,NYS,LC,Medium Risk
+"LendingTree, Inc.",NAS:TREE,29.1,Medium ESG Risk,722,NAS,TREE,Medium Risk
+Lennar Corp.,NYS:LEN,26.0,Medium ESG Risk,723,NYS,LEN,Medium Risk
+"Lennox International, Inc.",NYS:LII,19.7,Low ESG Risk,723,NYS,LII,Low Risk
+"Leonardo DRS, Inc.",NAS:DRS,35.5,High ESG Risk,723,NAS,DRS,High Risk
+"Leslie's, Inc.",NAS:LESL,16.4,Low ESG Risk,724,NAS,LESL,Low Risk
+Levi Strauss & Co.,NYS:LEVI,13.2,Low ESG Risk,724,NYS,LEVI,Low Risk
+"Lexicon Pharmaceuticals, Inc.",NAS:LXRX,25.0,Medium ESG Risk,725,NAS,LXRX,Medium Risk
+Lexinfintech Holdings Ltd.,NAS:LX,23.9,Medium ESG Risk,725,NAS,LX,Medium Risk
+"LGI Homes, Inc.",NAS:LGIH,23.1,Medium ESG Risk,726,NAS,LGIH,Medium Risk
+Li-Cycle Holdings Corp.,NYS:LICY,35.4,High ESG Risk,727,NYS,LICY,High Risk
+Liberty Broadband Corp.,NAS:LBRDK,18.6,Low ESG Risk,727,NAS,LBRDK,Low Risk
+"Liberty Energy, Inc.",NYS:LBRT,30.4,High ESG Risk,728,NYS,LBRT,High Risk
+Liberty Latin America Ltd.,NAS:LILAK,19.0,Low ESG Risk,728,NAS,LILAK,Low Risk
+Liberty Media Corp.,NAS:FWONK,19.6,Low ESG Risk,728,NAS,FWONK,Low Risk
+"Life Time Group Holdings, Inc.",NYS:LTH,32.0,High ESG Risk,729,NYS,LTH,High Risk
+"Life360, Inc.",NAS:LIF,26.3,Medium ESG Risk,729,NAS,LIF,Medium Risk
+"Lifestance Health Group, Inc.",NAS:LFST,26.7,Medium ESG Risk,730,NAS,LFST,Medium Risk
+"Ligand Pharmaceuticals, Inc.",NAS:LGND,24.5,Medium ESG Risk,730,NAS,LGND,Medium Risk
+"Light & Wonder, Inc.",NAS:LNW,32.4,High ESG Risk,731,NAS,LNW,High Risk
+"Lightwave Logic, Inc.",NAS:LWLG,33.4,High ESG Risk,731,NAS,LWLG,High Risk
+"Limbach Holdings, Inc.",NAS:LMB,26.5,Medium ESG Risk,731,NAS,LMB,Medium Risk
+Limoneira Co.,NAS:LMNR,37.1,High ESG Risk,731,NAS,LMNR,High Risk
+Lincoln Educational Services Corp.,NAS:LINC,17.4,Low ESG Risk,732,NAS,LINC,Low Risk
+"Lincoln Electric Holdings, Inc.",NAS:LECO,21.0,Medium ESG Risk,732,NAS,LECO,Medium Risk
+Lincoln National Corp.,NYS:LNC,18.3,Low ESG Risk,732,NYS,LNC,Low Risk
+"Lindblad Expeditions Holdings, Inc.",NAS:LIND,37.2,High ESG Risk,732,NAS,LIND,High Risk
+Linde Plc,NAS:LIN,11.6,Low ESG Risk,732,NAS,LIN,Low Risk
+Lindsay Corp.,NYS:LNN,22.5,Medium ESG Risk,732,NYS,LNN,Medium Risk
+Lions Gate Entertainment Corp.,NYS:LGF.A,18.1,Low ESG Risk,734,NYS,LGF.A,Low Risk
+Liquidia Corp.,NAS:LQDA,33.8,High ESG Risk,734,NAS,LQDA,High Risk
+"Liquidity Services, Inc.",NAS:LQDT,19.7,Low ESG Risk,734,NAS,LQDT,Low Risk
+"Lithia Motors, Inc.",NYS:LAD,10.2,Low ESG Risk,734,NYS,LAD,Low Risk
+"Littelfuse, Inc.",NAS:LFUS,17.0,Low ESG Risk,735,NAS,LFUS,Low Risk
+LivaNova Plc,NAS:LIVN,26.3,Medium ESG Risk,735,NAS,LIVN,Medium Risk
+"Live Nation Entertainment, Inc.",NYS:LYV,17.3,Low ESG Risk,735,NYS,LYV,Low Risk
+"Live Oak Bancshares, Inc.",NYS:LOB,34.6,High ESG Risk,735,NYS,LOB,High Risk
+"LivePerson, Inc.",NAS:LPSN,25.3,Medium ESG Risk,735,NAS,LPSN,Medium Risk
+"LiveRamp Holdings, Inc.",NYS:RAMP,23.3,Medium ESG Risk,735,NYS,RAMP,Medium Risk
+"LiveWire Group, Inc.",NYS:LVWR,13.1,Low ESG Risk,736,NYS,LVWR,Low Risk
+LKQ Corp.,NAS:LKQ,11.0,Low ESG Risk,736,NAS,LKQ,Low Risk
+Lockheed Martin Corp.,NYS:LMT,28.1,Medium ESG Risk,737,NYS,LMT,Medium Risk
+Loews Corp.,NYS:L,29.1,Medium ESG Risk,737,NYS,L,Medium Risk
+"Longboard Pharmaceuticals, Inc.",NAS:LBPH,21.4,Medium ESG Risk,739,NAS,LBPH,Medium Risk
+Louisiana-Pacific Corp.,NYS:LPX,20.3,Medium ESG Risk,742,NYS,LPX,Medium Risk
+"Lowe's Companies, Inc.",NYS:LOW,11.9,Low ESG Risk,742,NYS,LOW,Low Risk
+"LPL Financial Holdings, Inc.",NAS:LPLA,24.6,Medium ESG Risk,742,NAS,LPLA,Medium Risk
+"LSB Industries, Inc.",NYS:LXU,42.4,Severe ESG Risk,743,NYS,LXU,High Risk
+"LSI Industries, Inc.",NAS:LYTS,26.0,Medium ESG Risk,743,NAS,LYTS,Medium Risk
+"LTC Properties, Inc.",NYS:LTC,19.3,Low ESG Risk,743,NYS,LTC,Low Risk
+"Lucid Group, Inc.",NAS:LCID,23.9,Medium ESG Risk,744,NAS,LCID,Medium Risk
+"lululemon athletica, Inc.",NAS:LULU,14.1,Low ESG Risk,744,NAS,LULU,Low Risk
+"Lumen Technologies, Inc. (Louisiana)",NYS:LUMN,27.9,Medium ESG Risk,744,NYS,LUMN,Medium Risk
+"Lumentum Holdings, Inc.",NAS:LITE,12.0,Low ESG Risk,745,NAS,LITE,Low Risk
+"Luminar Technologies, Inc.",NAS:LAZR,25.0,Medium ESG Risk,745,NAS,LAZR,Medium Risk
+"Luna Innovations, Inc.",NAS:LUNA,22.3,Medium ESG Risk,745,NAS,LUNA,Medium Risk
+Luxfer Holdings Plc,NYS:LXFR,24.5,Medium ESG Risk,746,NYS,LXFR,Medium Risk
+LXP Industrial Trust,NYS:LXP,9.5,Negligible ESG Risk,748,NYS,LXP,Low Risk
+"Lyell Immunopharma, Inc.",NAS:LYEL,25.1,Medium ESG Risk,748,NAS,LYEL,Medium Risk
+"Lyft, Inc.",NAS:LYFT,21.1,Medium ESG Risk,748,NAS,LYFT,Medium Risk
+LyondellBasell Industries NV,NYS:LYB,19.7,Low ESG Risk,748,NYS,LYB,Low Risk
+"M/I Homes, Inc.",NYS:MHO,19.3,Low ESG Risk,749,NYS,MHO,Low Risk
+M&T Bank Corp.,NYS:MTB,25.3,Medium ESG Risk,749,NYS,MTB,Medium Risk
+Macerich Co.,NYS:MAC,12.4,Low ESG Risk,750,NYS,MAC,Low Risk
+"MACOM Technology Solutions Holdings, Inc.",NAS:MTSI,43.3,Severe ESG Risk,751,NAS,MTSI,High Risk
+"MacroGenics, Inc.",NAS:MGNX,26.7,Medium ESG Risk,751,NAS,MGNX,Medium Risk
+"Macy's, Inc.",NYS:M,20.6,Medium ESG Risk,752,NYS,M,Medium Risk
+Madison Square Garden Sports Corp.,NYS:MSGS,17.4,Low ESG Risk,752,NYS,MSGS,Low Risk
+"Madrigal Pharmaceuticals, Inc.",NAS:MDGL,26.2,Medium ESG Risk,752,NAS,MDGL,Medium Risk
+Magic Software Enterprises Ltd.,NAS:MGIC,28.6,Medium ESG Risk,753,NAS,MGIC,Medium Risk
+MagnaChip Semiconductor Corp.,NYS:MX,36.9,High ESG Risk,753,NYS,MX,High Risk
+"Magnite, Inc.",NAS:MGNI,24.9,Medium ESG Risk,753,NAS,MGNI,Medium Risk
+Magnolia Oil & Gas Corp.,NYS:MGY,48.8,Severe ESG Risk,753,NYS,MGY,High Risk
+Maiden Holdings Ltd.,NAS:MHLD,34.2,High ESG Risk,754,NAS,MHLD,High Risk
+Main Street Capital Corp.,NYS:MAIN,28.1,Medium ESG Risk,755,NYS,MAIN,Medium Risk
+"MainStreet Bancshares, Inc.",NAS:MNSB,34.5,High ESG Risk,755,NAS,MNSB,High Risk
+"Malibu Boats, Inc.",NAS:MBUU,21.4,Medium ESG Risk,756,NAS,MBUU,Medium Risk
+"Mammoth Energy Services, Inc.",NAS:TUSK,30.1,High ESG Risk,757,NAS,TUSK,High Risk
+"Manhattan Associates, Inc.",NAS:MANH,17.2,Low ESG Risk,758,NAS,MANH,Low Risk
+MannKind Corp.,NAS:MNKD,26.0,Medium ESG Risk,759,NAS,MNKD,Medium Risk
+"ManpowerGroup, Inc.",NYS:MAN,8.9,Negligible ESG Risk,759,NYS,MAN,Low Risk
+"Marathon Digital Holdings, Inc.",NAS:MARA,29.4,Medium ESG Risk,760,NAS,MARA,Medium Risk
+Marathon Oil Corp.,NYS:MRO,39.4,High ESG Risk,760,NYS,MRO,High Risk
+Marathon Petroleum Corp.,NYS:MPC,30.3,High ESG Risk,760,NYS,MPC,High Risk
+"Maravai Lifesciences Holdings, Inc.",NAS:MRVI,16.1,Low ESG Risk,760,NAS,MRVI,Low Risk
+"Marcus & Millichap, Inc.",NYS:MMI,10.1,Low ESG Risk,761,NYS,MMI,Low Risk
+Marcus Corp.,NYS:MCS,31.6,High ESG Risk,761,NYS,MCS,High Risk
+Marex Group PLC,NAS:MRX,27.1,Medium ESG Risk,761,NAS,MRX,Medium Risk
+Marine Products Corp.,NYS:MPX,12.5,Low ESG Risk,761,NYS,MPX,Low Risk
+"MarineMax, Inc.",NYS:HZO,17.2,Low ESG Risk,762,NYS,HZO,Low Risk
+"Markel Group, Inc.",NYS:MKL,26.6,Medium ESG Risk,762,NYS,MKL,Medium Risk
+"MarketAxess Holdings, Inc.",NAS:MKTX,13.9,Low ESG Risk,762,NAS,MKTX,Low Risk
+"MarketWise, Inc.",NAS:MKTW,23.2,Medium ESG Risk,762,NAS,MKTW,Medium Risk
+"Marqeta, Inc.",NAS:MQ,24.5,Medium ESG Risk,762,NAS,MQ,Medium Risk
+"Marriott International, Inc.",NAS:MAR,19.2,Low ESG Risk,763,NAS,MAR,Low Risk
+Marriott Vacations Worldwide Corp.,NYS:VAC,26.1,Medium ESG Risk,763,NYS,VAC,Medium Risk
+"Marsh & McLennan Cos., Inc.",NYS:MMC,20.0,Low ESG Risk,763,NYS,MMC,Low Risk
+Marten Transport Ltd.,NAS:MRTN,19.1,Low ESG Risk,763,NAS,MRTN,Low Risk
+"Martin Marietta Materials, Inc.",NYS:MLM,27.5,Medium ESG Risk,764,NYS,MLM,Medium Risk
+Martin Midstream Partners LP,NAS:MMLP,47.3,Severe ESG Risk,764,NAS,MMLP,High Risk
+"Marvell Technology, Inc.",NAS:MRVL,16.0,Low ESG Risk,765,NAS,MRVL,Low Risk
+Masco Corp.,NYS:MAS,22.3,Medium ESG Risk,765,NYS,MAS,Medium Risk
+Masimo Corp.,NAS:MASI,31.3,High ESG Risk,765,NAS,MASI,High Risk
+"MasTec, Inc.",NYS:MTZ,38.8,High ESG Risk,766,NYS,MTZ,High Risk
+"Mastercard, Inc.",NYS:MA,16.1,Low ESG Risk,766,NYS,MA,Low Risk
+"Mastercraft Boat Holdings, Inc.",NAS:MCFT,29.2,Medium ESG Risk,766,NAS,MCFT,Medium Risk
+Matador Resources Co.,NYS:MTDR,49.3,Severe ESG Risk,767,NYS,MTDR,High Risk
+"Match Group, Inc.",NAS:MTCH,16.7,Low ESG Risk,767,NAS,MTCH,Low Risk
+Materion Corp.,NYS:MTRN,42.5,Severe ESG Risk,767,NYS,MTRN,High Risk
+"Mativ Holdings, Inc.",NYS:MATV,22.0,Medium ESG Risk,767,NYS,MATV,Medium Risk
+"Matson, Inc.",NYS:MATX,19.9,Low ESG Risk,767,NYS,MATX,Low Risk
+"Mattel, Inc.",NAS:MAT,14.9,Low ESG Risk,768,NAS,MAT,Low Risk
+"Matterport, Inc.",NAS:MTTR,22.9,Medium ESG Risk,768,NAS,MTTR,Medium Risk
+Matthews International Corp.,NAS:MATW,20.0,Low ESG Risk,768,NAS,MATW,Low Risk
+"Maui Land & Pineapple Co., Inc.",NYS:MLP,22.9,Medium ESG Risk,768,NYS,MLP,Medium Risk
+"MaxCyte, Inc.",NAS:MXCT,27.5,Medium ESG Risk,769,NAS,MXCT,Medium Risk
+Maxeon Solar Technologies Ltd.,NAS:MAXN,27.9,Medium ESG Risk,769,NAS,MAXN,Medium Risk
+"MAXIMUS, Inc.",NYS:MMS,15.4,Low ESG Risk,769,NYS,MMS,Low Risk
+"MaxLinear, Inc.",NAS:MXL,22.9,Medium ESG Risk,770,NAS,MXL,Medium Risk
+"Mayville Engineering Co., Inc.",NYS:MEC,27.9,Medium ESG Risk,770,NYS,MEC,Medium Risk
+"MBIA, Inc.",NYS:MBI,33.3,High ESG Risk,771,NYS,MBI,High Risk
+"McCormick & Co., Inc.",NYS:MKC,25.8,Medium ESG Risk,772,NYS,MKC,Medium Risk
+McDonald's Corp.,NYS:MCD,25.9,Medium ESG Risk,772,NYS,MCD,Medium Risk
+McGrath RentCorp,NAS:MGRC,18.7,Low ESG Risk,772,NAS,MGRC,Low Risk
+McKesson Corp.,NYS:MCK,13.2,Low ESG Risk,772,NYS,MCK,Low Risk
+"MDU Resources Group, Inc.",NYS:MDU,44.4,Severe ESG Risk,773,NYS,MDU,High Risk
+"MediaAlpha, Inc.",NYS:MAX,20.7,Medium ESG Risk,774,NYS,MAX,Medium Risk
+"Medical Properties Trust, Inc.",NYS:MPW,17.8,Low ESG Risk,775,NYS,MPW,Low Risk
+"Medifast, Inc.",NYS:MED,32.7,High ESG Risk,775,NYS,MED,High Risk
+"Medpace Holdings, Inc.",NAS:MEDP,17.2,Low ESG Risk,776,NAS,MEDP,Low Risk
+Medtronic Plc,NYS:MDT,22.2,Medium ESG Risk,776,NYS,MDT,Medium Risk
+MeiraGTx Holdings Plc,NAS:MGTX,28.9,Medium ESG Risk,779,NAS,MGTX,Medium Risk
+Melco Resorts & Entertainment Ltd.,NAS:MLCO,24.1,Medium ESG Risk,779,NAS,MLCO,Medium Risk
+"MercadoLibre, Inc.",NAS:MELI,22.5,Medium ESG Risk,780,NAS,MELI,Medium Risk
+Mercantile Bank Corp.,NAS:MBWM,27.9,Medium ESG Risk,780,NAS,MBWM,Medium Risk
