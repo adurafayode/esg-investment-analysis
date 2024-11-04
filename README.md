@@ -20,11 +20,10 @@ A comprehensive pipeline for analyzing portfolio performance using ESG (Environm
 │   │   ├── sustainalytics_scraper.py
 │   │   ├── esg_data_processor.py
 │   │   ├── databento_preparation.py
-│   │   └── README.md
+│   │   └── README.md     # Detailed pipeline documentation
 │   │
 │   └── analysis/         # Portfolio analysis
-│       ├── portfolio_performance.py
-│       └── README.md
+│       └── portfolio_performance.py
 │
 ├── data/
 │   ├── raw/             # Raw scraped ESG data
@@ -33,13 +32,13 @@ A comprehensive pipeline for analyzing portfolio performance using ESG (Environm
 ├── output/
 │   └── figures/         # Generated plots and visualizations
 │
-└── .gitignore         # Ignored files and directories
+└── .gitignore
 ```
 
-## Getting Started
+## Quick Start
 
 1. **Environment Setup**
-```
+```bash
 python -m venv venv
 source venv/bin/activate  # or `venv\Scripts\activate` on Windows
 pip install -r requirements.txt
@@ -51,7 +50,7 @@ export DATABENTO_API_KEY="your-key-here"
 ```
 
 3. **Run Data Pipeline**
-```
+```bash
 # Scrape ESG data
 python src/helpers/sustainalytics_scraper.py --full
 
@@ -63,63 +62,50 @@ python src/helpers/databento_preparation.py
 ```
 
 4. **Run Analysis**
-```
+```bash
 python src/analysis/portfolio_performance.py
 ```
 
-## Key Features
+## Analysis Methodology
 
-- **Robust Data Collection**
-  - Automated ESG ratings scraping
-  - Smart pagination and retry logic
-  - Checkpoint saving
-  - Comprehensive error handling
+1. **Portfolio Construction**
+   - Filter stocks into long/short portfolios based on ESG risk
+   - Clean returns data (remove stocks with >10% missing values)
+   - Weight portfolios based on ESG scores (inverse weighting for long)
+   - Calculate daily strategy returns (long minus short)
 
-- **Data Processing**
-  - Exchange/ticker separation
-  - Risk categorization
-  - Major exchange filtering
-  - Missing data handling
-
-- **Portfolio Analysis**
-  - ESG-weighted portfolio construction
-  - Long-short strategy implementation
-  - Performance metrics calculation
-  - Risk analysis visualization
+2. **Performance Analysis**
+   - Generate visualizations:
+     - Strategy component returns: Long and short portfolio value growth
+     - Returns distribution: Distribution of daily strategy returns
+     - Risk category distribution: ESG risk levels across companies in the scraped data
 
 ## Results
 
 The analysis generates several key outputs:
 
-- **Performance Metrics**
-  - Total Return
-  - Period Return (21 months)
-  - Volatility
-  - Sharpe Ratio
-
-- **Visualizations**
-  - Strategy component returns
-  - Returns distribution
-  - Risk category distribution
+- **Performance Metrics** in terminal output
+- **Visualizations** in `output/figures/`:
+  - `strategy_components.png`: Portfolio value growth
+  - `returns_distribution.png`: Strategy returns distribution
 
 ## Dependencies
 
+Core requirements:
 - pandas
 - numpy
-- selenium
-- beautifulsoup4
 - matplotlib
 - seaborn
 - databento
-- requests
-- typing
+- selenium
+- beautifulsoup4
 
-## Notes
+Full list in `requirements.txt`
 
-- ESG data is scraped from publicly available Sustainalytics ratings (currently 780/1393 pages)
-- Market data requires a valid Databento API key
-- Default analysis period is 21 months
-- Strategy assumes equal capital allocation to long and short portfolios
+## Documentation
+
+- [Data Pipeline Documentation](src/helpers/README.md) - Detailed guide for data collection and processing
+- [API Documentation](https://databento.com/docs) - Databento API reference
 
 ## License
 

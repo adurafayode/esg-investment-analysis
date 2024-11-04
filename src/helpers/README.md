@@ -17,7 +17,6 @@ This pipeline consists of three main components:
 Robust web scraper for Sustainalytics ESG ratings using Selenium and BeautifulSoup.
 
 **Key Features:**
-
 - Headless Chrome automation
 - Smart pagination with retry logic
 - Automatic checkpoint saving
@@ -25,13 +24,11 @@ Robust web scraper for Sustainalytics ESG ratings using Selenium and BeautifulSo
 - Comprehensive error handling
 
 **Usage:**
-
+```bash
 # Test mode (2 pages)
-```
 python src/helpers/sustainalytics_scraper.py
-```
+
 # Full scrape
-```
 python src/helpers/sustainalytics_scraper.py --full
 ```
 
@@ -42,13 +39,12 @@ Processes and cleans raw ESG data for portfolio analysis.
 **Key Features:**
 - Exchange/ticker separation
 - Risk categorization (High/Medium/Low)
-- Major exchange filtering
+- Major exchange filtering (NYSE/NASDAQ)
 - Distribution analysis
 - Visualization generation
 
 **Usage:**
-
-```
+```bash
 python src/helpers/esg_data_processor.py
 ```
 
@@ -60,61 +56,56 @@ Prepares and fetches stock price data from Databento API.
 - Symbol organization by risk category
 - Automatic data caching
 - Configurable date ranges
-- Error handling and validation
 - Environment variable support
 
 **Usage:**
 
-1. Set your Databento API key in one of two ways:
-
-   a. As an environment variable (recommended):
-   ```
-   export DATABENTO_API_KEY="your-key-here"
-   ```
-
-   b. Or directly in the script:
-   ```
-   API_KEY = "YOUR_DATABENTO_API_KEY_HERE"  # Replace with your actual key
-   ```
+1. Set your Databento API key:
+```bash
+export DATABENTO_API_KEY="your-key-here"
+```
 
 2. Run the script:
-```
+```bash
 python src/helpers/databento_preparation.py
 ```
 
 ## Data Flow
 
 1. `sustainalytics_scraper.py` → `data/raw/esg_ratings_final.csv`
+   - Raw ESG ratings data
+   - Includes company names, tickers, scores, and risk levels
+
 2. `esg_data_processor.py` → `data/processed/clean_esg_data.csv`
+   - Cleaned and categorized ESG data
+   - Separated exchange/ticker information
+   - Risk categorization applied
+
 3. `databento_preparation.py` → `data/processed/stock_data.csv`
-
-## Dependencies
-- pandas
-- selenium
-- beautifulsoup4
-- matplotlib
-- databento
-- requests
-- typing
-
-## Directory Structure
-
-```
-src/helpers/
-  ├── __init__.py
-  ├── sustainalytics_scraper.py
-  ├── esg_data_processor.py
-  ├── databento_preparation.py
-  └── README.md
-```
+   - Daily stock price data
+   - OHLCV format
+   - Filtered for analysis period
 
 ## Error Handling
 
-All modules include:
-- Automatic directory creation
-- Data validation checks
-- Descriptive error messages
-- Graceful failure modes
+Each module includes robust error handling:
+
+- **sustainalytics_scraper.py**:
+  - Automatic retry on navigation failures
+  - Checkpoint saving on errors
+  - Page verification checks
+  - Exception logging
+
+- **esg_data_processor.py**:
+  - Data validation checks
+  - Missing data handling
+  - Exchange filtering validation
+
+- **databento_preparation.py**:
+  - API error handling
+  - Data validation
+  - Cache management
+  - Environment variable checks
 
 ## Output Files
 
@@ -123,4 +114,15 @@ All modules include:
 - `data/processed/clean_esg_data.csv`: Processed ESG data
 - `data/processed/stock_data.csv`: Stock price data
 - `output/figures/risk_distribution.png`: Risk analysis plots
+
+## Dependencies
+
+See `requirements.txt` in the root directory for full list of dependencies.
+
+Core requirements:
+- pandas
+- selenium
+- beautifulsoup4
+- matplotlib
+- databento
 
