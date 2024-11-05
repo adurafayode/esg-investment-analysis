@@ -163,9 +163,6 @@ strategy_returns = pd.DataFrame({
     'Long-Short': long_portfolio_value['portfolio_value'] - short_portfolio_value['portfolio_value']
 })
 
-print(strategy_returns.head(10))
-print(strategy_returns.tail(10))
-
 # Plotting configurations
 PLOT_STYLE = "darkgrid"
 PLOT_DIMENSIONS = {
